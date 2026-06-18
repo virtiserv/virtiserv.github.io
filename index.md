@@ -112,7 +112,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://www.nasa.gov/wp-content/uploads/2026/05/e2a-pia26774-surface-zj4lalqo.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
