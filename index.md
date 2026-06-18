@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+
+![https://science.nasa.gov/wp-content/uploads/2024/03/pia04304-mars.jpg @nasa-pds im looking for a transparent mars glove i found on @internetarchive](https://science.nasa.gov/wp-content/uploads/2024/03/pia04304-mars.jpg)
 @whitehouse [jpeg2000](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088500_088599/ESP_088567_2055_ESP_088145_2055/ESP_088567_2055_ESP_088145_2055_RED.JP2)
 [hirise-pds.lpl.arizona.edu/ESP_088567_2055_ESP_088145_2055_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088500_088599/ESP_088567_2055_ESP_088145_2055/ESP_088567_2055_ESP_088145_2055_RED.browse.png)
 <img  alt="image" src="https://github.com/user-attachments/assets/ee8b0947-4901-4718-8e36-3dd61290425a" />
