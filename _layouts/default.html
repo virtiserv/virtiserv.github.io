@@ -35,6 +35,16 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
+           <div class="box">
+
+   {% for post in site.posts %}
+             
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+          
+             
+  {% endfor %}
+           
+ </div> 
           {{ content }}
         </section>
 
