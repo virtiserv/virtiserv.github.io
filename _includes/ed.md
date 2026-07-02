@@ -17,6 +17,7 @@ as far as blogging goes, if you run `cat` + `RegEx` it will print everything nea
 
 [BlackGirlsCode](#BlackGirlsCode) 
 [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
+
 ### Ed example as found in
 `The Unix Programming Environment`
 
@@ -42,26 +43,14 @@ q                          $                          ^_^]The character counts f
 
 ```
 [DataMAnagement](https://daac.ornl.gov/datamanagement/)
-<div class="tupperware">
-<video width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-091735.mp4" type="video/mp4">	 
-</video> 
 
-<video width="auto" height="400px" controls> 
-	<source src="https://ia600208.us.archive.org/33/items/mondaycmd/screen-20250303-092102.mp4" type="video/mp4">	 
-</video> 
 
-<video width="auto" height="400px" controls> 
-	<source src="https://ia800208.us.archive.org/33/items/mondaycmd/screen-20250303-094856.mp4" type="video/mp4">	 
-</video> 
-</div>
 
 [xScreensaver on Android](https://x.com/BubbleGumPop626/status/1743038270815236483)
 
-{% include tar.md %}
-{% include bash.md %}
 
 [<img src="https://ia800208.us.archive.org/33/items/mondaycmd/mondaycmd2.png" width=auto height=auto alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](hhttps://ia800208.us.archive.org/33/items/mondaycmd/mondaycmd2.png)
+
 [<img src="https://archive.org/download/mondaycmd/mondaycmd.png" alt="Rashard commandline horizontal screenshot merge using imagemagick"/>](https://archive.org/download/mondaycmd/mondaycmd.png)
 
 ![GNU](https://upload.wikimedia.org/wikipedia/commons/5/53/GNU_and_Tux.svg)
@@ -86,7 +75,6 @@ q                          $                          ^_^]The character counts f
 
 [resized](https://red-route.org/code/image-layout-size-calculator)
 
-
-![RiCoTHAKA/LinuXKerneL](https://pbs.twimg.com/media/GjOh-70aQAMkraB?format=jpg&name=large)
 [LinuX KErnel Repo](https://x.com/thakasartu/status/1888030971414594018) [ricoThaka/linux/tree/master](https://github.com/ricoThaka/linux/tree/master)
-# [./HoleToAnotherUniverse/linux](https://ricothaka.github.io/linux/)
+
+[./HoleToAnotherUniverse/linux](https://rashardiman.github.io/linux/)
