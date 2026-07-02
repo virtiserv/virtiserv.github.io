@@ -302,19 +302,17 @@ video {
   border-radius: 0px;
   display: block;
   margin-block: 10px 10px;
-  background: rgb(217, 4, 121);
-  background: linear-gradient(
-    0deg,
-    #595959 25%,
-    #262626 0,
-    #262626 50%,
-    #595959 0,
-    #595959 75%,
-    #262626 0
-  );
-  background-size: 280.4px 280.4px;
+  background: linear-gradient(45deg,
+        #08a0e9 25%,
+        #e8f5fd 0,
+        #e8f5fd 50%,
+        #08a0e9 0,
+        #08a0e9 75%,
+        #e8f5fd 0);
+    background-size: 80.4px 80.4px;
+    background-attachment: fixed;
 
-  transition: 3s cubic-bezier(0.25, 0.1, 0.2, 3);
+  transition: 3s 4s cubic-bezier(.25,.1,.2,3);
 }
 
 embed {
