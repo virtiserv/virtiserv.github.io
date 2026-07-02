@@ -10,7 +10,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [Writing mathematical expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) `Use Markdown to display mathematical expressions on GitHub` - [read](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 [flickr.com/photos/nasacommons](https://www.flickr.com/photos/nasacommons/)
-@nasa-jpl @nasa-pds [@la-county-isd](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [RepKarenBass](https://www.congress.gov/member/karen-bass/B001270) `The International Space Station (ISS) and the Administration’s Proposal to End Direct NASA Funding by 2025 ` CRS Product Number:	IF10828 - [link](https://www.congress.gov/crs-product/IF10828) [virtiserv.github.io](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
+@nasa-jpl @nasa-pds [@la-county-isd](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [RepKarenBass](https://www.congress.gov/member/karen-bass/B001270) `The International Space Station (ISS) and the Administration’s Proposal to End Direct NASA Funding by 2025 ` CRS Product Number:	IF10828 - [link](https://www.congress.gov/crs-product/IF10828) [virtiserv.github.io](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2) // [en.wikibooks.org/wiki/LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 [MathJax @howard-university-web-services @blackgirlscode](https://docs.mathjax.org/en/latest/output/index.html)
 
