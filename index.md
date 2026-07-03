@@ -51,7 +51,7 @@ github.com/mathjax/MathJax-docs _MathJax documentation. Beautiful math in all br
 
 <p>\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]</p>
 
-[more on virtiserv/computing](virtiserv.github.io/computing)
+[more on virtiserv/computing](https://ra5hard.github.io/_virtiserv/2026/06/30/computing.html)
 
 
 JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH) // [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf) // 
