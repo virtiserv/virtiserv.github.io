@@ -3,43 +3,12 @@ layout: default
 ---
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
 
-<pre>
-
-                      ______
-                     /|      ;
-      HAPPY        ,'/       |   _______.._    __          _,.-''--,
-              _,-'`.'        | /|        | |/;'  |      .'` /      |
-             |::_.'  /|      || .-,    .-| |:|   |     /  ::|  ,---'
-           ,_.-'  ._'_|      '-/ /|    |:| |_'   |     | _ _|  |__
-       _,-'|                   |':|    | |  _.   |  _.-'` |       |
-     |`  ::|                   || |    | | |.|   | |  _,._|_      |
-     |    :, _____            _;| |    | | |:|   |.-:''_`'. |   .-'
-     |  _,-'`  _.-'          |.'._|____|_|_|_|__ | / .' `\ \|   |
-     |_:.___,-'  |           |/|                `;:| |:. | ;|   |
-           |:::  |           | |'                |:\  '-'  /|   |
-           |:    |           |_.__________.......;__:..__.'-'.--------.
-           |___._|___...,---='. .-----.-'""";-;"'   ' '\'.::/        /
-          ."" ""|       |     |:'     |     |  \        \::/        /
-          |     |       |     ||      |     |   `.       `'        /
-          |     |       |     ||      |     |     \               ,
-          |     |       |     |;      |     |\  :::`.            /
-   ___.,__|_ :::|       |     '/      |     | \  ::::\          /
- |`'--.-''  | ::|       |             |     |_|_____  |        |
- |    |      \_,'       |             |             `.'        |
- |    |                 |             |              ||        |
- ;    |                 |             |              ||        |
- '    ;                ;'             |              |;        |
-  \ :::\              /::\           /|              ||        |mx||/
-||/'. ::;       _\\||-''--`\|.____,.'-\\|..\|/"""----""''''\\||/''||
-  \\|`'--`'---'`  -.___||/                     --''.___,|/
-
-</pre>
-
-
-## Rashard Kelly 
+## ReportCompiling by: Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+@nasa-jpl [MrTrump on and off it seems @nasa-pds @blackgirlscode] [@whitehouse .gov/live JULy3rd](https://www.whitehouse.gov/live/) @howard-university-web-services
+<img alt="image" src="https://github.com/user-attachments/assets/96174447-7262-4514-889d-e12b6b620d20" />
 
 ## The MK Ultra Revelations They Tried to Bury
 _The Lana Rundown_
