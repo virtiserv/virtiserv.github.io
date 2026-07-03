@@ -8,7 +8,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ## The MK Ultra Revelations They Tried to Bury
 _The Lana Rundown_
-[The CIA and the Behavioral Sciences: Mind Control, Drug Experiments, and MKULTRA](https://libguides.law.uiowa.edu/az/the-cia-and-the-behavioral-sciences-mind-control-drug-experiments-and-mkultra)
+[The CIA and the Behavioral Sciences: Mind Control, Drug Experiments, and MKULTRA](https://libguides.law.uiowa.edu/az/the-cia-and-the-behavioral-sciences-mind-control-drug-experiments-and-mkultra) / [hks.harvard.edu/sites/default/files/2025-01/24_Meier_02.pdf](https://www.hks.harvard.edu/sites/default/files/2025-01/24_Meier_02.pdf)
 @cia [cia.gov/readingroom/](https://www.cia.gov/readingroom/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEOzJtIEgpw?si=EGZRUEh8Mh5q9HhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
