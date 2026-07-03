@@ -12,6 +12,9 @@ _The Lana Rundown_
 @cia [cia.gov/readingroom/](https://www.cia.gov/readingroom/) @nasa-openscapes [firms.modaps.eosdis.nasa.gov/map/ - Static Thermal Anomolies @CityOfLosAngeles @La-County-iSd](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_goes_Him9,fires_goes_Met10,fires_goes_Met9,fires_goes_g18,fires_goes_g18frp,fires_goes_g19,fires_goes_g19frp,fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,country-outline,earth;@-117.1,33.0,8.4z)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEOzJtIEgpw?si=EGZRUEh8Mh5q9HhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+@nbcnews [@cia .gov/readingroom/search/site/mkultra @nasa-jpl @nasa-pds @fbicyber @blackgirlscode](https://www.cia.gov/readingroom/search/site/mkultra)
+<img alt="image" src="https://github.com/user-attachments/assets/f9541b39-efff-439a-8d29-f343bc2fb9b4" />
+
 ![https://oversight.house.gov/wp-content/themes/ogr/img/logo-main-oversight.svg](https://oversight.house.gov/wp-content/themes/ogr/img/logo-main-oversight.svg)
 
 # HTML
