@@ -6,6 +6,15 @@ layout: default
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+# HTML
+[ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
+<img width="29" height="60" alt="Screenshot 2026-07-03 120645" src="https://github.com/user-attachments/assets/b84a10d6-2356-453b-b88e-016a2dbfdea5" />
+<img   alt="Screenshot 2026-07-03 120820" src="https://github.com/user-attachments/assets/f2f9c5bb-417b-4d58-b42e-6a6edb4216b9" />
+
+
+<img width="840" height="179" alt="image" src="https://github.com/user-attachments/assets/c4ebfe86-81ec-41b1-b32b-675adfdc509c" />
+
 # Mars 👨🏾‍🚀🪸
 @blackgirlscode @CityOfLosAngeles _Pasadena_
 
