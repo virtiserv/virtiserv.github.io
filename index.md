@@ -6,6 +6,8 @@ layout: default
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+# Roots 👨🏾‍🚀
+<iframe src="https://archive.org/embed/roots-1977-complete-original" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # KarenBass Cameos at [B.E.T](bet.com) Awards
 @blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
