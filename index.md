@@ -12,6 +12,8 @@ _The Lana Rundown_
 @cia [cia.gov/readingroom/](https://www.cia.gov/readingroom/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEOzJtIEgpw?si=EGZRUEh8Mh5q9HhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![https://oversight.house.gov/wp-content/themes/ogr/img/logo-main-oversight.svg](https://oversight.house.gov/wp-content/themes/ogr/img/logo-main-oversight.svg)
+
 # HTML
 [HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
 [ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
