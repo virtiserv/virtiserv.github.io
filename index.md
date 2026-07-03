@@ -7,8 +7,38 @@ layout: default
 ## ReportCompiling by: Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
-
 [Queen Latifah Opens Up About a Private Battle - Red Table Talk @foratlanta](https://www.youtube.com/watch?v=vgn4y83wXJg)
+
+Writing Mathematics for MathJax        
+[@blackgirlscode @nasa-pds](https://github.com/mathjax/MathJax-demos-web)
+github.com/mathjax/MathJax-docs _MathJax documentation. Beautiful math in all browsers. Beautifully documented._ @la-county-isd 
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>x</mi> <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>−</mo>
+        <mi>b</mi>
+        <mo>±</mo>
+        <msqrt>
+          <msup><mi>b</mi><mn>2</mn></msup>
+          <mo>−</mo>
+          <mn>4</mn><mi>a</mi><mi>c</mi>
+        </msqrt>
+      </mrow>
+      <mrow> <mn>2</mn><mi>a</mi> </mrow>
+    </mfrac>
+  </mrow>
+  <mtext>.</mtext>
+</math>
+
+
+
+
+JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH) // [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf) // 
+@la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
+
 @nasa-jpl [MrTrump on and off it seems @nasa-pds @blackgirlscode 730 he on @nasa-jpl idk what time zone] [@whitehouse .gov/live JULy3rd](https://www.whitehouse.gov/live/) [@howard-university-web-services](https://www.facebook.com/GrandHustleBET/)
 <img alt="image" src="https://github.com/user-attachments/assets/96174447-7262-4514-889d-e12b6b620d20" />
 
