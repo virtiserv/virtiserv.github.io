@@ -26,6 +26,7 @@ The camera was pointing toward SATURN, and the image was taken using the RED and
 
 ![@nasa-pds pds.nasa.gov/images/PDS_OrgChart.jpg](https://pds.nasa.gov/images/PDS_OrgChart.jpg)
 
+<img alt="image" src="https://github.com/user-attachments/assets/5ca8f31b-567a-465f-9aa2-43d01d3f3904" />
 
 ### Git graph [experimental - <a href="https://mermaid.live/edit#pako:eNqNkMFugzAMhl8F-VyVAR1tOW_aA-zKxSSGRCMJCk6lCvHuNZPKZdM0n-zf3_8r8QIqaIIGMqnB8kfEybQ--y4VnLP8-9RF9Mpkmm40hmlnDKmvkPiH_kfS7nFo_VN0FAf6XwocQGgxa_nGsm1bYEOOWmik1dRjGrmF1q-Cpkkj07u2HCI0PY4zHQATh8-7V9BwTPSE3iwOEd1OjQE1iWkBvk_bzQY7s0Sq4Hs7bHqKo8iGeZqbPN_WR7mpSd1RHpvPVhuMbG7XOq_L-oJlRfW5wteq0qorrpe-PBW9Pr8UJcK6rg-BLYPQ">live editor</a>]
 
