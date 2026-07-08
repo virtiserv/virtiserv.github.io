@@ -13,6 +13,7 @@ MRO JUNO iSS CASSiNi [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [
 
 <img  alt="r9953107" src="https://github.com/user-attachments/assets/ea36f9e9-a182-441c-954b-72bbd1215b65" />
 <img  alt="r0131547" src="https://github.com/user-attachments/assets/b249f2b7-14d3-4c99-98b4-14c97fb77bae" />
+<img width="256" height="248" alt="image" src="https://github.com/user-attachments/assets/f41bf3c1-590e-4b49-8ee4-235e82c55000" />
 
 @nasa-jpl i am using some of our materials at the billie jean branch. I forgot his name but the guy that assigned me satelitte firefighting in mars garage said just read my book. Its a JehovahWitness slam out here and i found something useful! [https://pds-imaging.jpl.nasa.gov/tools/atlas/cart](https://pds-imaging.jpl.nasa.gov/tools/atlas/cart) The Sourjner Rover, its timely since we got the lunar rover going up and the new mars rover coming together im downloading the bundle of images . . . keep an eye on @nasaEarthData @podaac bc some urls are not being preserved and we are losing functionality because even our finest aer on cellphones for most of their computing time these days [`MPF` ___**The Mars Pathfinder mission___**_image archive](https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/archive/atlas_zip_download.zip) // [Wiki](https://en.wikipedia.org/wiki/Mars_Pathfinder) // [@nasa-jpl mission page](https://www.jpl.nasa.gov/missions/mars-pathfinder-sojourner-rover/) // [@usgs overview](https://www.usgs.gov/publications/overview-mars-pathfinder-mission-launch-through-landing-surface-operations-data-sets) // [planetary.org/space-missions/pathfinder](https://www.planetary.org/space-missions/pathfinder) // [Space.cOm vid](https://www.dailymotion.com/video/xalez42) // [apod.nasa.gov/apod/ap260704 `Mars Pathfinder, JPL, NASA`](https://apod.nasa.gov/apod/ap260704.html)
 
@@ -358,6 +359,7 @@ _The Lana Rundown_
 
 [MathJax @howard-university-web-services @blackgirlscode](https://docs.mathjax.org/en/latest/output/index.html)
 
+![https://spaceplace.nasa.gov/mars-sojourner/en/sojourner-movie.en.gif](https://spaceplace.nasa.gov/mars-sojourner/en/sojourner-movie.en.gif)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
 
