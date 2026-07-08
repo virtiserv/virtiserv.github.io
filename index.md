@@ -7,8 +7,13 @@ layout: default
 ## ReportCompiling by: Rashard Kelly 
 MRO JUNO iSS CASSiNi [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+# **The Mars Pathfinder mission___**
+<img  alt="r9953107" src="https://github.com/user-attachments/assets/ea36f9e9-a182-441c-954b-72bbd1215b65" />
+<img  alt="r0131547" src="https://github.com/user-attachments/assets/b249f2b7-14d3-4c99-98b4-14c97fb77bae" />
 
 @nasa-jpl i am using some of our materials at the billie jean branch. I forgot his name but the guy that assigned me satelitte firefighting in mars garage said just read my book. Its a JehovahWitness slam out here and i found something useful! [https://pds-imaging.jpl.nasa.gov/tools/atlas/cart](https://pds-imaging.jpl.nasa.gov/tools/atlas/cart) The Sourjner Rover, its timely since we got the lunar rover going up and the new mars rover coming together im downloading the bundle of images . . . keep an eye on @nasaEarthData @podaac bc some urls are not being preserved and we are losing functionality because even our finest aer on cellphones for most of their computing time these days [`MPF` ___**The Mars Pathfinder mission___**_image archive](https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/archive/atlas_zip_download.zip) // [Wiki](https://en.wikipedia.org/wiki/Mars_Pathfinder) // [@nasa-jpl mission page](https://www.jpl.nasa.gov/missions/mars-pathfinder-sojourner-rover/) // [@usgs overview](https://www.usgs.gov/publications/overview-mars-pathfinder-mission-launch-through-landing-surface-operations-data-sets) // [planetary.org/space-missions/pathfinder](https://www.planetary.org/space-missions/pathfinder) // [Space.cOm vid](https://www.dailymotion.com/video/xalez42) // [apod.nasa.gov/apod/ap260704 `Mars Pathfinder, JPL, NASA`](https://apod.nasa.gov/apod/ap260704.html)
+
+<img alt="r9599493" src="https://github.com/user-attachments/assets/01123bf0-7926-4980-9cd5-88892b0766e9" />
 
 ![https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg](https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg)
 
