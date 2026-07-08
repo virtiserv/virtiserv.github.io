@@ -8,6 +8,9 @@ layout: default
 MRO JUNO iSS CASSiNi [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 # **The Mars Pathfinder mission___**
+[spaceplace.nasa.gov/mars-sojourner/en/ @nasa](https://spaceplace.nasa.gov/mars-sojourner/en/)
+<img  alt="image" src="https://github.com/user-attachments/assets/943ef478-8f6b-4990-8747-76a79020986e" />
+
 <img  alt="r9953107" src="https://github.com/user-attachments/assets/ea36f9e9-a182-441c-954b-72bbd1215b65" />
 <img  alt="r0131547" src="https://github.com/user-attachments/assets/b249f2b7-14d3-4c99-98b4-14c97fb77bae" />
 
