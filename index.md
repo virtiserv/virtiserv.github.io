@@ -4,6 +4,9 @@ layout: default
 
 
 
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/nasahqphoto/44248795710/in/photostream/lightbox/" title="Mars InSight Landing (NHQ201811260100)"><img src="https://live.staticflickr.com/4907/44248795710_aa1bcc11c8_3k.jpg"   alt=" @nasa-jpl @nasa-pds Mars InSight Landing (NHQ201811260100)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 # KarenBass Cameos at [B.E.T](bet.com) Awards
 @blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
 
@@ -12,6 +15,10 @@ layout: default
 
 @newshour @foxnews @nbcnews @cbs-news-data /[Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
 
+
+
+
+[mapmaking1961](https://youtu.be/L7SJVBX7jxo?si=WtCk-MC2FB-v-f0C)
 
 @nbcnews @nasa-jpl @nasa-pds @blackgirlscode . . . i think [ChloeBailey](https://www.siriusxm.com/blog/chloe-bailey-halle-bailey-call-her-daddy) and [Lana Harris](https://www.businesswire.com/news/home/20251223985439/en/ADDING-MULTIMEDIA-MediaCos-HOT-97-TV-Launches-Daily-Live-News-Show-for-the-First-Time-Dropping-January-2026) are the same person or they have been playing me for 7 years and [Chloe x Halle](https://www.grammy.com/artists/chloe-x-halle/243636/) and may be fraternal twins @LAcountyDPH @La-County-iSD @CityOfLosAngeles [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) [@LACMTA HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/)
 [ricothakarashard.tumblr.com/post/822139829959737345/tinymajormama-blog-please-tell-her-i-am](https://ricothakarashard.tumblr.com/post/822139829959737345/tinymajormama-blog-please-tell-her-i-am)
