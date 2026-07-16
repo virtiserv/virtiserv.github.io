@@ -2,11 +2,36 @@
 layout: default
 ---
 
-[viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
-[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS) + [_PressKit_@nasa-jpl @nbcnews @disney ](https://www.jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf)
+# "Operation Sunflower" saves over 100 exploited children
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8qSNcnVyOY?si=26xcSW_Tybbt0M2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################VirtiservLatrice#####
+{% endhighlight %}
+
+
+# "Enjoy the Show—Safely:" 
+## How does a field office protect a city during a special event?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmdHQu4bxGY?si=8jCMS1Oqf4aVBARR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# MArs Vids
+### A NEW VIEW OF MARS NASA MARINER & VIKING MISSION PROMOTIONAL FILM  
+[Watch](https://archive.org/details/59074ANewViewOfMars) / [Download](https://archive.org/download/59074ANewViewOfMars/59074%20A%20New%20View%20Of%20Mars.mp4)
+This 1970's NASA movie shows the results of the Mariner 9 mission -- which produced hundreds of photographs of the planet's surface, creating a new understanding of the planet's geography and atmosphere. 
+
+### NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584
+[Watch](https://archive.org/details/48584NASAViking) / [Download](https://archive.org/download/48584NASAViking/48584%20NASA%20Viking.mp4)
+
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png)
 
+
+[viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
+[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS) + [_PressKit_@nasa-jpl @nbcnews @disney ](https://www.jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf)
 
 
 # KarenBass Cameos at [B.E.T](bet.com) Awards
