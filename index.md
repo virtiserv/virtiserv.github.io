@@ -3,6 +3,12 @@ layout: default
 ---
 
 
+[firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-121.7,41.4,8.1z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-121.7,41.4,8.1z)
+@blackgirlscode idk who in oregon, my cousin was there for a long time trying to link so i know someone is upthere and would find this map useful @fbicyber @nasa-giss \
+
+<img width="625" height="336" alt="nasa-worldview-2026 JUL 10-to-2026 JUL 15" src="https://github.com/user-attachments/assets/8d636e27-a5ea-424f-ade3-51f58f6554ff" />
+<img   alt="image" src="https://github.com/user-attachments/assets/df28f4ad-7628-444b-923f-2407e5af6b85" />
+
 
 
 ## BIA - FALLBACK
