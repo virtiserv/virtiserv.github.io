@@ -6,7 +6,7 @@ image: mermaid.webp
 mathjax: true
 ---
 
-<img width="1079" height="1785" alt="2026-07-15-00_00_2026-07-15-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/dc23e5c2-7e28-41e5-80aa-d361295dbf46" />
+<img alt="2026-07-15-00_00_2026-07-15-23_59_Sentinel-2_L2A_True_color @la-county-isd @cityoflosangeles @nasa-jpl @nasa @boeing @lmco" src="https://github.com/user-attachments/assets/dc23e5c2-7e28-41e5-80aa-d361295dbf46" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/4f627ee3-ccbf-4609-a21d-3ed5a51617ba" />
