@@ -2,6 +2,16 @@
 layout: default
 ---
 
+
+
+
+## BIA - FALLBACK
+[Spotify](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) // [SoundCloud](https://soundcloud.com/bia/sets/really-her-3) // [@Apple Music](https://music.apple.com/us/album/really-her-intl-deluxe/1709172617)
+(Official Music Video)
+Los Angeles, CA [TicketMAster](https://www.ticketmaster.com/bia-los-angeles-california-08-16-2026/event/090064E625AD0801) // [LiveNation](https://www.livenation.com/event/vvG10Z_CbPl8Ov/bia) // [@la-county-isd SEATGEEK](https://seatgeek.com/bia-tickets/los-angeles-california-echoplex-2026-08-16-7-pm/concert/18355914)
+Sun 7:00 PM · [Echoplex](https://www.theecho.com/) @CityOfLosAngeles [ @yelp ](https://www.yelp.com/biz/echoplex-los-angeles)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tpj93Kv7exY?si=Env6bdmS0Yy4AT3-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # "Operation Sunflower" saves over 100 exploited children
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L8qSNcnVyOY?si=26xcSW_Tybbt0M2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
