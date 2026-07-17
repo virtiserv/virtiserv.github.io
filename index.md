@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7e84a888-5923-4bed-b0f0-899275f03821" />
+
 [https://worldview.earthdata.nasa.gov/?v=-85.52672349585096,37.591064769282085,-75.5968670430875,47.375808497266135&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),GHRSST_L4_MUR_Sea_Surface_Temperature,VIIRS_NOAA21_DayNightBand,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(hidden,disabled=5),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1(hidden),OPERA_L3_DIST-ALERT-HLS_Color_Index(hidden,disabled=9),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-07-16-T00%3A22%3A35Z @nasa-openscapes @howard-university-web-services @stateofcalifornia @newshour](https://worldview.earthdata.nasa.gov/?v=-85.52672349585096,37.591064769282085,-75.5968670430875,47.375808497266135&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),GHRSST_L4_MUR_Sea_Surface_Temperature,VIIRS_NOAA21_DayNightBand,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(hidden,disabled=5),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1(hidden),OPERA_L3_DIST-ALERT-HLS_Color_Index(hidden,disabled=9),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-07-16-T00%3A22%3A35Z)
 <img  alt="image" src="https://github.com/user-attachments/assets/dfecb91f-f2f6-4330-8d2a-1ac97395952f" />
 <img  alt="image" src="https://github.com/user-attachments/assets/e1e32030-8228-4dc9-86c2-233193237a0e" />
