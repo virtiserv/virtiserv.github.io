@@ -2,6 +2,14 @@
 layout: default
 ---
 
+
+
+[https://archive.org/details/SPACEBEACH](https://archive.org/details/SPACEBEACH)
+
+[<video controls  src="https://ia601606.us.archive.org/16/items/SPACEBEACH/AEROSOL_PLOT_FiREiNOREGON_LanaLATRiCEbrandy_KARENBASSREXRiCHARDON_RASHARDNASAJPLScreen%20Recording%202026-07-17%20150128.mp4" >](https://ia601606.us.archive.org/16/items/SPACEBEACH/AEROSOL_PLOT_FiREiNOREGON_LanaLATRiCEbrandy_KARENBASSREXRiCHARDON_RASHARDNASAJPLScreen%20Recording%202026-07-17%20150128.mp4)
+
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e01d5855-2136-4072-bced-7ca99a52ef77" />
 
 
