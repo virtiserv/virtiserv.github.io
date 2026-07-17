@@ -10,7 +10,7 @@ layout: default
 
 @nasa-jpl @blackgirlscode @fbicyber 
 Some of our work with @Android @nasa-Giss
-Latrice, I said our because i am remembering im your employee. I am still in limbo with `Rob and Trice` but questioned [100 BlackMen of Atlanta](https://100blackmen-atlanta.org/who-we-are/contact.html) via the contact form @ForAtlanta to start working from california @lacountyDPH @la-county-isd @StateofCalifornia [blackenterprise.com/](https://www.blackenterprise.com/) :: [News - Halo Lands $7M To Launch Speedy Braiding Device For Stylists blackenterprise.com](https://www.blackenterprise.com/halo-lands-7m-launch-speedy-braiding-device-2/) /// @nasa-pds @cloudflare [PreachingDns @USGS](https://www.cloudflare.com/learning/dns/what-is-dns/)
+Latrice, I said our because i am remembering im your employee. I am still in limbo with `Rob and Trice` but questioned [100 BlackMen of Atlanta](https://100blackmen-atlanta.org/who-we-are/contact.html) via the contact form @ForAtlanta to start working from california @lacountyDPH @la-county-isd @StateofCalifornia [blackenterprise.com/](https://www.blackenterprise.com/) :: [News - Halo Lands $7M To Launch Speedy Braiding Device For Stylists blackenterprise.com](https://www.blackenterprise.com/halo-lands-7m-launch-speedy-braiding-device-2/) /// @nasa-pds @cloudflare [PreachingDns @USGS](https://www.cloudflare.com/learning/dns/what-is-dns/) ---------- [ @blackgirlscode https://www./?hostnames=blackenterprise.com&type=MX&showcommand=on&colorize=on&nsid=on&useresolver=8.8.8.8&ns=auth&nameservers=](https://www./?hostnames=blackenterprise.com&type=MX&showcommand=on&colorize=on&nsid=on&useresolver=8.8.8.8&ns=auth&nameservers=)
 
 [100blackmen-atlanta.org/](https://100blackmen-atlanta.org/)
 ![https://cdn.firespring.com/images/cc7837ad-9b26-4d89-b5d4-65273504e8f0.png](https://cdn.firespring.com/images/cc7837ad-9b26-4d89-b5d4-65273504e8f0.png)
@@ -51,6 +51,9 @@ blackenterprise.com.	600	IN	NS	ns-2002.awsdns-58.co.uk.
 blackenterprise.com.	600	IN	NS	ns-207.awsdns-25.com.
 blackenterprise.com.	600	IN	NS	ns-824.awsdns-39.net.
 ```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1df1cacf-874f-4f25-9dc8-97f8b1d1d8d4" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6bf904aa-2a7d-4da6-b951-b80f69d97406" />
 
