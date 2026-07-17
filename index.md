@@ -3,6 +3,12 @@ layout: default
 ---
 
 
+nslookup later [`https://sjud.senate.ca.gov`](https://sjud.senate.ca.gov/content/senate-judiciary-committee-policy-support-and-opposition-letters) // [@fecgov fec.gov/data/committee/C00718866/](https://www.fec.gov/data/committee/C00718866/) // [github https://github.com/fecgov](https://github.com/fecgov) `gail.ns.cloudflare.com.` , `yoxall.ns.cloudflare.com.` @blackgirlscode [toolbox.googleapps.com/apps/dig/#NS/](https://toolbox.googleapps.com/apps/dig/#NS/)
+<img alt="image" src="https://github.com/user-attachments/assets/4ee70946-a8aa-415a-a4d7-54ef1fdacad9" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/d9f2c06c-fca0-436a-a790-92ac9182e099" />
+
+
 [<video controls poster="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/20261980246_GOES18-ABI-pnw-FireTemperature-1200x1200.jpg" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4" >](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4)
 
 [@fbicyber @dhs-gov @atf-web wildfire.oregon.gov/Documents/WildfireContacts.pdf](https://wildfire.oregon.gov/Documents/WildfireContacts.pdf)
