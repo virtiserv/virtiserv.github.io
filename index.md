@@ -4,8 +4,9 @@ layout: default
 
 
 ## NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video
-[Read - @nasa-jpl @cityoflosangeles @whitehouse @CommerceGov](https://www.jpl.nasa.gov/news/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/)
-[Watch - youtube.com/watch?v=6_cH5-daLjg&t=4s](https://www.youtube.com/watch?v=6_cH5-daLjg&t=4s)
+- [Read - @nasa-jpl @cityoflosangeles @whitehouse @CommerceGov](https://www.jpl.nasa.gov/news/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video/)
+- [Watch - youtube.com/watch?v=6_cH5-daLjg&t=4s](https://www.youtube.com/watch?v=6_cH5-daLjg&t=4s)
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6_cH5-daLjg?si=bRsUR4hfTQo_4rj5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [<video controls poster="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/20261980246_GOES18-ABI-pnw-FireTemperature-1200x1200.jpg" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4" >](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4)
