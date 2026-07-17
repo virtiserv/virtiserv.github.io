@@ -8,6 +8,53 @@ layout: default
 
 <iframe src="https://archive.org/embed/SPACEBEACH" width="560" height="auto" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+@nasa-jpl @blackgirlscode @fbicyber 
+Some of our work with @Android @nasa-Giss
+Latrice, I said our because i am remembering im your employee. I am still in limbo with `Rob and Trice` but questioned [100 BlackMen of Atlanta](https://100blackmen-atlanta.org/who-we-are/contact.html) via the contact form @ForAtlanta to start working from california @lacountyDPH @la-county-isd @StateofCalifornia [blackenterprise.com/](https://www.blackenterprise.com/) :: [News - Halo Lands $7M To Launch Speedy Braiding Device For Stylists blackenterprise.com](https://www.blackenterprise.com/halo-lands-7m-launch-speedy-braiding-device-2/) /// @nasa-pds @cloudflare [PreachingDns @USGS](https://www.cloudflare.com/learning/dns/what-is-dns/)
+
+[100blackmen-atlanta.org/](https://100blackmen-atlanta.org/)
+![https://cdn.firespring.com/images/cc7837ad-9b26-4d89-b5d4-65273504e8f0.png](https://cdn.firespring.com/images/cc7837ad-9b26-4d89-b5d4-65273504e8f0.png)
+
+[`digwebinterface.com`](digwebinterface.com)
+
+```shell
+blackenterprise.com@ns-1121.awsdns-12.org.:  Copy results to clipboard
+dig MX +noadditional +noquestion +nocomments +nocmd +nostats +nsid blackenterprise.com. @ns-1121.awsdns-12.org.
+blackenterprise.com.	3600	IN	MX	10 us-smtp-inbound-1.mimecast.com.
+blackenterprise.com.	3600	IN	MX	10 us-smtp-inbound-2.mimecast.com.
+blackenterprise.com.	600	IN	NS	ns-1121.awsdns-12.org.
+blackenterprise.com.	600	IN	NS	ns-2002.awsdns-58.co.uk.
+blackenterprise.com.	600	IN	NS	ns-207.awsdns-25.com.
+blackenterprise.com.	600	IN	NS	ns-824.awsdns-39.net.
+blackenterprise.com@ns-2002.awsdns-58.co.uk.:  Copy results to clipboard
+dig MX +noadditional +noquestion +nocomments +nocmd +nostats +nsid blackenterprise.com. @ns-2002.awsdns-58.co.uk.
+blackenterprise.com.	3600	IN	MX	10 us-smtp-inbound-1.mimecast.com.
+blackenterprise.com.	3600	IN	MX	10 us-smtp-inbound-2.mimecast.com.
+blackenterprise.com.	600	IN	NS	ns-1121.awsdns-12.org.
+blackenterprise.com.	600	IN	NS	ns-2002.awsdns-58.co.uk.
+blackenterprise.com.	600	IN	NS	ns-207.awsdns-25.com.
+blackenterprise.com.	600	IN	NS	ns-824.awsdns-39.net.
+blackenterprise.com@ns-207.awsdns-25.com.:  Copy results to clipboard
+dig MX +noadditional +noquestion +nocomments +nocmd +nostats +nsid blackenterprise.com. @ns-207.awsdns-25.com.
+blackenterprise.com.	3600	IN	MX	10 us-smtp-inbound-1.mimecast.com.
+blackenterprise.com.	3600	IN	MX	10 us-smtp-inbound-2.mimecast.com.
+blackenterprise.com.	600	IN	NS	ns-1121.awsdns-12.org.
+blackenterprise.com.	600	IN	NS	ns-2002.awsdns-58.co.uk.
+blackenterprise.com.	600	IN	NS	ns-207.awsdns-25.com.
+blackenterprise.com.	600	IN	NS	ns-824.awsdns-39.net.
+blackenterprise.com@ns-824.awsdns-39.net.:  Copy results to clipboard
+dig MX +noadditional +noquestion +nocomments +nocmd +nostats +nsid blackenterprise.com. @ns-824.awsdns-39.net.
+blackenterprise.com.	3600	IN	MX	10 us-smtp-inbound-1.mimecast.com.
+blackenterprise.com.	3600	IN	MX	10 us-smtp-inbound-2.mimecast.com.
+blackenterprise.com.	600	IN	NS	ns-1121.awsdns-12.org.
+blackenterprise.com.	600	IN	NS	ns-2002.awsdns-58.co.uk.
+blackenterprise.com.	600	IN	NS	ns-207.awsdns-25.com.
+blackenterprise.com.	600	IN	NS	ns-824.awsdns-39.net.
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6bf904aa-2a7d-4da6-b951-b80f69d97406" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e01d5855-2136-4072-bced-7ca99a52ef77" />
 
 
