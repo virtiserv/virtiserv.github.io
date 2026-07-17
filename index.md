@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[alertwildfire.org/ @whitehouse `Search4ACamera @blackgirlscode @NASA-GiSS @NASA-JPL](https://www.alertwildfire.org/)
+[alertwildfire.org/ @whitehouse `Search4ACamera` @blackgirlscode @NASA-GiSS @NASA-JPL](https://www.alertwildfire.org/)
 <img alt="image @blackgirlscode @NASA-GiSS @NASA-JPL " src="https://github.com/user-attachments/assets/538bb660-1884-41e7-8235-f9b175a42344" />
 
 @nbcnews @newshour
