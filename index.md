@@ -2,7 +2,9 @@
 layout: default
 ---
 
-
+## Survey Layering and Faulting in Layered Deposits in Candor Chasma
+[uahirise.org/PSP_001377_1685](https://www.uahirise.org/PSP_001377_1685)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_001300_001399/PSP_001377_1685/PSP_001377_1685_RED.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_001300_001399/PSP_001377_1685/PSP_001377_1685_RED.abrowse.jpg)
 
 [https://archive.org/details/SPACEBEACH](https://archive.org/details/SPACEBEACH)
 
