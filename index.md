@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/dfecb91f-f2f6-4330-8d2a-1ac97395952f" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e1e32030-8228-4dc9-86c2-233193237a0e" />
+
+
 [@github Get THis MAp To Africa @blackgirlscode](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,terra_crc,earth;@37.2,-6.6,4.3z)
 
 [Pacific Northweest Land Displacement @asfadmin](https://worldview.earthdata.nasa.gov/?v=-124.56740407465483,40.08129365201888,-116.22183495117093,45.75724268124713&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),GHRSST_L4_MUR_Sea_Surface_Temperature,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(hidden,disabled=5),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-07-08-T00%3A22%3A35Z)
