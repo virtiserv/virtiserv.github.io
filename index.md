@@ -2,35 +2,57 @@
 layout: default
 ---
 
+# Wilfefire
+
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS). @nasa-jpl @la-county-isd for oregon wildfires @foratlanta @blackgirlscode [https://go.nasa.gov/44GSCAq](https://go.nasa.gov/44GSCAq)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7d28009a-ddaf-4c5f-958b-e7822b52341f" />
+
+[https://worldview.earthdata.nasa.gov/?v=-125.23818788241705,41.46044132145072,-116.76660336617736,46.22570761183555&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-18-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-125.23818788241705,41.46044132145072,-116.76660336617736,46.22570761183555&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-18-T00%3A00%3A00Z)
+
+
+<div class="tupperware" markdown="1">
+	
+[<video controls src="https://ia601505.us.archive.org/28/items/longbeach_202605/G18_sector_pnw_EXTENT3_84fr_20260718-1803-ezgif.com-gif-to-mp4-converter.mp4" />](https://ia601505.us.archive.org/28/items/longbeach_202605/G18_sector_pnw_EXTENT3_84fr_20260718-1803-ezgif.com-gif-to-mp4-converter.mp4)
+
+[<video controls src="https://ia601505.us.archive.org/28/items/longbeach_202605/G18_sector_pnw_FireTemperature_24fr_20260718-1747-ezgif.com-gif-to-mp4-converter.mp4" />](https://ia601505.us.archive.org/28/items/longbeach_202605/G18_sector_pnw_FireTemperature_24fr_20260718-1747-ezgif.com-gif-to-mp4-converter.mp4)
+
+</div>
+
+@nasa-giss @nasa-pds @nasa-jpl
+[https://worldview.earthdata.nasa.gov/?v=-125.23014661358886,37.17372361307035,-116.16951784642575,41.66612741603616&as=2021-08-08-T00%3A00%3A00Z&ae=2021-08-18-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2021-08-18-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-125.23014661358886,37.17372361307035,-116.16951784642575,41.66612741603616&as=2021-08-08-T00%3A00%3A00Z&ae=2021-08-18-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2021-08-18-T00%3A00%3A00Z)
+
+<img   alt="nasa-worldview-2026 JUL 08-to-2026 JUL 18" src="https://github.com/user-attachments/assets/34cfaa4d-4382-434b-839a-0bd5c04b1aba" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4b51c7d3-7dfd-4090-897c-71e3b1a89492" />
+
 
 # Yesterdays Quake
+[earthquakes.berkeley.edu/seismo.real.time.map.html](https://earthquakes.berkeley.edu/seismo.real.time.map.html)
 @usgs idk what geology department i report to @doug-newman-nasa but i felt an earthquake yesterday and i think it was [`ThisOne - CLickHere`](https://earthquake.usgs.gov/earthquakes/eventpage/ci40656850/executive) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/143d6149-be70-44d7-8227-07f6024ff521" />
 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/b8251473-495f-4894-ae5c-6da7fb3c7459" />
-
-
-<img   alt="image" src="https://github.com/user-attachments/assets/b788f30f-0c12-42e4-8377-d8a7c725ff05" />
 this one <img  alt="image" src="https://github.com/user-attachments/assets/54efb4d5-f823-46c7-8c1b-caae068af237" />
 
 ## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
 # Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
 [fisheries.noaa.gov/inport/item/76024](https://www.fisheries.noaa.gov/inport/item/76024)
 @howard-university-web-services this link will be up for 14 days @whitehouse @nasa-jpl @podaac @nasa @blackgirlscode
-[coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip](https://coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip) /// [github.com/nmfs-ost](https://github.com/nmfs-ost)
+[coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip](https://coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip) /// [github.com/nmfs-ost](https://github.com/nmfs-ost) // [Shoreline Data Explorer nsde.ngs.noaa.gov/](https://nsde.ngs.noaa.gov/) // [Coastal Mapping Program of Port of San Diego, CA, CA2001-CS-T](https://www.fisheries.noaa.gov/inport/item/67610)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/83443291-2072-4325-9458-595993718872" />
 
-_Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif) _coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif_
+_Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif) _coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif_ . . . Similar design in [New Oreleans - coastalimagery.blob.core.windows.net/digitalcoast/Katrina](https://coastalimagery.blob.core.windows.net/digitalcoast/Katrina_RGB_2005_4916/K_28089-H4_11.tif)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d21895d7-6526-43c9-8e53-c4f86f4c91a4" />
 
 @cbs-news-data @nbcnews @nasa-jpl @CityOFLosAngeles @StateOfCAlifornia
 
 [396000e3738000n -.tif 543.32 MB @nasa-jpl](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3738000n.tif)
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
 
 [384000e3738000n.tif 487mb -.tif @noaa-gov](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/384000e3738000n.tif)
 
@@ -44,6 +66,12 @@ _Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes]
 
 <img   alt="image" src="https://github.com/user-attachments/assets/11008b07-f475-464d-8a4a-2cfd77a846f3" />
 
+
+
+# HTML
+[HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
+[ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
+[https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [color.adobe.com](https://color.adobe.com/) 
 
 # @Nasa-jpl hi @spaceexplorationtechnologies CRS34 departure confirmation @youtube [https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz](https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz)
 
