@@ -2,9 +2,15 @@
 layout: default
 ---
 
-![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00028/ids/edr/browse/edl/EUE_0028_0669420947_133ECM_N0030792EDLC00028_0050LUJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00028/ids/edr/browse/edl/EUE_0028_0669420947_133ECM_N0030792EDLC00028_0050LUJ01_1200.jpg)
+
 
 # Wilfefire
+
+[SUOMI VIIRS C2 USA (Conterminous) and Hawaii - VIIRS 375m / S-NPP @nasa-jpl @whitehouse](https://firms.modaps.eosdis.nasa.gov/usfs/api/kml_fire_footprints/usa_contiguous_and_hawaii/24h/suomi-npp-viirs-c2/FirespotArea_usa_contiguous_and_hawaii_suomi-npp-viirs-c2_24h.kmz)
+<img  alt="image" src="https://github.com/user-attachments/assets/12f0c8e4-7e55-4236-947e-b8ede5717297" />
+
+
+
 
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS). @nasa-jpl @la-county-isd for oregon wildfires @foratlanta @blackgirlscode [https://go.nasa.gov/44GSCAq](https://go.nasa.gov/44GSCAq)
 
@@ -83,6 +89,8 @@ spacex.com      mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
 spacex.com      mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
 
 ```
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00028/ids/edr/browse/edl/EUE_0028_0669420947_133ECM_N0030792EDLC00028_0050LUJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00028/ids/edr/browse/edl/EUE_0028_0669420947_133ECM_N0030792EDLC00028_0050LUJ01_1200.jpg)
 
 
 [https://coast.noaa.gov/dataviewer/#/](https://coast.noaa.gov/dataviewer/#/) // break @nasa-jpl @nasa-pds @blackgirlscode @howard-university-web-services getting a bite to eat from a local foodline @longbeachinnovationteam @la=-county-isd @cityoflosangeles @lacmta 
