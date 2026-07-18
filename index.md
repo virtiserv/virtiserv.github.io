@@ -2,9 +2,13 @@
 layout: default
 ---
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/513a93cf-d10b-4afc-961d-17b158b38553" />
 
 
 # Wilfefire
+
+[https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,country-outline,viirs_crtc,earth;@-120.2,43.8,8.0z](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,country-outline,viirs_crtc,earth;@-120.2,43.8,8.0z)
+<img  alt="image" src="https://github.com/user-attachments/assets/300ea797-6edd-45d9-b428-8480f5fa3dec" />
 
 [SUOMI VIIRS C2 USA (Conterminous) and Hawaii - VIIRS 375m / S-NPP @nasa-jpl @whitehouse](https://firms.modaps.eosdis.nasa.gov/usfs/api/kml_fire_footprints/usa_contiguous_and_hawaii/24h/suomi-npp-viirs-c2/FirespotArea_usa_contiguous_and_hawaii_suomi-npp-viirs-c2_24h.kmz)
 <img  alt="image" src="https://github.com/user-attachments/assets/12f0c8e4-7e55-4236-947e-b8ede5717297" />
