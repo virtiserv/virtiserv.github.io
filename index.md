@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/513a93cf-d10b-4afc-961d-17b158b38553" />
+<img  alt="image" src="https://github.com/user-attachments/assets/513a93cf-d10b-4afc-961d-17b158b38553" />
 
 
 # Wilfefire
