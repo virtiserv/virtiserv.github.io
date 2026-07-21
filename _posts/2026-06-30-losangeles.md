@@ -23,7 +23,11 @@ permalink: losangeles
 
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822714213983305728" data-did="d6d04f23d44b51cc20f5ae70e8539d53d59f61f7"><a href="https://rashardmro.tumblr.com/post/822714213983305728/my-altadena-macbook-pro-jose-what-happened">https://rashardmro.tumblr.com/post/822714213983305728/my-altadena-macbook-pro-jose-what-happened</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
 <iframe src="https://archive.org/embed/lafires_tempo_20250106_lrg" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
  [ECOSTRESSGallery](https://ecostress.jpl.nasa.gov/gallerylist)
 The ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) mission measures the temperature of plants to better understand how much water plants need and how they respond to stress. ECOSTRESS is attached to the International Space Station (ISS) and collects data globally between 52° N and 52° S latitudes.
 [thakarashard.github.io/rashardmro/2026/04/28/ECOSTRESSMonitoringplantsfromspace.html](https://thakarashard.github.io/rashardmro/2026/04/28/ECOSTRESSMonitoringplantsfromspace.html)
