@@ -2,23 +2,51 @@
 layout: default
 ---
 
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822712616214544384/v2" data-did="d4d6a8534a6e00c5514880d62df17f884e4d9a18"  ><a href="https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last">https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
+
 ```html
 
-@lanajharris@gmail.com THE PHONE IS ON VERMONT google.com/maps/place/34.08837666666667,-118.29131666666666 <~ @douglas.j.newman@nasa.gov @mayorandcitycouncil@beverlyhills.org @mayor@longbeach.gov @mayor@youngstownohio.gov LATRICE BUSINESS VIRTISERV HAD A DATABREACH IT WAS MOSTLY RESEARCH I HAVE NOT TURNED INTO nas yet @ROC@jpl.nasa.gov @rep76@ohiohouse.gov @report@cisa.gov @rep57@ohiohouse.gov  AVE @contact.lapdonline@gmail.com @press@hot97.com @HollyJMitchell@bos.lacounty.gov @kathryn@bos.lacounty.gov google.com/maps/place/34.08837666666667,-118.29131666666666
+@lanajharris@gmail.com THE PHONE IS ON VERMONT google.com/maps/place/34.08837666666667,-118.29131666666666 <~ @douglas.j.newman@nasa.gov @mayorandcitycouncil@beverlyhills.org
+@mayor@longbeach.gov @mayor@youngstownohio.gov LATRICE BUSINESS VIRTISERV HAD A DATABREACH IT WAS MOSTLY RESEARCH I HAVE NOT TURNED INTO nas yet @ROC@jpl.nasa.gov
+@rep76@ohiohouse.gov @report@cisa.gov @rep57@ohiohouse.gov  AVE @contact.lapdonline@gmail.com @press@hot97.com @HollyJMitchell@bos.lacounty.gov @kathryn@bos.lacounty.gov
+google.com/maps/place/34.08837666666667,-118.29131666666666
 
 On Tue, Jul 21, 2026 at 6:03 PM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
-@georgia.governor@gov.state.ga.us hi its rashard iman kelly, i dont know what to claim man, but im working! I got robbed at city hall in la, it was a cart robbery and they took my cellphones and sneakers to disable me getting any more progress in the region @Gavin Newsom @GovernorRon.Desantis@eog.myflorida.com im just checking in Governors,, these are my facts, Latrice Fitzpatrick owner of VirtiservLLC hired me at the skate park, theres so many things at JPL i have done in the last 6 months that let me know i should not stop following accepted instructions @nagincox@outlook.com Rover Curiosity is finally starting to look dated to me, it was so modern when i was introduced to persevere @jisaacman@shift4.com so at this point i know i have a public spat with @chloe.bailey@gmail.com  / @chloe.baily@gmail.com at a tabloid level bc i got mad about Timbaland making beats in her closet! However it is my belife that @lanajharris@gmail.com of @info@hot97.com is HAlle her counter part from ChloexHAlle and at the very least i know at least in atlanta @keishaforgovernor@gmail.com Brandy was doubling for her on some wacky movie they were making @normani@fifthharmonyofficial.com could tell you more! @katyperry@umgstores.com as well! So @douglas.j.newman@nasa.gov its like since @Normaniofficial@outlook.com moved on to greener pastures and @operations@wearebgc.org is a @The White House shop they shifted me for Lanas new job at @press@hot97.com ... @HollyJMitchell@bos.lacounty.gov i created the account virtiserv@outlook.com and it gets attacked on somne schedule and I dont knwo what Chloe, LAna, or any of those other girls do, but they invited me to a coffee shop in east atlanta and i cant remember what happened but the light skin one did the worm on a dirty bar floor during my dj set and now she dance for drake all my special gone @betpressinfo@bet.net can i have my phone back, i got the neogeo working well anywy keeping her business name up in its self with all the doxxing of the pretty maidens is while in balance something that my commitment @smallbusiness.programsoffice@jpl.nasa.gov requires @kathryn@bos.lacounty.gov if i let down a pretty girl i made a promise to at a skate park, thats bad luck man! 
+@georgia.governor@gov.state.ga.us hi its rashard iman kelly, i dont know what to claim man, but im working!
+I got robbed at city hall in la, it was a cart robbery and they took my cellphones and sneakers to disable me getting any more progress in the region @Gavin Newsom
+@GovernorRon.Desantis@eog.myflorida.com im just checking in Governors,, these are my facts, Latrice Fitzpatrick owner of VirtiservLLC hired me at the skate park, theres so many
+things at JPL i have done in the last 6 months that let me know i should not stop following accepted instructions @nagincox@outlook.com Rover Curiosity is finally starting to look
+dated to me, it was so modern when i was introduced to persevere @jisaacman@shift4.com so at this point i know i have a public spat with @chloe.bailey@gmail.com  /
+@chloe.baily@gmail.com at a tabloid level bc i got mad about Timbaland making beats in her closet! However it is my belife that @lanajharris@gmail.com of @info@hot97.com is HAlle her
+ counter part from ChloexHAlle and at the very least i know at least in atlanta @keishaforgovernor@gmail.com Brandy was doubling for her on some wacky movie they were making
+@normani@fifthharmonyofficial.com could tell you more! @katyperry@umgstores.com as well! So @douglas.j.newman@nasa.gov its like since @Normaniofficial@outlook.com moved on to greener
+pastures and @operations@wearebgc.org is a @The White House shop they shifted me for Lanas new job at @press@hot97.com ... @HollyJMitchell@bos.lacounty.gov i created the account
+ virtiserv@outlook.com and it gets attacked on somne schedule and I dont knwo what Chloe, LAna, or any of those other girls do, but they invited me to a coffee shop in east atlanta
+and i cant remember what happened but the light skin one did the worm on a dirty bar floor during my dj set and now she dance for drake all my special gone @betpressinfo@bet.net can
+i have my phone back, i got the neogeo working well anywy keeping her business name up in its self with all the doxxing of the pretty maidens is while in balance something that my
+commitment @smallbusiness.programsoffice@jpl.nasa.gov requires @kathryn@bos.lacounty.gov if i let down a pretty girl i made a promise to at a skate park, thats bad luck man!
+
 
 
 ---
 #DATABREACH - RASHARD_iMANKELLY_ROBBED at CiTYHALL DOWNTOWNLOSANELES TALL DARK SKiNED AFRiCAN iNSURRECTiONiST
 
 
-@lanajharris@gmail.com hi I tried to get in touch with @robinnbarnes@gmail.com which may be @chloe.bailey@gmail.com the actress singer @hollyjmitchell@bos.lacounty.gov so @normani@fifthharmonyofficial.comwho proposed to me at the OLD_FORTH_WARD_SKATEPARK ? @onelana10@juno.comare you Bia ? If so I know we have a past and Chloe x Halle maybe the shared boyfriend arrange ment I was offered after @normani@fifthharmonyofficial.comdumped me after munas death @keishaforgovernor@gmail.comdo you know Barbara Riley ? She did the Funeral .... ok long story short I need you guys to all know we had a data breach thats @NASAJPL @jplnewsroom@jpl.nasa.gov and Virtiserv @Small Business Programs Office and I lost all my belongings! The guy menaced and chased me off while I was watching a ai video on essence youtube channel. As I was understanding that you guys use a lot o speech dictaiton to build and deploy architecture the guy walks up and I heard a mumbled threat and evaded the attack and he started tossing my things over the patio wall at city hall @HEATHER MATA I got new pants from StFrancis and a pair of sandals 
+@lanajharris@gmail.com hi I tried to get in touch with @robinnbarnes@gmail.com which may be @chloe.bailey@gmail.com the actress singer
+ @hollyjmitchell@bos.lacounty.gov so @normani@fifthharmonyofficial.comwho proposed to me at the OLD_FORTH_WARD_SKATEPARK ?
+@onelana10@juno.comare you Bia ? If so I know we have a past and Chloe x Halle maybe the shared boyfriend arrange ment I was offered after
+@normani@fifthharmonyofficial.comdumped me after munas death @keishaforgovernor@gmail.comdo you know Barbara Riley ? She did the Funeral ....
+ok long story short I need you guys to all know we had a data breach thats @NASAJPL @jplnewsroom@jpl.nasa.gov and Virtiserv @Small Business Programs Office and I lost all my belongings!
+The guy menaced and chased me off while I was watching a ai video on essence youtube channel.
+ As I was understanding that you guys use a lot o speech dictaiton to build and deploy architecture the guy walks up and I heard a mumbled threat and evaded the attack and he started tossing my things over the patio wall at city hall @HEATHER MATA I got new pants from StFrancis and a pair of sandals 
 
-I need to deactivate the Cloud C8 and Blu5 android mobile computers @Dsnnow @douglas.j.newman@nasa.govbecause I read cellphone threats were data breaches and should be reported immediately @report@cisa.gov 
+I need to deactivate the Cloud C8 and Blu5 android mobile computers @Dsnnow @douglas.j.newman@nasa.gov because
+ I read cellphone threats were data breaches and should be reported immediately @report@cisa.gov 
 
-@lanajharris@gmail.comwhatever latrice is I did what she said and I started work early from the library and im just missing things and uninjured tell her mom thanks and im not abandoning her virtual assistant firm @atlantacouncil@atlantaga.gov , virtiserv.github.io will expand so ppl can see what im doing, what the body of disocveries is and where the should be presented @Earthdata Support @Answers
+@lanajharris@gmail.comwhatever latrice is I did what she said and I started work early from the library,
+ im just missing things and uninjured tell her mom thanks and im not abandoning her virtual assistant firm @atlantacouncil@atlantaga.gov ,
+ virtiserv.github.io will expand so ppl can see what im doing, what the body of disocveries is and where the should be presented @Earthdata Support @Answers
 
 https://discoveratlanta.com/things-to-do/old-fourth-ward-skate-park/
 https://exploregeorgia.org/atlanta/outdoors-nature/parks/old-4th-ward-skatepark
@@ -26,16 +54,6 @@ https://goskate.com/sp/listing/historic-fourth-ward-skatepark/
 Rashard#DATABREACH - RASHARD_iMANKELLY_ROBBED at CiTYHALL DOWNTOWNLOSANELES TALL DARK SKiNED AFRiCAN iNSURRECTiONiST
 
 
-@lanajharris@gmail.com hi I tried to get in touch with @robinnbarnes@gmail.com which may be @chloe.bailey@gmail.com the actress singer @hollyjmitchell@bos.lacounty.gov so @normani@fifthharmonyofficial.comwho proposed to me at the OLD_FORTH_WARD_SKATEPARK ? @onelana10@juno.comare you Bia ? If so I know we have a past and Chloe x Halle maybe the shared boyfriend arrange ment I was offered after @normani@fifthharmonyofficial.comdumped me after munas death @keishaforgovernor@gmail.comdo you know Barbara Riley ? She did the Funeral .... ok long story short I need you guys to all know we had a data breach thats @NASAJPL @jplnewsroom@jpl.nasa.gov and Virtiserv @Small Business Programs Office and I lost all my belongings! The guy menaced and chased me off while I was watching a ai video on essence youtube channel. As I was understanding that you guys use a lot o speech dictaiton to build and deploy architecture the guy walks up and I heard a mumbled threat and evaded the attack and he started tossing my things over the patio wall at city hall @HEATHER MATA I got new pants from StFrancis and a pair of sandals 
-
-I need to deactivate the Cloud C8 and Blu5 android mobile computers @Dsnnow @douglas.j.newman@nasa.govbecause I read cellphone threats were data breaches and should be reported immediately @report@cisa.gov 
-
-@lanajharris@gmail.comwhatever latrice is I did what she said and I started work early from the library and im just missing things and uninjured tell her mom thanks and im not abandoning her virtual assistant firm @atlantacouncil@atlantaga.gov , virtiserv.github.io will expand so ppl can see what im doing, what the body of disocveries is and where the should be presented @Earthdata Support @Answers
-
-https://discoveratlanta.com/things-to-do/old-fourth-ward-skate-park/
-https://exploregeorgia.org/atlanta/outdoors-nature/parks/old-4th-ward-skatepark
-https://goskate.com/sp/listing/historic-fourth-ward-skatepark/
-Rashard
 ```
 ## Taken from [raw.githubusercontent.com/virtiserv/rashardmro/refs/heads/master/_posts/2026-03-21-Marsblogv2.md](https://raw.githubusercontent.com/virtiserv/rashardmro/refs/heads/master/_posts/2026-03-21-Marsblogv2.md)
 [Muddy Waters , Mannish Boy , 1977 Hard Again version](https://www.youtube.com/watch?v=LY_inPuMU7c) [Muddy Waters - Mannish Boy (Audio)](https://www.youtube.com/watch?v=bSfqNEvykv0) [Aquaboogie (A Psychoalphadiscobetabioaquadoloop)](https://www.youtube.com/watch?v=pqEDxjLC-gQ) [Testing Example Code In Your Jekyll Posts](https://www.rubypigeon.com/posts/testing-example-code-in-your-jekyll-posts/)
