@@ -3,6 +3,11 @@ layout: default
 ---
 
 
+# #HAPPENiNG_NOW::: City of Compton Council Meeting 7-21-2026 
+[Watch - youtube.com/watch?v=H_7CCuIRgu8 @CityOfLosAngeles @la-county-isd](https://www.youtube.com/watch?v=H_7CCuIRgu8)
+<img alt="image" src="https://github.com/user-attachments/assets/8ecf5005-7e82-4f78-a87a-807b8ac2dfc4" />
+
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822712616214544384/v2" data-did="d4d6a8534a6e00c5514880d62df17f884e4d9a18"  ><a href="https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last">https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
 
 ```html
