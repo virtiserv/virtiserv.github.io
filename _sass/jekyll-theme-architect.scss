@@ -358,6 +358,7 @@ embed {
 code, pre {
   margin-bottom: 30px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	word-break: break-all;
   font-size: 13px;
   color: #222;
 }
