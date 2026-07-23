@@ -9,6 +9,8 @@ layout: default
 4 # UNiVERSE#########################VirtiservLatrice#####
 {% endhighlight %}
 
+<script src="https://gist.github.com/ThakaRashard/265e98a66ae2a41c5fbafb11000c27ab.js"></script>
+
 @foratlanta hi @doug-newman-nasa
 I need help because they told me if i see them married i have to get somoen from outside to get them to me to verify it persoannly @blackgirlscode may have been hijacked in the school sysyem by whoever is detoothing me! @nbcnews ~> @newshour its the dns my mail has not gotten through and some of her imposters have befriended me adn i know it im scared!!!! @la-county-isd and confused!!!! 
 [https://www.zola.com/wedding/robandtricedominicanrepublic](https://www.zola.com/wedding/robandtricedominicanrepublic)
