@@ -9,6 +9,10 @@ layout: default
 4 # UNiVERSE#########################VirtiservLatrice#####
 {% endhighlight %}
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![https://upload.wikimedia.org/wikipedia/commons/e/e0/NASA_JPL_Meatball_Logo.webp](https://upload.wikimedia.org/wikipedia/commons/e/e0/NASA_JPL_Meatball_Logo.webp)
 ![upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg @cityoflosangeles @blackgirlscode @howard-university-web-services @whitehouse @la-county-isd](https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg)
 
   <?xml version="1.0" encoding="utf-8"?>
@@ -181,6 +185,7 @@ NASA Official: Doug Newman
 i will wait for instructions and broadcast publically anything you are trying to say over Long Distance whatever [LRAD](https://www.moma.org/interactives/exhibitions/2013/designandviolence/long-range-acoustic-device-lrad-corporation/) brand you into @nasa-jpl its touch and go @blackgirlscode i love you all 💯
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![https://upload.wikimedia.org/wikipedia/commons/e/e0/NASA_JPL_Meatball_Logo.webp](https://upload.wikimedia.org/wikipedia/commons/e/e0/NASA_JPL_Meatball_Logo.webp)
 
 <script src="https://gist.github.com/ThakaRashard/265e98a66ae2a41c5fbafb11000c27ab.js"></script>
 
