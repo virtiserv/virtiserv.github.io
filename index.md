@@ -13,6 +13,21 @@ layout: default
  <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
 	
 </video>
+
+```html
+
+<h2 style="color:white;" class="neon">
+
+ LiGHTSKiNKEiSHA
+ </h2>
+
+<video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+<source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+ <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+	
+</video>
+``` 
 	
 # #HAPPENiNG_NOW::: City of Compton Council Meeting 7-21-2026 
 [Watch - youtube.com/watch?v=H_7CCuIRgu8 @CityOfLosAngeles @la-county-isd](https://www.youtube.com/watch?v=H_7CCuIRgu8)
