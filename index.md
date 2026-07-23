@@ -9,7 +9,34 @@ layout: default
 4 # UNiVERSE#########################VirtiservLatrice#####
 {% endhighlight %}
 
+# Hello Trice _`Sorry`_
+@doug-newman-nasa there is a population that... idk its not closed @blackgirlscode but we are reshifting my heart cannot keep up with the relationships and that african really humiliated me at cityhall @CityOfLosAngeles ... @Nasdaq there is some research bundled in that you should view, Latrice Fitzpatricks BBB profile was deleted @whitehouse i dont know man, since she is a kash brat i need help i could hurt my reputation if this Trice and Rob thing is DNS or some other fruad and it was a hookup for Graffiti lessons or income tax prep, like in atlanta she used to lose her freedom from kidnapping for a lo of common tasks aswell @nasa @nasa-jpl 
 
+```
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 07-23-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.21 Home NASA Accessibility
+NASA Official: Doug Newman
+```
 # bye trice
 i will wait for instructions and broadcast publically anything you are trying to say over Long Distance whatever [LRAD](https://www.moma.org/interactives/exhibitions/2013/designandviolence/long-range-acoustic-device-lrad-corporation/) brand you into @nasa-jpl its touch and go @blackgirlscode i love you all 💯
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
