@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[docs.alexomar.com/`biblioteca`/Best%20of%202600.pdf @nasa-jpl @blackgirlscode @cisagov](https://docs.alexomar.com/biblioteca/Best%20of%202600.pdf) / / [wired.com/2008](https://www.wired.com/2008/06/the-best-of-260/) // [GoodReads](https://www.goodreads.com/en/book/show/2909444-the-best-of-2600) // [CodingHorror](https://blog.codinghorror.com/our-hacker-odyssey/) // [@reddit](https://www.reddit.com/r/hacking/comments/7yeyhw/the_best_of_2600_a_hacker_odyssey_pdf/?rdt=60584) // [Wiki](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly) 
+<img alt="image" src="https://github.com/user-attachments/assets/3557a4c1-0c5d-4fb2-9cea-848f43aea73f" />
+
 
 # Designing Social Interfaces:
 ## Principles, Patterns, and Practices for Improving the User Experience
