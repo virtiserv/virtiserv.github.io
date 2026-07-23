@@ -2,6 +2,45 @@
 layout: default
 ---
 
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################VirtiservLatrice#####
+{% endhighlight %}
+
+@foratlanta hi @doug-newman-nasa
+I need help because they told me if i see them married i have to get somoen from outside to get them to me to verify it persoannly @blackgirlscode may have been hijacked in the school sysyem by whoever is detoothing me! @nbcnews ~> @newshour its the dns my mail has not gotten through and some of her imposters have befriended me adn i know it im scared!!!! @la-county-isd and confused!!!! 
+[https://www.zola.com/wedding/robandtricedominicanrepublic](https://www.zola.com/wedding/robandtricedominicanrepublic)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2cc212b0-3c8c-434b-bd35-4e214ea6bf7c" />
+
+
+@nasa-jpl long beach library censors the wilma betty gif @la-county-isd @CityOfLosAngeles
+[bubblegumpop01.tumblr.com/](https://bubblegumpop01.tumblr.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8aabc501-4e5e-4d53-92d5-ce567a261e1d" />
+
+
+# Rubi Rose 
+_Rubiana_ [SoundCloud🎼🎧](https://soundcloud.com/rubianarose)
+[ATL](https://www.atlantaga.gov/government/departments/human-resources), [Eritrea](https://shabait.com/) [[1](https://www.state.gov/countries-areas/eritrea)] [[2](https://er.usembassy.gov/)]
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0de615a9-3f22-4425-b33c-92962c703de8" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1137995113&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nksboss" title="YRN REK" target="_blank" style="color: #cccccc; text-decoration: none;">YRN REK</a> · <a href="https://soundcloud.com/nksboss/lowkeyyrubirose" title="Lowkeyy/RubiRose💋" target="_blank" style="color: #cccccc; text-decoration: none;">Lowkeyy/RubiRose💋</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1636720818&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rubianarose" title="Rubi Rose" target="_blank" style="color: #cccccc; text-decoration: none;">Rubi Rose</a> · <a href="https://soundcloud.com/rubianarose/hood-bitch-aesthetic" title="Hood Bitch Aesthetic" target="_blank" style="color: #cccccc; text-decoration: none;">Hood Bitch Aesthetic</a></div>
+
+@foratlanta
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QU_jblpEDbw?si=SJFWyHH6yfkbXvgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822562379031265280/v2" data-did="b343ac8d8c11ca5aed13179a1f4c0461a44ec052"  ><a href="https://www.tumblr.com/rashardmro/822562379031265280">https://www.tumblr.com/rashardmro/822562379031265280</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8qSNcnVyOY?si=26xcSW_Tybbt0M2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 # docs/TheNAsaMarsConference_Vol71.pdf
 @nasa @nasa-giss @nasa-jpl 
