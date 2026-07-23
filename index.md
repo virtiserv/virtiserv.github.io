@@ -9,6 +9,12 @@ layout: default
 4 # UNiVERSE#########################VirtiservLatrice#####
 {% endhighlight %}
 
+
+
+@codepen @Nasdaq @commercegov
+Trice i created the account
+[codepen.io/editor/virtiserv/pen/019f9129-50f9-7825-96da-0099579d619e](https://codepen.io/editor/virtiserv/pen/019f9129-50f9-7825-96da-0099579d619e)
+
 # Hello Trice _`Sorry`_
 @doug-newman-nasa there is a population that... idk its not closed @blackgirlscode but we are reshifting my heart cannot keep up with the relationships and that african really humiliated me at cityhall @CityOfLosAngeles ... @Nasdaq there is some research bundled in that you should view, Latrice Fitzpatricks BBB profile was deleted @whitehouse i dont know man, since she is a kash brat i need help i could hurt my reputation if this Trice and Rob thing is DNS or some other fruad and it was a hookup for Graffiti lessons or income tax prep, like in atlanta she used to lose her freedom from kidnapping for a lo of common tasks aswell @nasa @nasa-jpl 
 
