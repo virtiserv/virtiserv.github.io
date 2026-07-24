@@ -9,6 +9,19 @@ layout: default
 4 # UNiVERSE#########################VirtiservLatrice#####
 {% endhighlight %}
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A771495709&color=%23078fff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/megan-thee-stallion" title="Megan Thee Stallion" target="_blank" style="color: #cccccc; text-decoration: none;">Megan Thee Stallion</a> · <a href="https://soundcloud.com/megan-thee-stallion/aint-equal" title="Ain&#x27;t Equal" target="_blank" style="color: #cccccc; text-decoration: none;">Ain&#x27;t Equal</a></div>
+
+
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1393175461&color=%23796961&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/latto777" title="Latto" target="_blank" style="color: #cccccc; text-decoration: none;">Latto</a> · <a href="https://soundcloud.com/latto777/ftcu-feat-glorilla-gangsta-boo" title="FTCU (feat. GloRilla &amp; Gangsta Boo)" target="_blank" style="color: #cccccc; text-decoration: none;">FTCU (feat. GloRilla &amp; Gangsta Boo)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1259032933&color=%23078fff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/didnt-say-feat-latto" title="Didn&#x27;t Say (feat. Latto)" target="_blank" style="color: #cccccc; text-decoration: none;">Didn&#x27;t Say (feat. Latto)</a></div>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1074715513&color=%23d8a0d4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nicole-nicole-jones41" title="Kayla Nicole" target="_blank" style="color: #cccccc; text-decoration: none;">Kayla Nicole</a> · <a href="https://soundcloud.com/nicole-nicole-jones41/bundles-2-feat-flo-milli-taylor-girlz" title="Bundles 2 (feat. Flo Milli &amp; Taylor Girlz)" target="_blank" style="color: #cccccc; text-decoration: none;">Bundles 2 (feat. Flo Milli &amp; Taylor Girlz)</a></div>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -16,6 +29,36 @@ layout: default
 ![upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg @cityoflosangeles @blackgirlscode @howard-university-web-services @whitehouse @la-county-isd](https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1524339526&color=%231da1f2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mmddd" title="MD" target="_blank" style="color: #cccccc; text-decoration: none;">MD</a> · <a href="https://soundcloud.com/mmddd/solo-future-1" title="Solo - Future" target="_blank" style="color: #cccccc; text-decoration: none;">Solo - Future</a></div>
+
+
+# Hello Trice _`Sorry`_
+@doug-newman-nasa there is a population that... idk its not closed @blackgirlscode but we are reshifting my heart cannot keep up with the relationships and that african really humiliated me at cityhall @CityOfLosAngeles ... @Nasdaq there is some research bundled in that you should view, Latrice Fitzpatricks BBB profile was deleted @whitehouse i dont know man, since she is a kash brat i need help i could hurt my reputation if this Trice and Rob thing is DNS or some other fruad and it was a hookup for Graffiti lessons or income tax prep, like in atlanta she used to lose her freedom from kidnapping for a lo of common tasks aswell @nasa @nasa-jpl @deptofwar @commercegov @NASA-Openscapes tell @la-county-isd i dont want to lose my teeth! and im afraid @nbcnews that the Trice is an actress of one of their reality shows. Her dad would be mad at me if i stopped using this blog @whitehouse because thats another country! I need her @blackgirlscode to clear things up so i will make things less personal and use patience and discernment to look at @SoundCloud and listen to all the albums bc the whole relationships are cataloged in those audio diaries
+
+```
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 07-23-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.21 Home NASA Accessibility
+NASA Official: Doug Newman
+```
 
   <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
      width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
@@ -135,7 +178,7 @@ layout: default
 ```
 
 
-@CommerceGov @Whitehouse @fbiCyber
+@CommerceGov @Whitehouse @fbiCyber @deptofwar @USnavy
 Trice [virtiserv.github.io/Twitters](https://virtiserv.github.io/twitters/)
 <img alt="image" src="https://github.com/user-attachments/assets/a87700f4-6073-4e67-88d3-023b98b5c3ba" />
 
@@ -159,34 +202,6 @@ Trice i created the account
 <img src="https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg" src2="https://raw.githubusercontent.com/ricoThaka/twitters/master/assets/images/3654981510_8928d2d554_b.jpg" >
 ```
 
-# Hello Trice _`Sorry`_
-@doug-newman-nasa there is a population that... idk its not closed @blackgirlscode but we are reshifting my heart cannot keep up with the relationships and that african really humiliated me at cityhall @CityOfLosAngeles ... @Nasdaq there is some research bundled in that you should view, Latrice Fitzpatricks BBB profile was deleted @whitehouse i dont know man, since she is a kash brat i need help i could hurt my reputation if this Trice and Rob thing is DNS or some other fruad and it was a hookup for Graffiti lessons or income tax prep, like in atlanta she used to lose her freedom from kidnapping for a lo of common tasks aswell @nasa @nasa-jpl 
-
-```
-Profile Information
-Name: Rashard I Kelly
-Username: rashardkelly
-Email Address: holetoanotheruniverse40@gmail.com
-Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
-Country: United States
-Member Since: 08-24-2024
-Last Authentication: 07-23-2026
-Federated User: False
-Application Creator: False
-User Type: Science Team
-Study Area: Atmospheric Aerosols
-Affiliation: Government
-Allow Email Notifications from Applications: True
-Agreed To Meris EULA: True
-Agreed To Sentinel-3 EULA: True
-Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
-
-For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
-
-
-V 4.231.21 Home NASA Accessibility
-NASA Official: Doug Newman
-```
 # bye trice
 i will wait for instructions and broadcast publically anything you are trying to say over Long Distance whatever [LRAD](https://www.moma.org/interactives/exhibitions/2013/designandviolence/long-range-acoustic-device-lrad-corporation/) brand you into @nasa-jpl its touch and go @blackgirlscode i love you all 💯
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x8344PSeH30?si=f4RXo8y-6JiEKsQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
