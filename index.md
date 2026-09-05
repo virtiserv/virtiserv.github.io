@@ -7,7 +7,7 @@ layout: default
 @CityOfLosAngeles @CityOfSantaMonica
 The Standing suspended solids has evolved over the past few weeks that oil slick or fuel spill migrated and looked to pool in the Santa Barbara Soud/Channel I forget the word @eodis-nasa @doug-newman-nasa its Los Angeles birthday weekend as well as labor day and fire victims need to be aware of Constitutional Rights while unhoused... The soil is unstable in a lot of the burned areas making the day off a good time to tidy up property records and other shit that have them living unprotected from the bear spray and rain when it starts raining in about a month and a half . . . 
 
-[_`Filmed`_ DTLA @CityOfLosAngeles Nicole feat. Missy Elliott & Mocha ‎- Make It Hot](https://youtu.be/nLGnEJvtwHE)
+[_`Filmed`_ DTLA @CityOfLosAngeles Nicole feat. Missy Elliott & Mocha ‎- Make It Hot @ESA @nasa-jpl not far :( ](https://youtu.be/nLGnEJvtwHE)
 
 
 [ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.49/-13145548.37/4016104.72&layers=aqv_tss_20260904_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.49/-13145548.37/4016104.72&layers=aqv_tss_20260904_sentinel:1.00:0.00:30.00:default)
