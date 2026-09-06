@@ -7,6 +7,9 @@ layout: default
 
 # Future on Andre 3000, His Biggest Regret + Spoiling His Woman
 [WATCH - youtu.be/6t6Xb_e_Azk?si=87Qh32d2xntvNbgz](https://youtu.be/6t6Xb_e_Azk?si=87Qh32d2xntvNbgz)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/35cba029-e2ba-40d5-b234-ba29e97c810d" />
+
 ![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 [worldview.earthdata.nasa.gov/?v=-151.54276904657203,-27.479504029258276,-50.9501386526525,39.74824400628201&as=2026-08-25-T00%3A00%3A00Z&ae=2026-09-03-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&al=true&ab=on&t=2026-09-03-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-151.54276904657203,-27.479504029258276,-50.9501386526525,39.74824400628201&as=2026-08-25-T00%3A00%3A00Z&ae=2026-09-03-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&al=true&ab=on&t=2026-09-03-T00%3A00%3A00Z)
