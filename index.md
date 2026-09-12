@@ -22,6 +22,9 @@ layout: default
 
 [CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [M.I.A. - Bring The Noize](https://youtu.be/RvUVxYndYuU) // [Chloe Bailey Reveals What She's Looking For In Her Next Partner](https://www.youtube.com/watch?v=HfPuYiwvS1Q) // [Chloe Bailey Heated After Troll Mentions String Showing During Her Essence Fest Performance! 😡](https://www.youtube.com/watch?v=IU9hL9qVaEs) //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) //  [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 
+
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024132_61M00002_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024132_61M00002_V01.PNG) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/bb4916f0-3f7e-4975-ad1f-007a8124b44e" />
 
 [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/GLOBAL_MAPS/JNCR_2024133_61H00000_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/GLOBAL_MAPS/JNCR_2024133_61H00000_V01.PNG)
