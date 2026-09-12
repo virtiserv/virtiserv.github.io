@@ -27,7 +27,7 @@ layout: default
 ![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 @nasa-pds @nasa-jpl juno is communicating in goldstone `	www.gdscc.nasa.gov` the website still broken @Nasa-giss @nasa-develop please check on them [@ Fort Irwin! home.army.mil/irwin/contact/directory @nasa @asc-csa @ESA ](https://home.army.mil/irwin/contact/directory) @jaxa . . . @CityOfLosAngeles i am going to check the data volumes, it was crashing a few cycles ago @whitehouse the [camera is fucked](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_78/JNCR_2025323_78C00012_V01.PNG) but it looks like a config issue [@DeptOfWar Marci](https://pds-geosciences.wustl.edu/missions/mro/default.htm) on MRO has the same problem 
-
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_75/JNCR_2025224_75T00001_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_75/JNCR_2025224_75T00001_V01.PNG) 
 <img  alt="image" src="https://github.com/user-attachments/assets/48330d80-343d-46a1-b080-f62153eb438c" />
 
 <div class="tupperware">
