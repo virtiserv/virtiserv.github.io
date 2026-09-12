@@ -20,6 +20,7 @@ layout: default
 
 
 # CAssini
+<img alt="ezgif com-resize (1)" src="https://github.com/user-attachments/assets/b67bf0a1-ece6-415a-acec-f6d5497da157" />
 
 Im looking for more color images and seeking an understanding on false color and more ways to understand hoiw to communicate the point the data rendered image is revealing 
 [bundle @blackgirlscode](https://solarsystem.nasa.gov/downloads/download_6283_1754073309.zip) [Ms Bass here are som images from Saturns Rings @cityoflosangeles - rashard @nasa-jpl click to download](https://solarsystem.nasa.gov/downloads/download_6284_1754073523.zip)
