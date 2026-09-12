@@ -22,8 +22,9 @@ layout: default
 
 [CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [M.I.A. - Bring The Noize](https://youtu.be/RvUVxYndYuU) // [Chloe Bailey Reveals What She's Looking For In Her Next Partner](https://www.youtube.com/watch?v=HfPuYiwvS1Q) // [Chloe Bailey Heated After Troll Mentions String Showing During Her Essence Fest Performance! 😡](https://www.youtube.com/watch?v=IU9hL9qVaEs) //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) //  [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/bb4916f0-3f7e-4975-ad1f-007a8124b44e" />
 
-![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/GLOBAL_MAPS/JNCR_2024133_61H00000_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/GLOBAL_MAPS/JNCR_2024133_61H00000_V01.PNG)
+[https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/GLOBAL_MAPS/JNCR_2024133_61H00000_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/GLOBAL_MAPS/JNCR_2024133_61H00000_V01.PNG)
  //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://www.youtube.com/watch?v=vCu6ztxthXI) // 
 [BigFile @nasa-pds](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/EDR/JUPITER/ORBIT_77/JNCE_2025290_77C00009_V01.PNG)
 ![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
