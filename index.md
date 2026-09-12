@@ -40,9 +40,10 @@ Im looking for more color images and seeking an understanding on false color and
 
 </div>
 
-#tesla Diner Revolt & Space Weather 
-[LAunch Contrib @nasa @nasas-jpl @gofireflyio](https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash?source=share) [openscape](https://nasa-openscapes.github.io/)
-[See More on /compiling](https://rashardgds.github.io/compiling/Tesla-Diner-Revolt)
+
+# @teslamotors Diner Revolt & Space Weather 
+
+[See More on rashardgds.github.io/compiling/Tesla-Diner-Revolt/compiling](https://rashardgds.github.io/compiling/Tesla-Diner-Revolt) ////////// [openscape](https://nasa-openscapes.github.io/) // [LAunch Contrib @nasa @nasas-jpl @gofireflyio](https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash?source=share) 
 
 
 ![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg)
