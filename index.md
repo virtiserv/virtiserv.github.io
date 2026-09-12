@@ -14,6 +14,9 @@ layout: default
   
 </picture>
 
+ //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://youtu.be/vCu6ztxthXI?t=816) // 
+[ @nasa @deptofwar sabotage ? @la-county-isd planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00036_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00036_V01.PNG)
+<img   alt="image" src="https://github.com/user-attachments/assets/95f4110b-f05c-4a24-9564-1762b784083c" />
 
 ![@nasa-pds hi this is one of the files that mark the start of something crummier than johnson family popcorn](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/EDR/JUPITER/ORBIT_71/JNCE_2025110_71R00458_V01.PNG)
 
@@ -23,7 +26,7 @@ layout: default
 <img alt="image" src="https://github.com/user-attachments/assets/6dc1ea0a-c8c2-4a78-b5a3-43da32be021c" />
 
 
- //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://www.youtube.com/watch?v=vCu6ztxthXI) // 
+ //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://youtu.be/vCu6ztxthXI?t=816) // 
 [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61C00137_V01.PNG @nasa-pds](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61C00137_V01.PNG)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/dfd6fede-c31c-48d1-8a0c-de65b1e8e8dc" />
