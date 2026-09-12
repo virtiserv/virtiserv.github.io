@@ -24,7 +24,7 @@ layout: default
 
 ![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-@nasa-pds @nasa-jpl juno is communicating in goldstone `	www.gdscc.nasa.gov` the website still broken @Nasa-giss @nasa-develop please check on them [@ Fort Irwin! home.army.mil/irwin/contact/directory @nasa ](https://home.army.mil/irwin/contact/directory) 
+@nasa-pds @nasa-jpl juno is communicating in goldstone `	www.gdscc.nasa.gov` the website still broken @Nasa-giss @nasa-develop please check on them [@ Fort Irwin! home.army.mil/irwin/contact/directory @nasa @asc-csa @ESA ](https://home.army.mil/irwin/contact/directory) 
 <img  alt="image" src="https://github.com/user-attachments/assets/48330d80-343d-46a1-b080-f62153eb438c" />
 
 <div class="tupperware">
