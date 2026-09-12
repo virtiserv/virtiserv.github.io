@@ -14,8 +14,9 @@ layout: default
   
 </picture>
 
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69M00065_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69M00065_V01.PNG)
 
-![https://sdss.physics.nyu.edu/mblanton/v0/detect/v0_1/14h/p48/J143247.76+492751.5/J143247.76+492751.5.jpg](https://sdss.physics.nyu.edu/mblanton/v0/detect/v0_1/14h/p48/J143247.76+492751.5/J143247.76+492751.5.jpg) 
+[https://sdss.physics.nyu.edu/mblanton/v0/detect/v0_1/14h/p48/J143247.76+492751.5/J143247.76+492751.5.jpg](https://sdss.physics.nyu.edu/mblanton/v0/detect/v0_1/14h/p48/J143247.76+492751.5/J143247.76+492751.5.jpg) 
 
 [@UCLA planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00030_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00030_V01.PNG) //// The NASA-Sloan Atlas is a catalog of images and parameters of local galaxies, from surveys in the ultraviolet, optical and near-infrared. Our focus in the near term is on the Sloan Digital Sky Survey and the Galaxy Evolution Explorer. - [@nasa-pds nsatlas.org/](https://nsatlas.org/)
 <img  alt="image" src="https://github.com/user-attachments/assets/e91dc3f8-ad5e-4dc5-99d1-daca3977fa8d" />
