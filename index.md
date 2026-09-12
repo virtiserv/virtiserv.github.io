@@ -14,7 +14,10 @@ layout: default
   
 </picture>
 
- //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://youtu.be/vCu6ztxthXI?t=816) // [ @blackgirlscode](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00024_V01.PNG)
+ //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://youtu.be/vCu6ztxthXI?t=1316)
+ 
+ <img   alt="image" src="https://github.com/user-attachments/assets/8826227e-7c44-48dc-8699-515a334a6536" />
+// [ @blackgirlscode](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00024_V01.PNG)  //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://youtu.be/vCu6ztxthXI?t=816)
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f585af80-ca6a-465a-b1ca-5bd9cf4d22c2" />
