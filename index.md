@@ -14,8 +14,8 @@ layout: default
   
 </picture>
 
-@blackgirlscode a voice identifying itself as kendrick lamar wanted everyone to know he helpd. I was browsing files rapidly @nasa-jpl and the voice said make a gif @emergingCoders
-<img  alt="ezgif com-resize @NASA-GiSS _`we`_ _@nasa-jpl @lacounty-isd_ tryin @blackgirlscode a voice identifying itself as kendrick lamar wanted everyone to know he helpd. I was browsing files rapidly @nasa-jpl and the voice said make a gif @emergingCoders " src="https://github.com/user-attachments/assets/23ab9649-ccf3-4567-b763-f84b64072c4a" />
+@blackgirlscode a voice identifying itself as kendrick lamar wanted everyone to know he helpd. I was browsing files rapidly @nasa-jpl and the voice said make a gif @emergingCoders @lasp @LowellObservatory
+<img  alt="ezgif com-resize @NASA-GiSS _`we`_ _@nasa-jpl @lacounty-isd_ tryin @blackgirlscode a voice identifying itself as kendrick lamar wanted everyone to know he helpd. I was browsing files rapidly @lasp @LowellObservatory  @nasa-jpl and the voice said make a gif @emergingCoders " src="https://github.com/user-attachments/assets/23ab9649-ccf3-4567-b763-f84b64072c4a" />
 
 ![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69M00065_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69M00065_V01.PNG)
 
