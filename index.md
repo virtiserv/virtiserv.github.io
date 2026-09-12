@@ -14,6 +14,9 @@ layout: default
   
 </picture>
 
+
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg)
+
 @blackgirlscode a voice identifying itself as kendrick lamar wanted everyone to know he helpd. I was browsing files rapidly @nasa-jpl and the voice said make a gif @emergingCoders @lasp @LowellObservatory taken from pds dir [planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/ @nasa-jpl @CityOFLosAngeles @Longbeachinnovationteam](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/)
 <img  alt="ezgif com-resize @NASA-GiSS _`we`_ _@nasa-jpl @lacounty-isd_ tryin @blackgirlscode a voice identifying itself as kendrick lamar wanted everyone to know he helpd. I was browsing files rapidly @lasp @LowellObservatory  @nasa-jpl and the voice said make a gif @emergingCoders " src="https://github.com/user-attachments/assets/23ab9649-ccf3-4567-b763-f84b64072c4a" />
 
@@ -42,14 +45,17 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/f585af80-ca6a-465a-b1ca-5bd9cf4d22c2" />
 
 [@NASA-GiSS _`we`_ _@nasa-jpl @lacounty-isd_ tryin planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00022_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00022_V01.PNG)
+
  <img   alt="image" src="https://github.com/user-attachments/assets/9a05c721-92fb-49ff-a49a-318c0725d4b9" />
 
 [ @nasa @deptofwar sabotage ? @la-county-isd planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00036_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00036_V01.PNG)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/95f4110b-f05c-4a24-9564-1762b784083c" />
 
 ![@nasa-pds hi this is one of the files that mark the start of something crummier than johnson family popcorn](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/EDR/JUPITER/ORBIT_71/JNCE_2025110_71R00458_V01.PNG)
 
 ![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025222_74R00206_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025222_74R00206_V01.PNG)
+
 ---
 [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61M00135_V01.PNG @nasa-pds the bad files start around ](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61M00135_V01.PNG)
 <img alt="image" src="https://github.com/user-attachments/assets/6dc1ea0a-c8c2-4a78-b5a3-43da32be021c" />
@@ -64,17 +70,19 @@ layout: default
 [CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [M.I.A. - Bring The Noize](https://youtu.be/RvUVxYndYuU) // [Chloe Bailey Reveals What She's Looking For In Her Next Partner](https://www.youtube.com/watch?v=HfPuYiwvS1Q) // [Chloe Bailey Heated After Troll Mentions String Showing During Her Essence Fest Performance! 😡](https://www.youtube.com/watch?v=IU9hL9qVaEs) //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) //  [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 
 
-![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024132_61M00002_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024132_61M00002_V01.PNG) 
+![planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024132_61M00002_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024132_61M00002_V01.PNG) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/bb4916f0-3f7e-4975-ad1f-007a8124b44e" />
 
 [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/GLOBAL_MAPS/JNCR_2024133_61H00000_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/GLOBAL_MAPS/JNCR_2024133_61H00000_V01.PNG)
  //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://www.youtube.com/watch?v=vCu6ztxthXI) // 
 [BigFile @nasa-pds](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/EDR/JUPITER/ORBIT_77/JNCE_2025290_77C00009_V01.PNG)
+
 ![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 @nasa-pds @nasa-jpl juno is communicating in goldstone `	www.gdscc.nasa.gov` the website still broken @Nasa-giss @nasa-develop please check on them [@ Fort Irwin! home.army.mil/irwin/contact/directory @nasa @asc-csa @ESA ](https://home.army.mil/irwin/contact/directory) @jaxa . . . @CityOfLosAngeles i am going to check the data volumes, it was crashing a few cycles ago @whitehouse the [camera is fucked](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_78/JNCR_2025323_78C00012_V01.PNG) but it looks like a config issue [@DeptOfWar Marci](https://pds-geosciences.wustl.edu/missions/mro/default.htm) on MRO has the same problem 
 ![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_75/JNCR_2025224_75T00001_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_75/JNCR_2025224_75T00001_V01.PNG) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/48330d80-343d-46a1-b080-f62153eb438c" />
 
 <div class="tupperware">
