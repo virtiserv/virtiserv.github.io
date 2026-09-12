@@ -18,6 +18,17 @@ layout: default
 
 --- 
 
+<img alt="image" src="https://github.com/user-attachments/assets/657ce544-15f0-471d-ac57-04e9b23337b1" />
+
+@nasa-jpl @foratlanta @deptofwar @whitehouse @blackgirlscode
+
+```
+@lanajharris@gmail.com hi @normani@fifthharmonyofficial.com @Normaniofficial@outlook.com idk what you guys are up to but im working on my reports i did one for the hurricane in longbeach and told people to talk to @HollyJMitchell@bos.lacounty.gov if they want hurricane imigery ... I am still surfing instructions from @customer_services_dfcs@dhs.ga.gov and really dont know whats up with coral or erika! However i have been keeping my agreement with @info@keishaforgovernor.com / @keishaforgovernor@gmail.com to post everyday, remember she is the manager of all federal employees in georgia @georgia.governor@gov.state.ga.us i heard she was mayor again @adickens@atlantaga.gov  .... @Media.Relations@fernbankmuseum.org here are some note i have on a recent space telescope, i was hired to try to keep track of the things https://ra5hard.github.io/nancygrace @atlantacouncil@atlantaga.gov .... @chloe.baily@gmail.com @tinyharris@gmail.com whatever is going on in your househole theres a lot of data that whatever latrice is can process with spaceforce to get nasajpl discovery credit for images so they dont get molested in hollywood im gbeing tortured!
+@education@esa.int @FirstDistrict@bos.lacounty.gov this is your earthdata delivery vehicle as outlined in our instructions from @The White House @douglas.j.newman@nasa.gov  @Whs Pentagon Esd Mbx Secrev Secretarty Hegseth im being brutalized man electric torture, i dont know where the girrls are anymore but they keep communicating and i can prove it to you make sure our rep @press@hot97.com @info@hot97.com is good @info@lamission.net @info@snoopdogg.com @scott.snowden@smdp.com 
+-rashard Nasajpl
+```
+
+<img   alt="GVnkCdcWQAEfJM_" src="https://github.com/user-attachments/assets/8674dcbe-606d-43bc-b0ff-10b310ba45e7" />
 
 # CAssini
 
