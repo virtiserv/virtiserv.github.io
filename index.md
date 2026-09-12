@@ -14,6 +14,9 @@ layout: default
   
 </picture>
 
+[@UCLA planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00030_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69M00030_V01.PNG)
+<img  alt="image" src="https://github.com/user-attachments/assets/e91dc3f8-ad5e-4dc5-99d1-daca3977fa8d" />
+
 
 [ planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00015_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025028_69C00015_V01.PNG)
 <img  alt="image" src="https://github.com/user-attachments/assets/5439f105-a624-4271-95d8-4674f9502db0" />
