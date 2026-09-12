@@ -16,6 +16,12 @@ layout: default
 
 
 
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025222_74R00206_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025222_74R00206_V01.PNG)
+---
+[https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61M00135_V01.PNG @nasa-pds the bad files start around ](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61M00135_V01.PNG)
+<img alt="image" src="https://github.com/user-attachments/assets/6dc1ea0a-c8c2-4a78-b5a3-43da32be021c" />
+
+
  //  [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM @Blackgirlscode hi](https://www.youtube.com/watch?v=vCu6ztxthXI) // 
 [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61C00137_V01.PNG @nasa-pds](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0029/EXTRAS/FULL/EDR/JUPITER/ORBIT_61/JNCE_2024133_61C00137_V01.PNG)
 
