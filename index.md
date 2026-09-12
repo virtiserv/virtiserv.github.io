@@ -15,6 +15,7 @@ layout: default
 </picture>
 
 
+![@nasa-pds hi this is one of the files that mark the start of something crummier than johnson family popcorn](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/EDR/JUPITER/ORBIT_71/JNCE_2025110_71R00458_V01.PNG)
 
 ![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025222_74R00206_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_74/JNCR_2025222_74R00206_V01.PNG)
 ---
