@@ -14,6 +14,9 @@ layout: default
   
 </picture>
 
+[Mr. Lif - Enters The Colossus](https://youtu.be/_t52handuvU) you snuck in again, idk y i have been running from this album for years! 
+
+--- 
 
 ![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg)
 
