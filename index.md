@@ -14,6 +14,9 @@ layout: default
   
 </picture>
 
+
+<img  alt="ezgif com-resize @NASA-GiSS _`we`_ _@nasa-jpl @lacounty-isd_ tryin " src="https://github.com/user-attachments/assets/23ab9649-ccf3-4567-b763-f84b64072c4a" />
+
 ![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69M00065_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0032/EXTRAS/FULL/RDR/JUPITER/ORBIT_69/JNCR_2025029_69M00065_V01.PNG)
 
 [https://sdss.physics.nyu.edu/mblanton/v0/detect/v0_1/14h/p48/J143247.76+492751.5/J143247.76+492751.5.jpg](https://sdss.physics.nyu.edu/mblanton/v0/detect/v0_1/14h/p48/J143247.76+492751.5/J143247.76+492751.5.jpg) 
