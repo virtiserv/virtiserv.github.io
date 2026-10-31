@@ -22,6 +22,7 @@ mathjax: true
 
 
 # Kiki's Delivery Service
+[_Files for kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta_](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta) // [Ost](https://youtu.be/8GA2Z9jXBkY?si=ZFBaWHshF-XMUf8T)
 [<video controls loading="lazy" poster="https://animeuknews.net/app/uploads/2026/08/Kikis-Delivery-Service-scaled.jpg" src="https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4" />](https://archive.org/download/kikis.-delivery.-service.-1989.1080p.-bdrip.-dual.-audio.-10bits.x-265-rapta/Kiki%27s.Delivery.Service.1989.1080p.BDRip.Dual.Audio.10bits.x265-Rapta.mp4)
 [@ajcnews @cityoflosangeles @foratlanta animeuknews.net/2026/08/kikis-delivery-service-review/](https://animeuknews.net/2026/08/kikis-delivery-service-review/)
 <img alt="image" src="https://github.com/user-attachments/assets/f6779cd9-0fcb-46d1-8f69-ec9e375883e3" />
@@ -54,6 +55,7 @@ mathjax: true
 [`WATCH` @LA-COUNTY-ISD @CityOFLOSANGELES - youtu.be/Vx-JkoYGGv4?t=501](https://youtu.be/Vx-JkoYGGv4?t=501)
 <img alt="image" src="https://github.com/user-attachments/assets/5ef99892-2515-4862-a8ff-405dbbab3f52" />
 
+![https://yt3.googleusercontent.com/C7aivqXEsShhQpz689uVxEUpzzifrxA8Mc49dzudW3bcsVs23Cqwe6RgWkqGRU0IxwzY-M4U0A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/C7aivqXEsShhQpz689uVxEUpzzifrxA8Mc49dzudW3bcsVs23Cqwe6RgWkqGRU0IxwzY-M4U0A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
  [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=1511)
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094100_094199/ESP_094198_0945/ESP_094198_0945_COLOR.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094100_094199/ESP_094198_0945/ESP_094198_0945_COLOR.abrowse.jpg) 
