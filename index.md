@@ -14,6 +14,12 @@ mathjax: true
   
 </picture>
 
+[@nasa-jpl hi Who You Wit - Lil Jon & The East Side Boyz @CityOfSantaMonica](https://youtu.be/Z2QNLU9wV9U?t=29)
+
+![https://www.google.com/logos/doodles/2026/day-of-the-dead-2026-6753651837111020-2xa.gif](https://www.google.com/logos/doodles/2026/day-of-the-dead-2026-6753651837111020-2xa.gif)
+[doodles.google/doodle/day-of-the-dead-2026/ @cityoflosangeles](https://doodles.google/doodle/day-of-the-dead-2026/)
+![https://www.google.com/logos/doodles/2026/celebrating-nahm-2026-6753651837111167-ldrk2x.png](https://www.google.com/logos/doodles/2026/celebrating-nahm-2026-6753651837111167-ldrk2x.png)
+
 [Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8) // [How Long (Betcha' Got A Chick On The Side)](https://youtu.be/Ad4HPYFzJNU?list=RDAd4HPYFzJNU) // [Ghetto Mafia - For The Good Times (Straight From The Dec)](https://youtu.be/nuYSteLH104?list=RDnuYSteLH104) // [BLACK EFFECT · THE CARTERS](https://youtu.be/3HVqowAv_YQ?list=RD3HVqowAv_YQ) // [Kilo "Tick Tock" (1993) Atlanta Rap](https://youtu.be/R4YijJ0hCSI?list=RDR4YijJ0hCSI) // [Sweet Pursuit (feat. Kay Cola) · Skyzoo](https://youtu.be/qTCXmbhB4Wg?si=nwwak38aS2dLKR4N) // [@howard-university-web-services '95 Bad Boy Logo · Skyzoo](https://youtu.be/o52FiqDJg5c?list=PLZPEOlTnCG_oZy1iQ9C_gSiqS8tpP5_QE) // [Skyzoo & Pete Rock - Truck Jewels ](https://youtu.be/vlTNo_ijcD0?list=RDvlTNo_ijcD0&t=21) // [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=21) //// [All City - The Actual (Dj Premier)](https://youtu.be/bVhySDlYuVs?list=RDbVhySDlYuVs) // [Nas - Christmastic (Full Album)](https://youtu.be/F7Ikn9WrSJU) // [@CityOfLosAngeles @la-county-isd DJ Brucie B and MC Hollywood - 1985 Rooftop Party](https://youtu.be/w1MZyutdJKo?list=RDw1MZyutdJKo&t=2) // [Changes i've been going through-Mary J. Blige📀](https://youtu.be/Ya2WikYW5wI?list=RDYa2WikYW5wI) // [Mary's Joint · Mary J. Blige](https://youtu.be/-BOSNBXfnhA?list=RDYa2WikYW5wI) // [INever Wanna Live Without You · Mary J. Blige](https://youtu.be/iWlPnD0Qb1U?list=RDiWlPnD0Qb1U)
 
 --- 
