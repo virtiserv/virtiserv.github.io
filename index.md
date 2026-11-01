@@ -20,10 +20,18 @@ mathjax: true
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
 [@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
 
+
+## Mary J. Blige Stops Show To Confront Booing Fan
+[https://www.youtube.com/watch?v=DGVeQKphfKE&list=PLnI3_4-DmlVPcSDXlnZeMdEpPqNMIgbPZ&index=2](https://www.youtube.com/watch?v=DGVeQKphfKE&list=PLnI3_4-DmlVPcSDXlnZeMdEpPqNMIgbPZ&index=2) 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cecf1c8e-39a8-467c-967d-208b706adced" />
+
+
 ## Your last-minute guide to the L.A. mayor’s race: Bass vs. Raman
 @DATADESK @LATIMES @AJCNEWS [`read` - https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-mayor-bass-raman-last-minute-voter-guide](https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-mayor-bass-raman-last-minute-voter-guide)
 ![https://ca-times.brightspotcdn.com/dims4/default/6118462/2147483647/strip/true/crop/1617x1199+0+0/resize/1200x890!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2Fa6%2Ffa233b054ad8b4ada26cc7707c51%2Framan-bass.jpg](https://ca-times.brightspotcdn.com/dims4/default/6118462/2147483647/strip/true/crop/1617x1199+0+0/resize/1200x890!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2Fa6%2Ffa233b054ad8b4ada26cc7707c51%2Framan-bass.jpg)
 
+<img alt="image" src="https://github.com/user-attachments/assets/7c0627b3-d465-4290-b385-8717b2aa74d3" />
+![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 @nasa-jpl hi @doug-newman-nasa I don't know who gave me the assignment I'm sure it was [Robin Obrien](https://www.gettyimages.com/detail/news-photo/ground-data-engineer-robin-obrien-points-to-her-computer-news-photo/52024216?slot=18) [[1](https://ntrs.nasa.gov/citations/19890043692)] , [@CityOfLosAngeles Mayor Karen @UCLA](https://healthpolicy.ucla.edu/30-year-anniversary/honorees/mayor-karen-bass) BUT I FOUND THE WEATHER MAP WITH THE NUMBERS [lINDSEY @LA-COUNTY-ISD](https://lindseyhorvath.lacounty.gov/) I WILL CONTINUE PUTTING THE WEATHER TOGETHER, SO I WANT YOU TO KNOW I MADE PROGRESS using available gear @nasa-jpl @commercegov @noaagov 
 <img  alt="image" src="https://github.com/user-attachments/assets/4ddbeb61-696f-426e-b99b-7cdc0b0f3659" />
