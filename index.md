@@ -14,9 +14,29 @@ mathjax: true
   
 </picture>
 
-[Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8) // [How Long (Betcha' Got A Chick On The Side)](https://youtu.be/Ad4HPYFzJNU?list=RDAd4HPYFzJNU) // [Ghetto Mafia - For The Good Times (Straight From The Dec)](https://youtu.be/nuYSteLH104?list=RDnuYSteLH104) // [BLACK EFFECT · THE CARTERS](https://youtu.be/3HVqowAv_YQ?list=RD3HVqowAv_YQ) // [Kilo "Tick Tock" (1993) Atlanta Rap](https://youtu.be/R4YijJ0hCSI?list=RDR4YijJ0hCSI) // [Sweet Pursuit (feat. Kay Cola) · Skyzoo](https://youtu.be/qTCXmbhB4Wg?si=nwwak38aS2dLKR4N) // [@howard-university-web-services '95 Bad Boy Logo · Skyzoo](https://youtu.be/o52FiqDJg5c?list=PLZPEOlTnCG_oZy1iQ9C_gSiqS8tpP5_QE) // [Skyzoo & Pete Rock - Truck Jewels ](https://youtu.be/vlTNo_ijcD0?list=RDvlTNo_ijcD0&t=21) // [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=21) //// [All City - The Actual (Dj Premier)](https://youtu.be/bVhySDlYuVs?list=RDbVhySDlYuVs) // [Nas - Christmastic (Full Album)](https://youtu.be/F7Ikn9WrSJU) // [@CityOfLosAngeles @la-county-isd DJ Brucie B and MC Hollywood - 1985 Rooftop Party](https://youtu.be/w1MZyutdJKo?list=RDw1MZyutdJKo&t=2)
+[Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8) // [How Long (Betcha' Got A Chick On The Side)](https://youtu.be/Ad4HPYFzJNU?list=RDAd4HPYFzJNU) // [Ghetto Mafia - For The Good Times (Straight From The Dec)](https://youtu.be/nuYSteLH104?list=RDnuYSteLH104) // [BLACK EFFECT · THE CARTERS](https://youtu.be/3HVqowAv_YQ?list=RD3HVqowAv_YQ) // [Kilo "Tick Tock" (1993) Atlanta Rap](https://youtu.be/R4YijJ0hCSI?list=RDR4YijJ0hCSI) // [Sweet Pursuit (feat. Kay Cola) · Skyzoo](https://youtu.be/qTCXmbhB4Wg?si=nwwak38aS2dLKR4N) // [@howard-university-web-services '95 Bad Boy Logo · Skyzoo](https://youtu.be/o52FiqDJg5c?list=PLZPEOlTnCG_oZy1iQ9C_gSiqS8tpP5_QE) // [Skyzoo & Pete Rock - Truck Jewels ](https://youtu.be/vlTNo_ijcD0?list=RDvlTNo_ijcD0&t=21) // [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=21) //// [All City - The Actual (Dj Premier)](https://youtu.be/bVhySDlYuVs?list=RDbVhySDlYuVs) // [Nas - Christmastic (Full Album)](https://youtu.be/F7Ikn9WrSJU) // [@CityOfLosAngeles @la-county-isd DJ Brucie B and MC Hollywood - 1985 Rooftop Party](https://youtu.be/w1MZyutdJKo?list=RDw1MZyutdJKo&t=2) // [Changes i've been going through-Mary J. Blige📀](https://youtu.be/Ya2WikYW5wI?list=RDYa2WikYW5wI) // [Mary's Joint · Mary J. Blige](https://youtu.be/-BOSNBXfnhA?list=RDYa2WikYW5wI) // [INever Wanna Live Without You · Mary J. Blige](https://youtu.be/iWlPnD0Qb1U?list=RDiWlPnD0Qb1U)
 
 --- 
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+
+
+@nasa-jpl hi @doug-newman-nasa I don't know who gave me the assignment I'm sure it was [Robin Obrien]() [[1](https://ntrs.nasa.gov/citations/19890043692)]
+<img  alt="image" src="https://github.com/user-attachments/assets/4ddbeb61-696f-426e-b99b-7cdc0b0f3659" />
+
+
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
+
+
+### @nasa on `El Nino` 
+  [Steve Pawson](https://share.google/aimode/Hq6siXMhXKxm5ueVb).
+-  [Recorded on 2016-03-23. - @libraryofcongress https://www.loc.gov/item/2021690074/](https://www.loc.gov/item/2021690074/) 
+[`read` - NASA Satellites Observe Historic 2026 El Niño](https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/) // [What to watch for: El Nino likely to develop this summer](https://www.noaa.gov/news/what-to-watch-for-el-nino-likely-to-develop-summer)
+[<video controls loading="lazy" poster="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" src="https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/16/03/23/st/b1/13/0/160323stb1130/160323stb1130_768x432_800.mp4" />](https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/16/03/23/st/b1/13/0/160323stb1130/160323stb1130_768x432_800.mp4)
+
 
 
 ##  The [Lana](https://podcasts.apple.com/dz/podcast/from-newsroom-to-hot-97-lana-harris-on-betting-on-yourself/id1807999562?i=1000744063416&l=ar) Rundown
@@ -429,7 +449,7 @@ by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
-
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
 
 
 @rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode
