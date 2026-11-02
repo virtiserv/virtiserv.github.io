@@ -31,6 +31,8 @@ mathjax: true
 
 ![https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png](https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png) 
 
+<img alt="GIOVANNI-outputnE2pn4L_" src="https://github.com/user-attachments/assets/df672430-ba00-4cc6-86da-ad104f1b159f" />
+
 https://archive.org/details/@thakaserika_selassie_kelly
 https://archive.org/details/@thakaserika_selassie_kelly/favorites
 ## @la-county-isd seaswell today @CityOfSantasMonica
