@@ -22,8 +22,8 @@ mathjax: true
 
 --- 
 
-
-
+https://archive.org/details/@thakaserika_selassie_kelly
+https://archive.org/details/@thakaserika_selassie_kelly/favorites
 ## @la-county-isd seaswell today @CityOfSantasMonica
 [@usgs water dashboard dam output view - `usingUSGSwaterDashboardtocheckDamOUTPUT`](https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/usingUSGSwaterDashboardtocheckDamOUTPUT.webm)
 ![https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/Screenshot%202026-11-01%203.23.45%20PM.png](https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/Screenshot%202026-11-01%203.23.45%20PM.png) 
