@@ -14,6 +14,40 @@ mathjax: true
   
 </picture>
 
+
+
+
+
+[@nasa-jpl hi Who You Wit - Lil Jon & The East Side Boyz @CityOfSantaMonica](https://youtu.be/Z2QNLU9wV9U?t=29) // [@Blackgirlscode @foratlanta @ajcnews J.E.E.Z.Y. · Young Jeezy](https://youtu.be/o_Kz2-3bIUY?list=PLjzGTUqYI0lQV3lFXx9LLCs71eSS6ekZD&t=20) //[Kilo Ali - Cocaine (America Has a Problem) (@ForAtlanta Classic 1990 @ajcnews)](https://youtu.be/RaHlnFPcNx0?si=z52JbNun42cm_qK_) // [Kilo Ali - The Piz (True Atlanta Classic) 1991 @nbcnews](https://youtu.be/Oo5SrXA7AM8?list=RDOo5SrXA7AM8&t=20) // [DJ Magic Mike-Feel The Bass Again(part 2)](https://youtu.be/gy5P3i6zIaQ?list=PLxNho4akT00HgFt97CZHm-FtkpfLFKQFV&t=24) // [U.N.K.L.E vs Scratch Perverts Breezeblock Show @bbc](https://youtu.be/DdTcYQrPHSg?si=7eOcMALr-Wlwb0rh)
+
+--- 
+
+
+
+## @la-county-isd seaswell today @CityOfSantasMonica
+[@usgs water dashboard dam output view - `usingUSGSwaterDashboardtocheckDamOUTPUT`](https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/usingUSGSwaterDashboardtocheckDamOUTPUT.webm)
+![https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/Screenshot%202026-11-01%203.23.45%20PM.png](https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/Screenshot%202026-11-01%203.23.45%20PM.png) 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A309797860&color=%230066ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/unkle-versus-scratch-perverts-radio-one-breezeblock-show-02011999" title="U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)" target="_blank" style="color: #cccccc; text-decoration: none;">U.N.K.L.E. versus Scratch Perverts: Radio One Breezeblock Show (02/01/1999)</a></div>
+
+![https://img.lbpost.com/wp-content/uploads/sites/2/2026/09/08135851/tuesday-sept-82026-peninsula-4-01-850478-u3ygu1bi-331494-fHu0Bxao-1024x552.jpg](https://img.lbpost.com/wp-content/uploads/sites/2/2026/09/08135851/tuesday-sept-82026-peninsula-4-01-850478-u3ygu1bi-331494-fHu0Bxao-1024x552.jpg)
+
+@podaac  hi @nasa @nasa-jpl @la-county-isd the sea level in Santa Monica is really high just under the pier. I made a vide to halp all municipalities check water level bc it could be a nationwide attck... It looked like Katrina in reports! And Prior swells that led to property loss in La County [Malibu advances emergency storm preparations as coastal repairs near completion](https://malibutimes.com/malibu-advances-emergency-storm-preparations-as-coastal-repairs-near-completion) // [Waves demolished this beach and tore at homes’ foundations: why this storm was different - lbpost.com](https://lbpost.com/news/waves-demolished-this-beach-and-tore-at-homes-foundations-why-this-storm-was-different/)
+
+ 
+[dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.71328%2C33.62806%2C-117.34019%2C34.30937%5D&view=%7B%22basemap%22%3A%22EsriImagery](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.71328%2C33.62806%2C-117.34019%2C34.30937%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.71327628643205%2C33.628058549210245%2C-117.34019265340898%2C34.30937226210581%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C2%2C3%2C4%2C7%2C10%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) // [https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=geolocate-huc4&view=flooding](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=geolocate-huc4&view=flooding)
+[https://archive.org/details/m_3311822_ne_11_060_20220511](https://archive.org/details/m_3311822_ne_11_060_20220511)
+[<video controls loading="lazy" poster="https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/Screenshot%202026-11-01%203.23.45%20PM.png" src="https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/usingUSGSwaterDashboardtocheckDamOUTPUT.webm" />](https://ia601803.us.archive.org/25/items/m_3311822_ne_11_060_20220511/usingUSGSwaterDashboardtocheckDamOUTPUT.webm)
+https://archive.org/details/m_3311822_ne_11_060_20220511
+
+<img alt="image" src="https://github.com/user-attachments/assets/be1d5042-b9b0-47f7-a0d3-acee962ef7ee" />
+
+
+
+![https://www.google.com/logos/doodles/2026/day-of-the-dead-2026-6753651837111020-2xa.gif](https://www.google.com/logos/doodles/2026/day-of-the-dead-2026-6753651837111020-2xa.gif)
+[doodles.google/doodle/day-of-the-dead-2026/ @cityoflosangeles](https://doodles.google/doodle/day-of-the-dead-2026/)
+![https://www.google.com/logos/doodles/2026/celebrating-nahm-2026-6753651837111167-ldrk2x.png](https://www.google.com/logos/doodles/2026/celebrating-nahm-2026-6753651837111167-ldrk2x.png)
+
 [Spontaneity · Bahamadia](https://youtu.be/S6rxanIXIv8?list=RDS6rxanIXIv8) // [How Long (Betcha' Got A Chick On The Side)](https://youtu.be/Ad4HPYFzJNU?list=RDAd4HPYFzJNU) // [Ghetto Mafia - For The Good Times (Straight From The Dec)](https://youtu.be/nuYSteLH104?list=RDnuYSteLH104) // [BLACK EFFECT · THE CARTERS](https://youtu.be/3HVqowAv_YQ?list=RD3HVqowAv_YQ) // [Kilo "Tick Tock" (1993) Atlanta Rap](https://youtu.be/R4YijJ0hCSI?list=RDR4YijJ0hCSI) // [Sweet Pursuit (feat. Kay Cola) · Skyzoo](https://youtu.be/qTCXmbhB4Wg?si=nwwak38aS2dLKR4N) // [@howard-university-web-services '95 Bad Boy Logo · Skyzoo](https://youtu.be/o52FiqDJg5c?list=PLZPEOlTnCG_oZy1iQ9C_gSiqS8tpP5_QE) // [Skyzoo & Pete Rock - Truck Jewels ](https://youtu.be/vlTNo_ijcD0?list=RDvlTNo_ijcD0&t=21) // [📀Apollo Brown & Skyzoo - 'The Easy Truth'📀](https://youtu.be/YDDQBTKi3DA?list=PLZb5Do1uBWhwBRWnr_fykxHVdiyckCJhy&t=21) //// [All City - The Actual (Dj Premier)](https://youtu.be/bVhySDlYuVs?list=RDbVhySDlYuVs) // [Nas - Christmastic (Full Album)](https://youtu.be/F7Ikn9WrSJU) // [@CityOfLosAngeles @la-county-isd DJ Brucie B and MC Hollywood - 1985 Rooftop Party](https://youtu.be/w1MZyutdJKo?list=RDw1MZyutdJKo&t=2) // [Changes i've been going through-Mary J. Blige📀](https://youtu.be/Ya2WikYW5wI?list=RDYa2WikYW5wI) // [Mary's Joint · Mary J. Blige](https://youtu.be/-BOSNBXfnhA?list=RDYa2WikYW5wI) // [INever Wanna Live Without You · Mary J. Blige](https://youtu.be/iWlPnD0Qb1U?list=RDiWlPnD0Qb1U)
 
 --- 
