@@ -22,6 +22,13 @@ mathjax: true
 
 --- 
 
+[@nasa hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093600_093699/ESP_093627_2130_ESP_094062_2130/ESP_093627_2130_ESP_094062_2130_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093600_093699/ESP_093627_2130_ESP_094062_2130/ESP_093627_2130_ESP_094062_2130_RED.browse.png)
+![@deptofwar @ussf-orbit hi rashard reporting an anomolie @asulibraries @nasa-jpl hi @blackgirlscode https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093600_093699/ESP_093627_2130_ESP_094062_2130/ESP_093627_2130_ESP_094062_2130_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093600_093699/ESP_093627_2130_ESP_094062_2130/ESP_093627_2130_ESP_094062_2130_RED.browse.png) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/30cc11e4-47fb-4579-b239-82f0023cdf6f" />
+
+
+
 ![https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png](https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png) 
 
 https://archive.org/details/@thakaserika_selassie_kelly
