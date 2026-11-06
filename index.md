@@ -13,7 +13,7 @@ mathjax: true
   
 </picture>
 
-[TLC - Unpretty hi @Nasa-pds](https://youtu.be/g2gy1Evb1Kg?list=RDg2gy1Evb1Kg&t=22) // [TLC - Dear Lie](https://youtu.be/mcF5wl2PlmU?list=RDmcF5wl2PlmU&t=31)
+[TLC - Unpretty hi @Nasa-pds](https://youtu.be/g2gy1Evb1Kg?list=RDg2gy1Evb1Kg&t=22) // [TLC - Dear Lie](https://youtu.be/mcF5wl2PlmU?list=RDmcF5wl2PlmU&t=31) // [Last Days Of Left Eye Full Documentary](https://youtu.be/mvVVOEPuJ3U?t=888)
 
 ---
 
@@ -23,7 +23,7 @@ mathjax: true
 ### Little Orphan Annie
 
 
-[`WATCH` - "Little Orphant Annie" (1918) with Colleen Moore](https://youtu.be/sduwxYTUPB4?t=25)
+[`WATCH` - "Little Orphant Annie" (1918) with Colleen Moore](https://youtu.be/sduwxYTUPB4?t=25) // [Last Days Of Left Eye Full Documentary @nasa-pds help @ajcnews](https://youtu.be/mvVVOEPuJ3U?t=888)
 <img  alt="image" src="https://github.com/user-attachments/assets/3d75a7f8-2d64-4f3d-ac21-c92fc3706d1a" />
 
 Little Orphan Annie radio program [1931]
