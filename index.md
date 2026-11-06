@@ -19,8 +19,8 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
-
-
+[EMIT_L1B_RAD_001_20260725T214141_2620614_002 @ucberkeley](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4263561265-LPCLOUD&q=emit&sb[0]=-122.70642%2C37.36507%2C-121.93031%2C38.21806&lat=37.7606125&long=-122.95365434102563&zoom=7.678762559960843)
+<img alt="EMIT_L1B_RAD_001_20260725T214141_2620614_002" src="https://github.com/user-attachments/assets/672cbe8b-c1d1-42bf-bfc0-a9420fb68991" />
 
 
 EMIT_L1B_RAD_001_20260802T183351_2621412_003
