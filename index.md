@@ -20,6 +20,10 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 
+[https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg=emit](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4272236415-LPCLOUD&q=emit&sb[0]=-122.70642%2C37.36507%2C-121.93031%2C38.21806&lat=37.81882847554083&long=-122.59692789278552&zoom=9.88208409365924)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/dfca57de-3f3a-4bf7-81af-499ab62d2fd7" />
+
 EMIT_L1B_RAD_001_20260821T175924_2623312_006
 <img  alt="EMIT_L1B_RAD_001_20260821T175924_2623312_006" src="https://github.com/user-attachments/assets/8ba7f62d-6406-4446-9fbc-1f87931fcdfe" />
 
