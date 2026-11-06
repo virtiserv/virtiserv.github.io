@@ -19,6 +19,16 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+[@stateofcalifornia @nasa-jpl @la-county-isd https://www.slocity.org/](https://www.slocity.org/)
+<img  alt="image" src="https://github.com/user-attachments/assets/3236c771-9047-4f0f-bf03-89751cba8a21" />
+
+ECOSTRESS Tiled Land Surface Temperature and Emissivity Instantaneous L2 Global 70 m V002
+
+<img  alt="ECOv002_L2T_LSTE_47214_003_10SFE_20261102T055845_0713_01" src="https://github.com/user-attachments/assets/fdf9ee89-a1c1-4f66-bf94-6011b7d1fb6a" />
+
+
+-
+
 <img   alt="ECOv002_L2T_LSTE_47234_022_22JFP_20261103T120714_0713_01_height" src="https://github.com/user-attachments/assets/73790df8-90b9-4f24-bf36-40614cb994ad" />
 
 
