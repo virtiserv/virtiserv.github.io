@@ -18,9 +18,19 @@ mathjax: true
 ---
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+![https://www.sandiego.gov/themes/custom/sand/images/cosd-logo/cosd-logo-primary-white-color-sails.svg background](https://www.sandiego.gov/themes/custom/sand/images/cosd-logo/cosd-logo-primary-white-color-sails.svg) 
+
+2026-10-27 15:40:01 [@nasa-jpl @ucla search.earthdata.nasa.gov/search/granules?p=C2076106409-LPCLOUD&pg280032464700488](https://search.earthdata.nasa.gov/search/granules?p=C2076106409-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4373086489-LPCLOUD&q=ecostress&sb[0]=-117.18864%2C32.69114%2C-117.13333%2C32.74183&lat=32.9422618&long=-117.42926181532566&zoom=8.280032464700488)
+<img alt="image" src="https://github.com/user-attachments/assets/833e7bb0-0b6d-4040-ac2f-71c4727f7535" />
+10-06
+<img  alt="ECOv002_L3T_JET_46801_004_11SMS_20261006T160105_0713_02_ETdaily" src="https://github.com/user-attachments/assets/87977d1d-9700-40e5-b702-30b05fdd70f0" />
+
 [sandag.org/ @cityoflosangeles](http://www.sandag.org/) @SANDAG @sdsc @cityofsandiego
 [EMIT_L2A_RFL_001_20260731T183243_2621212_004](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4232341996-LPCLOUD&q=emit&sb[0]=-117.18864%2C32.69114%2C-117.13333%2C32.74183&lat=32.697517399999995&long=-116.97979367471264&zoom=8.300155745782176)
 <img  alt="EMIT_L2A_RFL_001_20260731T183243_2621212_004" src="https://github.com/user-attachments/assets/f07de0fc-df54-4bd8-ad29-c2843b924fc2" />
+
+![https://www.sandiego.gov/sites/default/files/styles/card/public/mayor-feature-todd-gloria.jpg](https://www.sandiego.gov/sites/default/files/styles/card/public/mayor-feature-todd-gloria.jpg) 
 
 [2026-06-19  EMIT_L2A_RFL_001_20260619T190329_2617012_011 @blackgirlscode @nbcnews ](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4232341996-LPCLOUD&q=emit&sb[0]=-117.18864%2C32.69114%2C-117.13333%2C32.74183&lat=32.697517399999995&long=-116.97979367471264&zoom=8.300155745782176)
 <img alt="EMIT_L2A_RFL_001_20260619T190329_2617012_011" src="https://github.com/user-attachments/assets/45f8864f-262b-4211-ab3b-208f90b7a185" />
