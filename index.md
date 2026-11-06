@@ -13,10 +13,27 @@ mathjax: true
   
 </picture>
 
+[TLC - Unpretty hi @Nasa-pds](https://youtu.be/g2gy1Evb1Kg?list=RDg2gy1Evb1Kg&t=22) // [TLC - Dear Lie](https://youtu.be/mcF5wl2PlmU?list=RDmcF5wl2PlmU&t=31) // [Last Days Of Left Eye Full Documentary](https://youtu.be/mvVVOEPuJ3U?t=888) // [TLC - Way Back ft. Snoop Dogg](https://youtu.be/ibR0rYNMJpI?list=RDibR0rYNMJpI&t=46) // [T-Boz - Touch Myself ft. Richie Rich](https://youtu.be/6oeoQ0RbTd0?list=RD6oeoQ0RbTd0&t=18)
 
-
+---
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+
+[@nasa eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/56fc02f1-5b07-4aae-8836-9ba13833ba1f" />
+
+
+### Little Orphan Annie
+
+
+[`WATCH` - "Little Orphant Annie" (1918) with Colleen Moore](https://youtu.be/sduwxYTUPB4?t=25) // [Last Days Of Left Eye Full Documentary @nasa-pds help @ajcnews](https://youtu.be/mvVVOEPuJ3U?t=888)
+<img  alt="image" src="https://github.com/user-attachments/assets/3d75a7f8-2d64-4f3d-ac21-c92fc3706d1a" />
+
+Little Orphan Annie radio program [1931]
+[archive.org/details/Little-Orphan-Annie](https://archive.org/details/Little-Orphan-Annie) //
+[imdb.com/title/tt0023142/](https://www.imdb.com/title/tt0023142/)
+
 
 ### LIVE AT 5: [Rubio](https://www.newsweek.com/marco-rubio-jd-vance-midterm-elections-2026-12667056) on Resignation Watch After Trump’s Midterm Disaster | [Keisha Bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms) & [Wes Moore](https://governor.maryland.gov/leadership/governor-wes-moore)
 [`WATCH` - _Keisha Bottoms_@foratlanta youtube.com/watch?v=-sCj5lRriSs @ajcnews](https://www.youtube.com/watch?v=-sCj5lRriSs) // [@nasa-jpl @la-county-isd @CityOFLosAngeles files-do-not-link.udc.edu/docs/ga/federal_agency_contacts.pdf](http://files-do-not-link.udc.edu/docs/ga/federal_agency_contacts.pdf)
