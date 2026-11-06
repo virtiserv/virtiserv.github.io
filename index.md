@@ -19,6 +19,62 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+![https://www.sandiego.gov/themes/custom/sand/images/cosd-logo/cosd-logo-primary-white-color-sails.svg background](https://www.sandiego.gov/themes/custom/sand/images/cosd-logo/cosd-logo-primary-white-color-sails.svg) 
+
+2026-10-27 15:40:01 [@nasa-jpl @ucla search.earthdata.nasa.gov/search/granules?p=C2076106409-LPCLOUD&pg280032464700488](https://search.earthdata.nasa.gov/search/granules?p=C2076106409-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4373086489-LPCLOUD&q=ecostress&sb[0]=-117.18864%2C32.69114%2C-117.13333%2C32.74183&lat=32.9422618&long=-117.42926181532566&zoom=8.280032464700488)
+<img alt="image" src="https://github.com/user-attachments/assets/833e7bb0-0b6d-4040-ac2f-71c4727f7535" />
+10-06
+<img  alt="ECOv002_L3T_JET_46801_004_11SMS_20261006T160105_0713_02_ETdaily" src="https://github.com/user-attachments/assets/87977d1d-9700-40e5-b702-30b05fdd70f0" />
+
+[sandag.org/ @cityoflosangeles](http://www.sandag.org/) @SANDAG @sdsc @cityofsandiego
+[EMIT_L2A_RFL_001_20260731T183243_2621212_004](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4232341996-LPCLOUD&q=emit&sb[0]=-117.18864%2C32.69114%2C-117.13333%2C32.74183&lat=32.697517399999995&long=-116.97979367471264&zoom=8.300155745782176)
+<img  alt="EMIT_L2A_RFL_001_20260731T183243_2621212_004" src="https://github.com/user-attachments/assets/f07de0fc-df54-4bd8-ad29-c2843b924fc2" />
+
+![https://www.sandiego.gov/sites/default/files/styles/card/public/mayor-feature-todd-gloria.jpg](https://www.sandiego.gov/sites/default/files/styles/card/public/mayor-feature-todd-gloria.jpg) 
+
+[2026-06-19  EMIT_L2A_RFL_001_20260619T190329_2617012_011 @blackgirlscode @nbcnews ](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4232341996-LPCLOUD&q=emit&sb[0]=-117.18864%2C32.69114%2C-117.13333%2C32.74183&lat=32.697517399999995&long=-116.97979367471264&zoom=8.300155745782176)
+<img alt="EMIT_L2A_RFL_001_20260619T190329_2617012_011" src="https://github.com/user-attachments/assets/45f8864f-262b-4211-ab3b-208f90b7a185" />
+
+
+@newshour @ajcnews @foratlanta I'm just checking on [Lana J HArris](https://yandex.com/search?text=%22lana+j+harris%22&lr=20765) @deptofwar she had some bad info and I hope she did not get in trouble on my account that's all, I saw her older sister and confessed some infidelity and... I don't know I'm being threated by someone going by kodack black in @CityOFlosangeles @nasa . . do he work for Kennedy,he keeps telling me he had my wife in martial arts and I don't know who he's talking about, but he is making me sad and might be one of the people tossing acids on me or baking my scalp into a burnt hotdog texture under the hair @blackgirlscode maybe the Atlanta relationships are dissolving into ok I work here and you do that . . . that was fun, people hate me too , @nasa-jpl thats all she used to talk about!!! then shes like a gogo dancer [ @dhs-gov @commercegov @nasa-jpl @nasa-pds](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) // [ra5hard.github.io/](https://ra5hard.github.io/)
+<img  alt="image" src="https://github.com/user-attachments/assets/0a280c35-3def-47f6-93de-f95a09ecb18e" />
+
+
+# KarenBass Cameos at [B.E.T](bet.com) Awards
+@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
+
+
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" />](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+
+@newshour @foxnews @nbcnews @cbs-news-data [Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+[viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
+[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS)
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Summer Jam ‘26 📸 <a href="https://x.com/HOT97?ref_src=twsrc%5Etfw">@HOT97</a> <a href="https://t.co/DnZKZokAAe">pic.twitter.com/DnZKZokAAe</a></p>&mdash; ITSBIZKIT (@ITSBIZKIT) <a href="https://x.com/ITSBIZKIT/status/2081790559320981733?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+[ @dhs-gov @commercegov @nasa-jpl @nasa-pds](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) // [ra5hard.github.io/](https://ra5hard.github.io/)
+<img alt="image" src="https://github.com/user-attachments/assets/9bdd5866-5020-402f-a3eb-6d4e0fc17c62" />
+
+
+
+
+<object class="scroller" data="https://bubblegumpop01.tumblr.com/" type="text/html" ></object>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2612057709210408%2F&show_text=false&width=267&t=0" class="scroller" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/juno-embed/" type="text/html" ></object>
+
+<object class="scroller" data="https://rashardmro.tumblr.com/" type="text/html" ></object>
+
+
+
+<img  alt="image-images-0" src="https://github.com/user-attachments/assets/d7ea02e3-6c61-48b6-9943-d762e1a8347e" />
+
+@blackgirlscode 
+
+<img  alt="image-images-1 @blackgirlscode forgive me please I see dirt and accomplishment" src="https://github.com/user-attachments/assets/c32750c8-6c32-4b35-9821-a7527ee73785" />
+
 [@stateofcalifornia @nasa-jpl @la-county-isd https://www.slocity.org/](https://www.slocity.org/)
 <img  alt="image" src="https://github.com/user-attachments/assets/3236c771-9047-4f0f-bf03-89751cba8a21" />
 
