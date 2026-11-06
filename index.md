@@ -19,6 +19,8 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+<img   alt="ECOv002_L2T_LSTE_47234_022_22JFP_20261103T120714_0713_01_height" src="https://github.com/user-attachments/assets/73790df8-90b9-4f24-bf36-40614cb994ad" />
+
 
 [@nasa eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img   alt="image" src="https://github.com/user-attachments/assets/56fc02f1-5b07-4aae-8836-9ba13833ba1f" />
