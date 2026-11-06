@@ -20,6 +20,10 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 
+[@nasa eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/56fc02f1-5b07-4aae-8836-9ba13833ba1f" />
+
+
 ### Little Orphan Annie
 
 
