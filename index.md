@@ -18,6 +18,13 @@ mathjax: true
 ---
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+[sandag.org/ @cityoflosangeles](http://www.sandag.org/) @SANDAG @sdsc @cityofsandiego
+[EMIT_L2A_RFL_001_20260731T183243_2621212_004](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4232341996-LPCLOUD&q=emit&sb[0]=-117.18864%2C32.69114%2C-117.13333%2C32.74183&lat=32.697517399999995&long=-116.97979367471264&zoom=8.300155745782176)
+<img  alt="EMIT_L2A_RFL_001_20260731T183243_2621212_004" src="https://github.com/user-attachments/assets/f07de0fc-df54-4bd8-ad29-c2843b924fc2" />
+
+[2026-06-19  EMIT_L2A_RFL_001_20260619T190329_2617012_011 @blackgirlscode @nbcnews ](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4232341996-LPCLOUD&q=emit&sb[0]=-117.18864%2C32.69114%2C-117.13333%2C32.74183&lat=32.697517399999995&long=-116.97979367471264&zoom=8.300155745782176)
+<img alt="EMIT_L2A_RFL_001_20260619T190329_2617012_011" src="https://github.com/user-attachments/assets/45f8864f-262b-4211-ab3b-208f90b7a185" />
+
 
 @newshour @ajcnews @foratlanta I'm just checking on [Lana J HArris](https://yandex.com/search?text=%22lana+j+harris%22&lr=20765) @deptofwar she had some bad info and I hope she did not get in trouble on my account that's all, I saw her older sister and confessed some infidelity and... I don't know I'm being threated by someone going by kodack black in @CityOFlosangeles @nasa . . do he work for Kennedy,he keeps telling me he had my wife in martial arts and I don't know who he's talking about, but he is making me sad and might be one of the people tossing acids on me or baking my scalp into a burnt hotdog texture under the hair @blackgirlscode maybe the Atlanta relationships are dissolving into ok I work here and you do that . . . that was fun, people hate me too , @nasa-jpl thats all she used to talk about!!! then shes like a gogo dancer [ @dhs-gov @commercegov @nasa-jpl @nasa-pds](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) // [ra5hard.github.io/](https://ra5hard.github.io/)
 <img  alt="image" src="https://github.com/user-attachments/assets/0a280c35-3def-47f6-93de-f95a09ecb18e" />
