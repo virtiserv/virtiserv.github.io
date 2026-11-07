@@ -24,6 +24,9 @@ mathjax: true
 
 # The Bay Area 
 [Zeph and Azeem - Play the Drum ](https://youtu.be/C5YQE1kIAzI?list=RDC5YQE1kIAzI&t=9) @stateofcalifornia 
+[https://developer.apple.com/fonts/](https://developer.apple.com/fonts/) [https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)
+
+<img alt="image  @stateofcalifornia browser.dataspace.copernicus.eU @eu-cdse @esa " src="https://github.com/user-attachments/assets/d481dfc2-e7b0-43c4-bed3-61dfd6ff37d6" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/23b88532-0ad5-4963-88d5-898e90037bcc" />
 
