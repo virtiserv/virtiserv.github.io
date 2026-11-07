@@ -15,6 +15,7 @@ mathjax: true
 
 # The Bay Area 
 
+![https://www.oaklandca.gov/files/assets/city/v/1/official-mayor/mayor-lee/images/mayor-barbara-lee-sq.jpg](https://www.oaklandca.gov/files/assets/city/v/1/official-mayor/mayor-lee/images/mayor-barbara-lee-sq.jpg)
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
