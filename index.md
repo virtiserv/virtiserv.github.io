@@ -23,6 +23,9 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 [`Bay Area` - @stateofcalifornia browser.dataspace.copernicus.eU @eu-cdse @esa](https://browser.dataspace.copernicus.eu/?zoom=12&lat=37.53969&lng=-122.6422&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18IdS7wjtrKMMFfy1acSVmflVGNZiVQ7vx9vdyzCI1i8XRnTH91NwXaQQ63OdEJZir7BGeY5lStkbW0Cq%2B6LcV1njky9vdCNx3exDcyFknelm3aS%2B6yqrbw&datasetId=S2_L2A_CDAS&fromTime=2026-02-12T00%3A00%3A00.000Z&toTime=2026-02-12T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&terrainViewerSettings=%7B%22sunTime%22%3Anull%2C%22settings%22%3A%7B%22isSky%22%3Atrue%2C%22isSunFlares%22%3Atrue%2C%22isShading%22%3Atrue%2C%22isShadows%22%3Atrue%2C%22verticalTerrainScaleFactor%22%3A1%2C%22shading%22%3A%7B%22ambientFactor%22%3A0.4000000059604645%2C%22diffuseFactor%22%3A0.5400000214576721%2C%22specularFactor%22%3A0.10000000149011612%2C%22specularPower%22%3A4%7D%2C%22shadows%22%3A%7B%22shadowVisibilityFactor%22%3A0.5%2C%22shadowRenderDistanceFactor%22%3A1%7D%7D%2C%22x%22%3A-13652467.185028922%2C%22y%22%3A4514601.914581726%2C%22z%22%3A24767.397483456545%2C%22rotH%22%3A59.2980000000005%2C%22rotV%22%3A45.943000000000005%7D&cloudCoverage=30&dateMode=SINGLE&panel=layers)
+
+![https://www.sf.gov/_next/static/media/CCSF-seal-vector.f4f3942a.svg](https://www.sf.gov/_next/static/media/CCSF-seal-vector.f4f3942a.svg) 
+
 <img   alt="image" src="https://github.com/user-attachments/assets/23b88532-0ad5-4963-88d5-898e90037bcc" />
 
 ![https://media.api.sf.gov/original_images/daniel_lurie_KeVK6TD.jpg](https://media.api.sf.gov/original_images/daniel_lurie_KeVK6TD.jpg)
