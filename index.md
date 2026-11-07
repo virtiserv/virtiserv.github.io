@@ -13,6 +13,16 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+
+
+@ajcnews its covid pedestrian music @stateofcalifornia its what was on 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1617841153&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bubblegumpop-978449604" title="BubbleGumPOp" target="_blank" style="color: #cccccc; text-decoration: none;">BubbleGumPOp</a> · <a href="https://soundcloud.com/bubblegumpop-978449604/sets/discomfort" title="discomfort 😣" target="_blank" style="color: #cccccc; text-decoration: none;">discomfort 😣</a></div>
+
+Its a playlist of songs playing in the air, pushed hard via user recs, and things files that came to mind @lanajharris@gmail.com [@blackgirlscode @nasa-jpl @nasa-pds https://soundcloud.com/bubblegumpop-978449604/sets/discomfort?si=1a07fbc7ac614616a84a6aad4b1afc6a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing](https://soundcloud.com/bubblegumpop-978449604/sets/discomfort?si=1a07fbc7ac614616a84a6aad4b1afc6a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) @Keisha for Governor @chloe.bailey@gmail.com @mayor@nola.gov @mayor@youngstownohio.gov @MayorBibb@clevelandohio.gov @mayor@baltimorecity.gov ~ @HollyJMitchell@bos.lacounty.gov
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dbaaf9f4-c754-4658-ab0d-b26bebd947de" />
+
+
 # The Bay Area 
 ## Sea Level Rise Viewer
 [@noaagov  @nasa-jpl coast.noaa.gov/slr/](https://coast.noaa.gov/slr/)
