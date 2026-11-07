@@ -5,13 +5,29 @@ mathjax: true
 
 
 
-[Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c?list=RDS0Q4gqBUs7c&t=80) // [Bonobo - Fragments](https://youtu.be/B1lAX8PFPO8?list=RDB1lAX8PFPO8&t=17)
+[Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c?list=RDS0Q4gqBUs7c&t=80) // [Bonobo - Fragments](https://youtu.be/B1lAX8PFPO8?list=RDB1lAX8PFPO8&t=17) // [Jilly - Throwback](https://youtu.be/wQtu5nBDJrw?si=37KH5bTi-tZCbsw4) // [Pain · 2Pac](https://youtu.be/Xqa7guhUrRw?si=jT1YWgJff9XC8N9_) // [2Pac - So Many Tears](https://youtu.be/B3i0C-JCQ4A?si=L4F3G8nhH-wOQPeq) // [Temptations · 2Pac](https://youtu.be/tXSGwgs2qaM?si=PxnhfJ_-WisYNnbh) // [Nas - You're da Man](https://youtu.be/yj31nNryVR8?list=OLAK5uy_mm9n9wWQUalehy1-Tg1fgZixhZpokh5Rs&t=14) // [2nd Childhood · Nas](https://youtu.be/A5nM66F903I?si=AyAHkVMcfsre2wOM)
 
 ---
 
 
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a1856f9c-5d7e-44f8-8595-c64f173e2300" />
+
+[@lmco https://www.flickr.com/photos/10062223@N06/albums/ @deptofwar @ajcnews @foratlanta](https://www.flickr.com/photos/10062223@N06/albums/)
+<img   alt="image" src="https://github.com/user-attachments/assets/42e0cf1f-b6ec-4027-bbb0-b3e02b7d83d4" />
+<img   alt="image" src="https://github.com/user-attachments/assets/ef86938c-cd0e-4909-ad28-942dc8e96fff" />
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/NASDAQ_Logo_1971.svg/500px-NASDAQ_Logo_1971.svg.png @nasa-pds](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/NASDAQ_Logo_1971.svg/500px-NASDAQ_Logo_1971.svg.png)
+
+
+@ajcnews its covid pedestrian music @stateofcalifornia its what was on 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1617841153&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bubblegumpop-978449604" title="BubbleGumPOp" target="_blank" style="color: #cccccc; text-decoration: none;">BubbleGumPOp</a> · <a href="https://soundcloud.com/bubblegumpop-978449604/sets/discomfort" title="discomfort 😣" target="_blank" style="color: #cccccc; text-decoration: none;">discomfort 😣</a></div>
+
+Its a playlist of songs playing in the air, pushed hard via user recs, and things files that came to mind @lanajharris@gmail.com [@blackgirlscode @nasa-jpl @nasa-pds https://soundcloud.com/bubblegumpop-978449604/sets/discomfort?si=1a07fbc7ac614616a84a6aad4b1afc6a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing](https://soundcloud.com/bubblegumpop-978449604/sets/discomfort?si=1a07fbc7ac614616a84a6aad4b1afc6a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) @Keisha for Governor @chloe.bailey@gmail.com @mayor@nola.gov @mayor@youngstownohio.gov @MayorBibb@clevelandohio.gov @mayor@baltimorecity.gov ~ @HollyJMitchell@bos.lacounty.gov
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dbaaf9f4-c754-4658-ab0d-b26bebd947de" />
+
 
 # The Bay Area 
 ## Sea Level Rise Viewer
