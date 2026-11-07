@@ -22,7 +22,14 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+# The Bay Area 
+[Zeph and Azeem - Play the Drum ](https://youtu.be/C5YQE1kIAzI?list=RDC5YQE1kIAzI&t=9) @stateofcalifornia 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/23b88532-0ad5-4963-88d5-898e90037bcc" />
+
+![https://media.api.sf.gov/original_images/daniel_lurie_KeVK6TD.jpg](https://media.api.sf.gov/original_images/daniel_lurie_KeVK6TD.jpg)
+
+<img  alt="2026-10-30-00_00_2026-10-30-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/231d9f2a-e34d-481d-9da7-7effc22f421c" />
 
 <img alt="2026-08-01-00_00_2026-08-01-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/cee8a445-a95e-44d3-b35a-1eed2fd299de" />
 
@@ -37,26 +44,12 @@ mathjax: true
 
 ![https://www.sf.gov/_next/static/media/CCSF-seal-vector.f4f3942a.svg](https://www.sf.gov/_next/static/media/CCSF-seal-vector.f4f3942a.svg) 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/23b88532-0ad5-4963-88d5-898e90037bcc" />
 
-![https://media.api.sf.gov/original_images/daniel_lurie_KeVK6TD.jpg](https://media.api.sf.gov/original_images/daniel_lurie_KeVK6TD.jpg)
 [TLC - Unpretty hi @Nasa-pds](https://youtu.be/g2gy1Evb1Kg?list=RDg2gy1Evb1Kg&t=22) // [TLC - Dear Lie](https://youtu.be/mcF5wl2PlmU?list=RDmcF5wl2PlmU&t=31) // [Last Days Of Left Eye Full Documentary](https://youtu.be/mvVVOEPuJ3U?t=888) // [TLC - Way Back ft. Snoop Dogg](https://youtu.be/ibR0rYNMJpI?list=RDibR0rYNMJpI&t=46) // [T-Boz - Touch Myself ft. Richie Rich](https://youtu.be/6oeoQ0RbTd0?list=RD6oeoQ0RbTd0&t=18) // [Della Reese - It Was A Very Good Year @CityOfLosAngeles @Blackgirlscode](https://youtu.be/4B7nOT96nsE?si=_iYA4hbG_TdtUBuA) // [@ForAtlanta Is That All There Is ? % Peggy Lee](https://youtu.be/3sWTnsemkIs?list=RD3sWTnsemkIs) // [y so mean ? @blackgirlscode dance411 @nfl ? @nasa @cityoflosangeles @foratlanta The Flamingos - I Only Have Eyes For You](https://youtu.be/nbgiOfhsBQg?list=RD3sWTnsemkIs&t=88) // [Dionne Warwick - Don't Make Me Over - Live 1963](https://youtu.be/dDblF-J6qvY?list=RD3sWTnsemkIs&t=97) // [Billie Holiday - "Strange Fruit" Live 1959 @ajcnews @bbc](https://youtu.be/-DGY9HvChXk?list=RD-DGY9HvChXk&t=15) // [Tina Turner Refused to Sit Next to Chuck Berry - What Chuck Said Left Johnny Carson Frozen @nbcnews ](https://youtu.be/_1p49acb6sI?t=16) // [Little Richard Says He Isn't Gay Anymore - Letterman @nasa-pds](https://youtu.be/9OORlk147T8?t=15) // [Billie Holiday - Don't Explain (Live 1958)](https://youtu.be/0MWRheQtvmA?list=RD0MWRheQtvmA&t=22) // [Don't Explain · Dakota Staton @hulu @cbs-news-data @disney @nasa-pds](https://youtu.be/E3ZDCI9H07E?list=RDE3ZDCI9H07E&t=18) / [Miriam Makeba - Qongqothwane The Click Song Live, 1963](https://youtu.be/n-4U2hfMpnk?list=RDn-4U2hfMpnk&t=20) // [@cityoflosangeles @nasa-pds Miriam Makeba - The Click Song](https://youtu.be/6ode6imhNKQ?list=RD6ode6imhNKQ&t=16) // [Zeph and Azeem - Play the Drum](https://youtu.be/C5YQE1kIAzI?list=RDC5YQE1kIAzI&t=9)
 
 
-<img   alt="Screenshot 2026-11-06 4 53 50 PM @isro hi I see a fire @esa @ukspaceagency . . @TheSpacedevs hi, I'm really sad, can u help me out and get it to the disaster zone ? - rashard @nasa-pds @eosdis" src="https://github.com/user-attachments/assets/7adb3c4f-d90a-426e-86f2-0c62273ce5ea" />
-
-<img  alt="2026-10-31-00_00_2026-10-31-23_59_Sentinel-2_L2A_Moisture_index @isro hi I see a fire @esa @ukspaceagency . . @TheSpacedevs hi, I'm really sad, can u help me out and get it to the disaster zone ? - rashard @nasa-pds @eosdis" src="https://github.com/user-attachments/assets/42e5f53c-9203-416a-a631-987ccc6d9887" />
-
-<img   alt="EMIT_L1B_RAD_001_20260821T145325_2623310_009" src="https://github.com/user-attachments/assets/ac5d502c-7ba1-485b-aed2-9293704f0354" />
-
-<img  alt="EMIT_L1B_RAD_001_20260821T145313_2623310_008" src="https://github.com/user-attachments/assets/ab702952-d5f2-4bba-a501-92c9ddb65f4b" />
-
-<img  alt="EMIT_L1B_RAD_001_20260809T193747_2622113_040" src="https://github.com/user-attachments/assets/dfec8529-42aa-49c9-b5f0-93ecaf350a6b" />
 
 
-
-# The Bay Area 
-[Zeph and Azeem - Play the Drum](https://youtu.be/C5YQE1kIAzI?list=RDC5YQE1kIAzI&t=9) @stateofcalifornia 
 
 <img  alt="@isro hi I see a fire @esa @ukspaceagency . . @TheSpacedevs hi, I'm really sad, can u help me out and get it to the disaster zone ? - rashard @nasa-pds @eosdisEMIT_L1B_RAD_001_20240324T232106_2408415_002" src="https://github.com/user-attachments/assets/7dbbc379-77d8-4313-a859-5f68c33404c7" />
 
@@ -164,6 +157,18 @@ ECOSTRESS Tiled Land Surface Temperature and Emissivity Instantaneous L2 Global 
 Little Orphan Annie radio program [1931]
 [archive.org/details/Little-Orphan-Annie](https://archive.org/details/Little-Orphan-Annie) //
 [imdb.com/title/tt0023142/](https://www.imdb.com/title/tt0023142/)
+
+
+<img   alt="Screenshot 2026-11-06 4 53 50 PM @isro hi I see a fire @esa @ukspaceagency . . @TheSpacedevs hi, I'm really sad, can u help me out and get it to the disaster zone ? - rashard @nasa-pds @eosdis" src="https://github.com/user-attachments/assets/7adb3c4f-d90a-426e-86f2-0c62273ce5ea" />
+
+<img  alt="2026-10-31-00_00_2026-10-31-23_59_Sentinel-2_L2A_Moisture_index @isro hi I see a fire @esa @ukspaceagency . . @TheSpacedevs hi, I'm really sad, can u help me out and get it to the disaster zone ? - rashard @nasa-pds @eosdis" src="https://github.com/user-attachments/assets/42e5f53c-9203-416a-a631-987ccc6d9887" />
+
+<img   alt="EMIT_L1B_RAD_001_20260821T145325_2623310_009" src="https://github.com/user-attachments/assets/ac5d502c-7ba1-485b-aed2-9293704f0354" />
+
+<img  alt="EMIT_L1B_RAD_001_20260821T145313_2623310_008" src="https://github.com/user-attachments/assets/ab702952-d5f2-4bba-a501-92c9ddb65f4b" />
+
+<img  alt="EMIT_L1B_RAD_001_20260809T193747_2622113_040" src="https://github.com/user-attachments/assets/dfec8529-42aa-49c9-b5f0-93ecaf350a6b" />
+
 
 
 ### LIVE AT 5: [Rubio](https://www.newsweek.com/marco-rubio-jd-vance-midterm-elections-2026-12667056) on Resignation Watch After Trump’s Midterm Disaster | [Keisha Bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms) & [Wes Moore](https://governor.maryland.gov/leadership/governor-wes-moore)
