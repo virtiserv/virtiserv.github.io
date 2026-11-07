@@ -3,15 +3,6 @@ layout: default
 mathjax: true
 ---
 
-<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
-  
-  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
-  
-  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
-  
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
-  
-</picture>
 
 
 [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c?list=RDS0Q4gqBUs7c&t=80) // [Bonobo - Fragments](https://youtu.be/B1lAX8PFPO8?list=RDB1lAX8PFPO8&t=17)
@@ -23,6 +14,21 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 # The Bay Area 
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+<img alt="image" src="https://github.com/user-attachments/assets/9f3f39c0-ec42-4336-82e8-a1f491fd42dd" />
+<img   alt="ECOv002_L3T_JET_46463_005_10SEG_20260915T011941_0713_02" src="https://github.com/user-attachments/assets/25cb3210-5447-46a0-a134-4a74a1c59523" />
+
 [Zeph and Azeem - Play the Drum ](https://youtu.be/C5YQE1kIAzI?list=RDC5YQE1kIAzI&t=9) @stateofcalifornia 
 [https://developer.apple.com/fonts/](https://developer.apple.com/fonts/) [https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)
 
