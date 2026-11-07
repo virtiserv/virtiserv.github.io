@@ -5,14 +5,21 @@ mathjax: true
 
 
 
-[Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c?list=RDS0Q4gqBUs7c&t=80) // [Bonobo - Fragments](https://youtu.be/B1lAX8PFPO8?list=RDB1lAX8PFPO8&t=17) // [Jilly - Throwback](https://youtu.be/wQtu5nBDJrw?si=37KH5bTi-tZCbsw4) // [Pain · 2Pac](https://youtu.be/Xqa7guhUrRw?si=jT1YWgJff9XC8N9_) // [2Pac - So Many Tears](https://youtu.be/B3i0C-JCQ4A?si=L4F3G8nhH-wOQPeq) // [Temptations · 2Pac](https://youtu.be/tXSGwgs2qaM?si=PxnhfJ_-WisYNnbh) // [Nas - You're da Man](https://youtu.be/yj31nNryVR8?list=OLAK5uy_mm9n9wWQUalehy1-Tg1fgZixhZpokh5Rs&t=14) // [2nd Childhood · Nas](https://youtu.be/A5nM66F903I?si=AyAHkVMcfsre2wOM) // [Affirmative Action · Nas · AZ · Cormega · Foxy Brown](https://youtu.be/XK8kZGGx_NM?si=dJ6BW8PzmrdS5hG9)
+[Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c?list=RDS0Q4gqBUs7c&t=80) // [Bonobo - Fragments](https://youtu.be/B1lAX8PFPO8?list=RDB1lAX8PFPO8&t=17) // [Jilly - Throwback](https://youtu.be/wQtu5nBDJrw?si=37KH5bTi-tZCbsw4) // [Pain · 2Pac](https://youtu.be/Xqa7guhUrRw?si=jT1YWgJff9XC8N9_) // [2Pac - So Many Tears](https://youtu.be/B3i0C-JCQ4A?si=L4F3G8nhH-wOQPeq) // [Temptations · 2Pac](https://youtu.be/tXSGwgs2qaM?si=PxnhfJ_-WisYNnbh) // [Nas - You're da Man](https://youtu.be/yj31nNryVR8?list=OLAK5uy_mm9n9wWQUalehy1-Tg1fgZixhZpokh5Rs&t=14) // [2nd Childhood · Nas](https://youtu.be/A5nM66F903I?si=AyAHkVMcfsre2wOM) // [Affirmative Action · Nas · AZ · Cormega · Foxy Brown](https://youtu.be/XK8kZGGx_NM?si=dJ6BW8PzmrdS5hG9) // [Nas - Represent @marinecoders `Dwayne Gooden`](https://youtu.be/xiVY_yPgvMs?list=RDXK8kZGGx_NM&t=226) // [Jay Z feat Beanie Sigel & Scarface- This Can't Be Life](https://youtu.be/zdRIYJEISq8?list=RDzdRIYJEISq8&t=14)
 
 ---
 
 
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
-
+[20261008 NASA's Crew-12 Landing](https://www.flickr.com/photos/nasahqphoto/albums/72177720336051413/) 
+[Nas - Represent @marinecoders `Dwayne Gooden`](https://youtu.be/xiVY_yPgvMs?list=RDXK8kZGGx_NM&t=226)
+• Splashdown Time: October 8, 2026, at 8:34 a.m. PDT (11:34 a.m. EDT)
+• Spacecraft: SpaceX Dragon Freedom
+• Mission Duration: 237 days aboard the International Space Station (ISS)
+• Location: Pacific Ocean, off the coast of Los Angeles, CA @cityOfLosangeles @la-county-isd
+[@spaceexplorationtechnologies @nasa-jpl ](https://www.spacex.com/launches/crew12)
+@nasa sorry i missed it since prostitution is normal to most and displaced brides a great place to get sex partneres [Jay Z feat Beanie Sigel & Scarface- This Can't Be Life @deptofwar](https://youtu.be/zdRIYJEISq8?list=RDzdRIYJEISq8&t=14)
 <img  alt="55576769047_cc2e9e83a5_k" src="https://github.com/user-attachments/assets/efdecda8-cc47-447b-b7a9-e572cb2f5ace" />
 <img   alt="55577771433_580578c0d0_k @nasa @nasa-jpl @deptofwar @la-county-isd this is a different one @blackgirlscode " src="https://github.com/user-attachments/assets/92f6a39e-7d2b-4cc6-a9f4-37cc9913df3b" />
 
