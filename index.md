@@ -19,11 +19,22 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+<img   alt="Screenshot 2026-11-06 4 53 50 PM @isro hi I see a fire @esa @ukspaceagency . . @TheSpacedevs hi, I'm really sad, can u help me out and get it to the disaster zone ? - rashard @nasa-pds @eosdis" src="https://github.com/user-attachments/assets/7adb3c4f-d90a-426e-86f2-0c62273ce5ea" />
+
+<img  alt="2026-10-31-00_00_2026-10-31-23_59_Sentinel-2_L2A_Moisture_index @isro hi I see a fire @esa @ukspaceagency . . @TheSpacedevs hi, I'm really sad, can u help me out and get it to the disaster zone ? - rashard @nasa-pds @eosdis" src="https://github.com/user-attachments/assets/42e5f53c-9203-416a-a631-987ccc6d9887" />
+
+<img   alt="EMIT_L1B_RAD_001_20260821T145325_2623310_009" src="https://github.com/user-attachments/assets/ac5d502c-7ba1-485b-aed2-9293704f0354" />
+
+<img  alt="EMIT_L1B_RAD_001_20260821T145313_2623310_008" src="https://github.com/user-attachments/assets/ab702952-d5f2-4bba-a501-92c9ddb65f4b" />
+
+<img  alt="EMIT_L1B_RAD_001_20260809T193747_2622113_040" src="https://github.com/user-attachments/assets/dfec8529-42aa-49c9-b5f0-93ecaf350a6b" />
+
+
 
 # The Bay Area 
 [Zeph and Azeem - Play the Drum](https://youtu.be/C5YQE1kIAzI?list=RDC5YQE1kIAzI&t=9) @stateofcalifornia 
 
-<img  alt="EMIT_L1B_RAD_001_20240324T232106_2408415_002" src="https://github.com/user-attachments/assets/7dbbc379-77d8-4313-a859-5f68c33404c7" />
+<img  alt="@isro hi I see a fire @esa @ukspaceagency . . @TheSpacedevs hi, I'm really sad, can u help me out and get it to the disaster zone ? - rashard @nasa-pds @eosdisEMIT_L1B_RAD_001_20240324T232106_2408415_002" src="https://github.com/user-attachments/assets/7dbbc379-77d8-4313-a859-5f68c33404c7" />
 
 [https://youtu.be/6ode6imhNKQ?list=RD6ode6imhNKQ&t=16](https://youtu.be/6ode6imhNKQ?list=RD6ode6imhNKQ&t=16) 
 
