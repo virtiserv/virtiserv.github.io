@@ -13,6 +13,9 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+<img   alt="image" src="https://github.com/user-attachments/assets/42e0cf1f-b6ec-4027-bbb0-b3e02b7d83d4" />
+<img   alt="image" src="https://github.com/user-attachments/assets/ef86938c-cd0e-4909-ad28-942dc8e96fff" />
+![https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/NASDAQ_Logo_1971.svg/500px-NASDAQ_Logo_1971.svg.png @nasa-pds](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/NASDAQ_Logo_1971.svg/500px-NASDAQ_Logo_1971.svg.png)
 
 
 @ajcnews its covid pedestrian music @stateofcalifornia its what was on 
