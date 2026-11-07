@@ -14,7 +14,19 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
 # The Bay Area 
+## Sea Level Rise Viewer
+[@noaagov  @nasa-jpl coast.noaa.gov/slr/](https://coast.noaa.gov/slr/)
+### simulated flood.
+[@cityoflosangeles Karen Bass @city-of-san-francisco](https://www.congress.gov/member/karen-bass/B001270), if the sea level rose 10 ft, [CouncilWomanNithiya_CD4](https://en.wikipedia.org/wiki/Nithya_Raman) try the slider on the left pane hi @noaagov @esri
 
+[🌊coast.noaa.gov/slr/#/layer/slr/10/-13651063.773750773/4605319.395084686/9.774/dark/none/1/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/10/-13651063.773750773/4605319.395084686/9.774/dark/none/1/2050/interHigh/noAccretion/NOS_Minor)
+
+[https://www.oaklandca.gov/Government/City-Council-Leadership/Leadership/Office-of-the-Mayor](https://www.oaklandca.gov/Government/City-Council-Leadership/Leadership/Office-of-the-Mayor) [Sea Level Rise Viewer Data Download @emit-sds](https://coast.noaa.gov/slrdata/index.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/1e90746b-c10c-4846-a624-26ac493796a4" />
+
+[coast.noaa.gov/slr/#/layer/slr/10/-13145277.040173031/3991116.350449195/12.448/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/10/-13145277.040173031/3991116.350449195/12.448/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor)
+
+![https://www.congress.gov/img/member/115_rp_ca_37_bass_karen_200.jpg](https://www.congress.gov/img/member/115_rp_ca_37_bass_karen_200.jpg)  
 ![https://www.oaklandca.gov/files/assets/city/v/1/official-mayor/mayor-lee/images/mayor-barbara-lee-sq.jpg](https://www.oaklandca.gov/files/assets/city/v/1/official-mayor/mayor-lee/images/mayor-barbara-lee-sq.jpg)
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
