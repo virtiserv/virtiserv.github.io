@@ -13,6 +13,9 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+<img  alt="55576769047_cc2e9e83a5_k" src="https://github.com/user-attachments/assets/efdecda8-cc47-447b-b7a9-e572cb2f5ace" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a1856f9c-5d7e-44f8-8595-c64f173e2300" />
 
 [@lmco https://www.flickr.com/photos/10062223@N06/albums/ @deptofwar @ajcnews @foratlanta](https://www.flickr.com/photos/10062223@N06/albums/)
