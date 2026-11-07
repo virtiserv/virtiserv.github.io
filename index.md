@@ -22,6 +22,10 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
+
+
+<img alt="2026-08-01-00_00_2026-08-01-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/cee8a445-a95e-44d3-b35a-1eed2fd299de" />
+
 [`Bay Area` - @stateofcalifornia browser.dataspace.copernicus.eU @eu-cdse @esa](https://browser.dataspace.copernicus.eu/?zoom=11&lat=37.68029&lng=-122.11372&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18GorhqLGzLzyhSZHBgy%2BZ6w5315Ek767tnI%2BpXP1WgcFFqnyYNUQewkpID9vLBt7KBLrn%2Bel6Nr5j787t1GjGXOzLGIp8L%2BL%2BcJ%2BRjGz3F7wrc1IKXQGd%2F&datasetId=S2_L2A_CDAS&fromTime=2026-07-27T00%3A00%3A00.000Z&toTime=2026-07-27T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE&panel=layers)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/f6efe0b0-e5a2-4fe1-a969-d7e4b52bd5a5" />
