@@ -12,6 +12,11 @@ mathjax: true
 
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+ [▶️🕹️SEGA CD - Road Rash @LA-County-isd](https://www.retrogames.cc/segacd-games/road-rash.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a30077be-4b85-4675-9c47-05b2543ab1b1" />
+
 # @SEGA CDSonic CD (USA)
 hi [primary @nasa-pds](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&name=large), @blackgirlscode, girls be aware of the sign post that read `Future` or `Past` after you past one of those signpost sonic will begin leaving a trail of same sprite size stars, you have to keep running and not let the obstcles ahead or the distraction of the stars behind you break your momentum, then you will be transported to an alternate reality , the future, or the past. Kind of like the upside down principle in [StrangerThings @netflix](https://strangerthings.fandom.com/wiki/The_Upside_Down)
 [▶️🕹️retrogames.cc/segacd-games/sonic-cd.html](https://www.retrogames.cc/segacd-games/sonic-cd.html) /// [@blackgirlscode typedifferent.com/](https://www.typedifferent.com/) // [▶️🕹️SEGA CD - Road Rash](https://www.retrogames.cc/segacd-games/road-rash.html)
