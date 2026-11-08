@@ -3,6 +3,11 @@ layout: default
 mathjax: true
 ---
 
+
+
+[@nasa-jpl @ussf-orbit hi @la-county-isd @foratlanta @ajcnews https://rocketlabcorp.com/careers/positions/principal-cloud-security-engineer-long-beach-ca-7994656003/](https://rocketlabcorp.com/careers/positions/principal-cloud-security-engineer-long-beach-ca-7994656003/)
+Base Pay Range (CA Only)
+$152,300—$203,000 USD <~ [@CityOfLosAngeles Karen Bass @deptofwar](https://www.congress.gov/member/karen-bass/B001270) 
 [Mars Climate Modeling Center @nasa-jpl @nasa-giss](https://www.nasa.gov/space-science-and-astrobiology-at-ames/division-overview/planetary-systems-branch-overview-stt/mcmc/) // [@usgs nas.nasa.gov/hecc/support/kb/news/](https://www.nas.nasa.gov/hecc/support/kb/news/) // [@nbcnews evil Mars is in the bay area @nasa](https://data.nas.nasa.gov/legacygcm/)
 ![https://www.nasa.gov/wp-content/uploads/2026/07/large-full-name-gray-background-2-e1784322627585.png](https://www.nasa.gov/wp-content/uploads/2026/07/large-full-name-gray-background-2-e1784322627585.png) 
 
