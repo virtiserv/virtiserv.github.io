@@ -14,7 +14,7 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 # @SEGA CDSonic CD (USA)
 
-hi [primary @nasa-pds](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&name=large), @blackgirlscode, girls be aware of the sign post that read `Future` or `Past` after you past one of those signpost sonic will begin leaving a trail of same sprite size stars, you have to keep running and not let the obstcles ahead or the distraction of the stars behind you break your momentum, then you will be transported to an alternate reality , the futer, or the past. Kind of like the upside down principle in [StrangerThings](https://strangerthings.fandom.com/wiki/The_Upside_Down)
+hi [primary @nasa-pds](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&name=large), @blackgirlscode, girls be aware of the sign post that read `Future` or `Past` after you past one of those signpost sonic will begin leaving a trail of same sprite size stars, you have to keep running and not let the obstcles ahead or the distraction of the stars behind you break your momentum, then you will be transported to an alternate reality , the futer, or the past. Kind of like the upside down principle in [StrangerThings @netflix](https://strangerthings.fandom.com/wiki/The_Upside_Down)
 
 [▶️🕹️retrogames.cc/segacd-games/sonic-cd.html](https://www.retrogames.cc/segacd-games/sonic-cd.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/521bdb1d-564b-47a9-be84-09b9c5d4a2c9" />
