@@ -14,7 +14,7 @@ mathjax: true
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
  ## [▶️🕹️SEGA CD - Road Rash @LA-County-isd @blackgirlscode @electronicarts @nasa-pds](https://www.retrogames.cc/segacd-games/road-rash.html)
- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d4b876ff-650b-4b43-b00d-f585dc45bcd6" />
+ <img  alt="image" src="https://github.com/user-attachments/assets/d4b876ff-650b-4b43-b00d-f585dc45bcd6" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a30077be-4b85-4675-9c47-05b2543ab1b1" />
