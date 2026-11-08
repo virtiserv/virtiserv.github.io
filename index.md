@@ -3,8 +3,11 @@ layout: default
 mathjax: true
 ---
 
-
+![https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png](https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png)
+[@nasa-pds escapade.ssl.berkeley.edu/](https://escapade.ssl.berkeley.edu/) hi @Whitehouse @blackgirlscode the cops @CityOfLosAngeles [Central Library]() chanted blue and yellow blue and yellow . . . I was cranky about someone abusing me with a [sonic weapon](https://theconversation.com/whats-an-lrad-explaining-the-sonic-weapons-police-use-for-crowd-control-and-communication-177442) . . @doug-newman-nasa I took it as an alert @ucberkeley I would like to know what kind of data stores I can parse for these machines Gold is talking! 
 [eosdis-nasa e @nasa-jpl yes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+![https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png) 
 <img  alt="image" src="https://github.com/user-attachments/assets/ac87eca9-2c01-4e82-9d19-0088d775472d" />
 <img  alt="image" src="https://github.com/user-attachments/assets/fb3d195c-0e1f-41a1-a97e-ebc09a6668c8" />
 
