@@ -17,6 +17,7 @@ mathjax: true
 
  ## [▶️🕹️SEGA CD - Road Rash @LA-County-isd @blackgirlscode @electronicarts @nasa-pds](https://www.retrogames.cc/segacd-games/road-rash.html)
  <img  alt="image" src="https://github.com/user-attachments/assets/d4b876ff-650b-4b43-b00d-f585dc45bcd6" />
+ 
 [3do](https://www.retrogames.onl/2017/08/road-rash-3do.html)  // [Soundgarden - Outshined](https://youtu.be/sNh-iw7gsuI?t=16)
 
 ![https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/3DO_Logo.svg/1280px-3DO_Logo.svg.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/3DO_Logo.svg/1280px-3DO_Logo.svg.png)
