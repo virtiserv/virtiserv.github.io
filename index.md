@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+[Mars Climate Modeling Center @nasa-jpl @nasa-giss](https://www.nasa.gov/space-science-and-astrobiology-at-ames/division-overview/planetary-systems-branch-overview-stt/mcmc/)
+![https://www.nasa.gov/wp-content/uploads/2026/07/large-full-name-gray-background-2-e1784322627585.png](https://www.nasa.gov/wp-content/uploads/2026/07/large-full-name-gray-background-2-e1784322627585.png) 
+
 ![https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png](https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png)
 [@nasa-pds escapade.ssl.berkeley.edu/](https://escapade.ssl.berkeley.edu/) hi @Whitehouse @blackgirlscode the cops @CityOfLosAngeles [Central Library](https://www.discoverlosangeles.com/things-to-do/los-angeles-central-library-the-story-of-an-la-icon) chanted blue and yellow blue and yellow . . . I was cranky about someone abusing me with a [sonic weapon](https://theconversation.com/whats-an-lrad-explaining-the-sonic-weapons-police-use-for-crowd-control-and-communication-177442) . . @doug-newman-nasa I took it as an alert @ucberkeley I would like to know what kind of data stores I can parse for these machines Gold is talking! 
 [eosdis-nasa e @nasa-jpl yes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
