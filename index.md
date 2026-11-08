@@ -13,13 +13,23 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 # @SEGA CDSonic CD (USA)
-[@blackgirlscode typedifferent.com/](https://www.typedifferent.com/)
+hi [primary @nasa-pds](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&name=large), @blackgirlscode, girls be aware of the sign post that read `Future` or `Past` after you past one of those signpost sonic will begin leaving a trail of same sprite size stars, you have to keep running and not let the obstcles ahead or the distraction of the stars behind you break your momentum, then you will be transported to an alternate reality , the future, or the past. Kind of like the upside down principle in [StrangerThings @netflix](https://strangerthings.fandom.com/wiki/The_Upside_Down)
+[▶️🕹️retrogames.cc/segacd-games/sonic-cd.html](https://www.retrogames.cc/segacd-games/sonic-cd.html) /// [@blackgirlscode typedifferent.com/](https://www.typedifferent.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/521bdb1d-564b-47a9-be84-09b9c5d4a2c9" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Representation matters.&quot; Colleen enrolled her daughter Journey in Black Girls Code so she could see every option open to her in tech. Give so more girls can see it too. 🧡 https://t.co/0eRVHUUEEY #SupportOurGirls https://t.co/LM4XBhuXyZ</p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2118375502167548404?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 <img  alt="Screenshot 2026-11-07 162803" src="https://github.com/user-attachments/assets/5f3661f1-0e0a-4026-9227-ea767d1900e7" />
 
-hi [primary @nasa-pds](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&name=large), @blackgirlscode, girls be aware of the sign post that read `Future` or `Past` after you past one of those signpost sonic will begin leaving a trail of same sprite size stars, you have to keep running and not let the obstcles ahead or the distraction of the stars behind you break your momentum, then you will be transported to an alternate reality , the futer, or the past. Kind of like the upside down principle in [StrangerThings @netflix](https://strangerthings.fandom.com/wiki/The_Upside_Down)
 
-[▶️🕹️retrogames.cc/segacd-games/sonic-cd.html](https://www.retrogames.cc/segacd-games/sonic-cd.html)
-<img  alt="image" src="https://github.com/user-attachments/assets/521bdb1d-564b-47a9-be84-09b9c5d4a2c9" />
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6e8175c2-f5e9-408b-a647-abfbec773adb" />
 
 [20261008 NASA's Crew-12 Landing](https://www.flickr.com/photos/nasahqphoto/albums/72177720336051413/) 
 [Nas - Represent @marinecoders `Dwayne Gooden`](https://youtu.be/xiVY_yPgvMs?list=RDXK8kZGGx_NM&t=226)
