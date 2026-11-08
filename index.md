@@ -13,6 +13,8 @@ mathjax: true
 
 ### This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 # @SEGA CDSonic CD (USA)
+[@blackgirlscode typedifferent.com/](https://www.typedifferent.com/)
+<img  alt="Screenshot 2026-11-07 162803" src="https://github.com/user-attachments/assets/5f3661f1-0e0a-4026-9227-ea767d1900e7" />
 
 hi [primary @nasa-pds](https://pbs.twimg.com/media/F-sSiK8aMAAQ2AC?format=jpg&name=large), @blackgirlscode, girls be aware of the sign post that read `Future` or `Past` after you past one of those signpost sonic will begin leaving a trail of same sprite size stars, you have to keep running and not let the obstcles ahead or the distraction of the stars behind you break your momentum, then you will be transported to an alternate reality , the futer, or the past. Kind of like the upside down principle in [StrangerThings @netflix](https://strangerthings.fandom.com/wiki/The_Upside_Down)
 
