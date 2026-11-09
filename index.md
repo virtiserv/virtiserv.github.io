@@ -7,6 +7,8 @@ mathjax: true
 
 
 ---
+[@BlackGirlsCode iyanla.com](https://iyanla.com/about-iyanla/), hi I don't know what causes the patterns on Mars, but pasws this around b4 ppl start modding it! and [ppl get confused @nasa-pds youtu.be/S5jtvUpjJHs?si=HzLohIpUCFRm0zaN](https://youtu.be/S5jtvUpjJHs?si=HzLohIpUCFRm0zaN)
+<img  alt="image" src="https://github.com/user-attachments/assets/e0ae5d05-613c-4fde-bbcc-4eaca7278e99" />
 
 [nasa-pds pds-geosciences.wustl.edu/missions/artemis2/index.htm](https://pds-geosciences.wustl.edu/missions/artemis2/index.htm)
 ![https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
@@ -36,7 +38,7 @@ in this issuance as the “Uniform Code of Military Justice.”
 (3) Sex trafficking by force, fraud, or coercion in violation of Chapter 117 of Title 18,
 U.S.C.
 (4) Additional TIP-related offenses in Sections 1581, 1584, 1590-1597, 2421, 2421A,
-and 2422 of Title 18, U.S.C. 
+and 2422 of Title 18, U.S.C. [@nasa @deptofwar @cityoflosangeles @whitehouse @commercegov @tesla @teslamotors @spaceexplorationtechnolgies](https://youtu.be/3T1b9oEdYNU?si=sNP22GcViBNtVbss)
 [esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
 <img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
 
