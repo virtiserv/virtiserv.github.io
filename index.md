@@ -8,7 +8,8 @@ mathjax: true
 
 ---
 
-
+[nasa-pds pds-geosciences.wustl.edu/missions/artemis2/index.htm](https://pds-geosciences.wustl.edu/missions/artemis2/index.htm)
+![https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
 
 # DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
 COMBATING TRAFFICKING IN PERSONS (CTIP)
