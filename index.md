@@ -3,11 +3,31 @@ layout: default
 mathjax: true
 ---
 
-[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [Teyana Taylor - Gonna Love Me (Remix)](https://youtu.be/9aAb2H2IVbA?t=139) // [Free Mind · Tems](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU&t=1) // [Essence · Wizkid · Tems](https://youtu.be/JL263Go9FUk?list=RDtQiNQL-FEgU&t=84) // [A Tribe Called Quest - Midnight Marauders (1993) ](https://youtu.be/Mu7yJH3QUfw?list=RDMu7yJH3QUfw)
+[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [Teyana Taylor - Gonna Love Me (Remix)](https://youtu.be/9aAb2H2IVbA?t=139) // [Free Mind · Tems](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU&t=1) // [Essence · Wizkid · Tems](https://youtu.be/JL263Go9FUk?list=RDtQiNQL-FEgU&t=84) // [A Tribe Called Quest - Midnight Marauders (1993) ](https://youtu.be/Mu7yJH3QUfw?list=RDMu7yJH3QUfw) // [Cella Dwellas - Perfect Match](https://youtu.be/5WHySdRlcUE?si=D4iDcmYsfB0Ioi4F) // [
+mos def ms fat booty](https://youtu.be/lFyTzjJDeCk?list=RDlFyTzjJDeCk&t=81) // [dj honda / Travellin' Man feat. MosDef](https://youtu.be/p2YUDZZV6H8?list=RDp2YUDZZV6H8&t=16) // [Common - I Used to Love H.E.R. ](https://youtu.be/TrUERC2Zk64?list=RDTrUERC2Zk64&t=17)
 
 
 ---
+
+## Tropical Storm Pena at 11.5°N - 161.4°W
+North Pacific Ocean 
+[`report` - tar.nesdis.noaa.gov/goes/floater.php?stormid=CP042026#homePageLink](https://www.star.nesdis.noaa.gov/goes/floater.php?stormid=CP042026#homePageLink)
+[CP042026 - Tropical Storm PENA](https://rammb-data.cira.colostate.edu/tc_realtime/storm.asp?storm_identifier=cp042026)
+Last observation: 09 Nov 2026 - 23:05 UTC
+« Active Storms »
+6 Nov 2026 - 9 Nov 2026
+Approximately 700 miles from Hawaii
+@Honolulu @UniversityOfHawaii @hsfl
+<img  alt="image" src="https://github.com/user-attachments/assets/b1976de7-07c3-4691-87b4-0d219ecf6a6e" />
+
+![@nasa-jpl ](https://cdn.star.nesdis.noaa.gov/FLOATER/CP042026/Sandwich/20263131640-20263132210-ABI-CP042026-Sandwich-1000x1000.gif)
+![https://www.star.nesdis.noaa.gov/goes/images/colorbars/ColorBar450_Sandwich_horz.png](https://www.star.nesdis.noaa.gov/goes/images/colorbars/ColorBar450_Sandwich_horz.png) 
+
+![https://cdn.star.nesdis.noaa.gov/FLOATER/CP042026/EXTENT3/20263131926-20263132211-GLM-CP042026-EXTENT3-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/FLOATER/CP042026/EXTENT3/20263131926-20263132211-GLM-CP042026-EXTENT3-1000x1000.gif) 
+
+
 [@BlackGirlsCode iyanla.com](https://iyanla.com/about-iyanla/), hi I don't know what causes the patterns on Mars, but pasws this around b4 ppl start modding it! and [ppl get confused @nasa-pds youtu.be/S5jtvUpjJHs?si=HzLohIpUCFRm0zaN](https://youtu.be/S5jtvUpjJHs?si=HzLohIpUCFRm0zaN) ///////// @nasa-pds cuniform ? @tesla @teslamotors @planetary-society  [@nasa-jpl mars.nasa.gov/msl-raw-images/msss/05067/mhli/5067MH0007050011404749C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05067/mhli/5067MH0007050011404749C00_DXXX.jpg) 
+![https://rammb-data.cira.colostate.edu/tc_realtime/static/images/cira_logo.png](https://rammb-data.cira.colostate.edu/tc_realtime/static/images/cira_logo.png) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e0ae5d05-613c-4fde-bbcc-4eaca7278e99" />
 
