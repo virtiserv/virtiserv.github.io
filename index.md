@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 ---
 
-[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19)
+[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [People’s Instinctive Travels and the Paths of Rhythm by A Tribe Called Quest](https://archive.org/details/peoples-instinctive-travels-and-the-paths-of-rhythm?webamp=default) something is wrong with the song order, I removed [Pharrell remixes](https://pharrellwilliams.com/) for my first re-listen
 
 
 ---
