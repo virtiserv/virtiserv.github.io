@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 ---
 
-[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [Teyana Taylor - Gonna Love Me (Remix)](https://youtu.be/9aAb2H2IVbA?t=139) // [Free Mind · Tems](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU&t=1) // [Essence · Wizkid · Tems](https://youtu.be/JL263Go9FUk?list=RDtQiNQL-FEgU&t=84)
+[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [Teyana Taylor - Gonna Love Me (Remix)](https://youtu.be/9aAb2H2IVbA?t=139) // [Free Mind · Tems](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU&t=1) // [Essence · Wizkid · Tems](https://youtu.be/JL263Go9FUk?list=RDtQiNQL-FEgU&t=84) // [A Tribe Called Quest - Midnight Marauders (1993) ](https://youtu.be/Mu7yJH3QUfw?list=RDMu7yJH3QUfw)
 
 
 ---
