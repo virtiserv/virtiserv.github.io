@@ -3,10 +3,16 @@ layout: default
 mathjax: true
 ---
 
-[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL)
+[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19)
 
 
 ---
+
+
+[@USNAVY @la-county-isd firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-76.9,26.8,4.1z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-76.9,26.8,4.1z) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/830847cf-28c6-49ab-936b-49e8591a32e6" />
+
 
 # [JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu)
 [@nbcnews COVID vids  ](https://www.cdc.gov/intimate-partner-violence/about/index.html) // [Relationship Safety @DeptOfWar Intimate Partner Violence Assistance Program (IPVAP)](https://youtu.be/OBYo5s5rp9M?si=R0SkilwOfr9Bgeyt)
