@@ -8,6 +8,13 @@ mathjax: true
 
 ---
 
+[`WATCH` - Mornings With Mero Livestream 11-9-26 @ABCNEWS https://youtu.be/r9ba1PfT5e0?t=711](https://youtu.be/r9ba1PfT5e0?t=711)
+
+<img  alt="image [hot97.com/talent/the-kid-mero/](https://www.hot97.com/talent/the-kid-mero/)
+Hi [Mero](https://www.instagram.com/thekidmero/?hl=en), its [Rashard](https://thakarashard.github.io/), I had a girl eye ball me with glowing eyes, and I think [latrice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYxmCoSZxuwh1pFEBAfN_DWW4BNs2ScMNFAmKcw_-rA&s) is with a dude named [andre](https://lookalikes.co.uk/celebrity-lookalikes/all-lookalikes/tupac-shakur-lookalike/) from my highschool now so I really don't know whats going on, but trice serving cold sphegetti in skid row @howard-university-web-services @whitehouse idk what happened to [Rob](https://www.zola.com/wedding/robandtricedominicanrepublic) . . . @nbcnews @blackgirlscode @cbs-news-data its @ra5hard checking in like that @ajcnews @newshour @disney @hulu 
+[@nasa-jpl @foratlanta](https://www.hot97.com/talent/the-kid-mero/)  @cityoflosangeles @la-county-isd" src="https://github.com/user-attachments/assets/8b306cd1-20aa-4368-94f9-53021f9cad81" />
+
+
 ### Hot97 Fanmail `MERO`
 [hot97.com/talent/the-kid-mero/](https://www.hot97.com/talent/the-kid-mero/)
 Hi [Mero](https://www.instagram.com/thekidmero/?hl=en), its [Rashard](https://thakarashard.github.io/), I had a girl eye ball me with glowing eyes, and I think [latrice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYxmCoSZxuwh1pFEBAfN_DWW4BNs2ScMNFAmKcw_-rA&s) is with a dude named [andre](https://lookalikes.co.uk/celebrity-lookalikes/all-lookalikes/tupac-shakur-lookalike/) from my highschool now so I really don't know whats going on, but trice serving cold sphegetti in skid row @howard-university-web-services @whitehouse idk what happened to [Rob](https://www.zola.com/wedding/robandtricedominicanrepublic) . . . @nbcnews @blackgirlscode @cbs-news-data its @ra5hard checking in like that @ajcnews @newshour @disney @hulu 
