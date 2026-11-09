@@ -8,13 +8,18 @@ mathjax: true
 
 ---
 
+[@LACMTA Holly J Mitchell @la-County-isd @nasa-jpl @nasa-pds](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/)
+Mrs Mitchell, Walking through the terminal this morning I celebrated [MRO](https://lpl.arizona.edu/missions/hirise-mro) pumping 2.48mb/ps to goldstone I think, however [James Webb Space Telescope](https://spacetelescopelive.org/) is delivering a hearty 28mb/ps!!! [@gtri @gatech](https://www.uahirise.org/)
+<img   alt="Screenshot 2026-11-09 2 09 42 PM" src="https://github.com/user-attachments/assets/9daf4b06-1107-485b-b818-8ea6fded26b1" />
+
 ## Bee Haven Fire burns 200 acres in Florida;
 2,500-acre controlled burn underway as smoke spreads 
 [https://dailydispatch.com/fire-news/wildland/bee-haven-fire-burns-200-acres-in-florida-2500-acre-controlled-burn-underway-as-smoke-spreads/](https://dailydispatch.com/fire-news/wildland/bee-haven-fire-burns-200-acres-in-florida-2500-acre-controlled-burn-underway-as-smoke-spreads/) @eosdis-nasa 
-@gtri hi its [Rashard](https://github.com/ra5hard/mybinder) from ESD. I can email some ppl in Florida but I'm having trouble finding ppl on GitHub... There's a fire on [the panhandle](https://floridapanhandle.com/), can you forward it to someone useful ?? [@la-county-isd https://fire.lacounty.gov/](https://fire.lacounty.gov/) @ajcnews [https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-82.2,31.1,7.7z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-82.2,31.1,7.7z) 
-<img alt="500080906-f2830884-c031-4780-bbb2-cbc59afd4e9f" src="https://github.com/user-attachments/assets/a9064372-652e-4657-a3d4-d8e7eb666ee5" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/7c58075a-4146-421c-a375-d930696125d7" />
+
+@gtri hi its [Rashard](https://github.com/ra5hard/mybinder) from ESD. I can email some ppl in Florida but I'm having trouble finding ppl on GitHub... There's a fire on [the panhandle](https://floridapanhandle.com/), can you forward it to someone useful ?? [@la-county-isd https://fire.lacounty.gov/](https://fire.lacounty.gov/) @ajcnews [https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-82.2,31.1,7.7z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-82.2,31.1,7.7z) 
+<img alt="500080906-f2830884-c031-4780-bbb2-cbc59afd4e9f" src="https://github.com/user-attachments/assets/a9064372-652e-4657-a3d4-d8e7eb666ee5" />
 
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
  
