@@ -3,7 +3,19 @@ layout: default
 mathjax: true
 ---
 
+[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu)
+@blackgirlscode Lana idk who is who, but a lot of people look like me @cityoflosangeles @nasa-jpl [Chloe @Disney](https://www.tiktok.com/@chloebaileywashere?lang=en) your @tiktok broke
 
+---
+
+# [JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu)
+[@nbcnews COVID vids  ](https://www.cdc.gov/intimate-partner-violence/about/index.html) // [Relationship Safety @DeptOfWar Intimate Partner Violence Assistance Program (IPVAP)](https://youtu.be/OBYo5s5rp9M?si=R0SkilwOfr9Bgeyt)
+[https://www.socialwork.va.gov/IPV/index.asp](https://www.socialwork.va.gov/IPV/index.asp) // [The Impact of COVID-19 Pandemic on Intimate Partner ... - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/0ceaabe0-d510-433d-a551-aaa0b0307e5f" />
+
+
+![background https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg) 
 
 [@nasa-jpl @ussf-orbit hi @la-county-isd @foratlanta @ajcnews https://rocketlabcorp.com/careers/positions/principal-cloud-security-engineer-long-beach-ca-7994656003/](https://rocketlabcorp.com/careers/positions/principal-cloud-security-engineer-long-beach-ca-7994656003/)
 Base Pay Range (CA Only)
