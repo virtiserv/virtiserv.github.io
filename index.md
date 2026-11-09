@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 [JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [Teyana Taylor - Gonna Love Me (Remix)](https://youtu.be/9aAb2H2IVbA?t=139) // [Free Mind · Tems](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU&t=1) // [Essence · Wizkid · Tems](https://youtu.be/JL263Go9FUk?list=RDtQiNQL-FEgU&t=84) // [A Tribe Called Quest - Midnight Marauders (1993) ](https://youtu.be/Mu7yJH3QUfw?list=RDMu7yJH3QUfw) // [Cella Dwellas - Perfect Match](https://youtu.be/5WHySdRlcUE?si=D4iDcmYsfB0Ioi4F) // [
-mos def ms fat booty](https://youtu.be/lFyTzjJDeCk?list=RDlFyTzjJDeCk&t=81) // [dj honda / Travellin' Man feat. MosDef](https://youtu.be/p2YUDZZV6H8?list=RDp2YUDZZV6H8&t=16) // [Common - I Used to Love H.E.R. ](https://youtu.be/TrUERC2Zk64?list=RDTrUERC2Zk64&t=17)
+mos def ms fat booty](https://youtu.be/lFyTzjJDeCk?list=RDlFyTzjJDeCk&t=81) // [dj honda / Travellin' Man feat. MosDef](https://youtu.be/p2YUDZZV6H8?list=RDp2YUDZZV6H8&t=16) // [Common - I Used to Love H.E.R. ](https://youtu.be/TrUERC2Zk64?list=RDTrUERC2Zk64&t=17) // [All Night Long · Common · Erykah Badu](https://youtu.be/G0_1cvD9irs?list=RDG0_1cvD9irs) // 
 
 
 ---
@@ -251,6 +251,8 @@ $152,300—$203,000 USD <~ [@CityOfLosAngeles Karen Bass @deptofwar](https://www
 ![https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png) 
 <img  alt="image" src="https://github.com/user-attachments/assets/ac87eca9-2c01-4e82-9d19-0088d775472d" />
 <img  alt="image" src="https://github.com/user-attachments/assets/fb3d195c-0e1f-41a1-a97e-ebc09a6668c8" />
+
+![https://horatioalger.org/wp-content/uploads/members/d6acc2804e7b841a4e1ceeafbdfffcbd.jpg](https://horatioalger.org/wp-content/uploads/members/d6acc2804e7b841a4e1ceeafbdfffcbd.jpg) 
 
 [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c?list=RDS0Q4gqBUs7c&t=80) // [Bonobo - Fragments](https://youtu.be/B1lAX8PFPO8?list=RDB1lAX8PFPO8&t=17) // [Jilly - Throwback](https://youtu.be/wQtu5nBDJrw?si=37KH5bTi-tZCbsw4) // [Pain · 2Pac](https://youtu.be/Xqa7guhUrRw?si=jT1YWgJff9XC8N9_) // [2Pac - So Many Tears](https://youtu.be/B3i0C-JCQ4A?si=L4F3G8nhH-wOQPeq) // [Temptations · 2Pac](https://youtu.be/tXSGwgs2qaM?si=PxnhfJ_-WisYNnbh) // [Nas - You're da Man](https://youtu.be/yj31nNryVR8?list=OLAK5uy_mm9n9wWQUalehy1-Tg1fgZixhZpokh5Rs&t=14) // [2nd Childhood · Nas](https://youtu.be/A5nM66F903I?si=AyAHkVMcfsre2wOM) // [Affirmative Action · Nas · AZ · Cormega · Foxy Brown](https://youtu.be/XK8kZGGx_NM?si=dJ6BW8PzmrdS5hG9) // [Nas - Represent @marinecoders `Dwayne Gooden`](https://youtu.be/xiVY_yPgvMs?list=RDXK8kZGGx_NM&t=226) // [Jay Z feat Beanie Sigel & Scarface- This Can't Be Life](https://youtu.be/zdRIYJEISq8?list=RDzdRIYJEISq8&t=14) // [Some How Some Way · JAŸ-Z · Beanie Sigel · Scarface](https://youtu.be/Vnh96dpr-fc?list=RDzdRIYJEISq8&t=187) // [Soundgarden - Outshined](https://youtu.be/sNh-iw7gsuI?t=16)
 
