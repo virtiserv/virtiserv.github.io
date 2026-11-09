@@ -24,6 +24,12 @@ mathjax: true
 
 ![background https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg) 
 
+
+![https://rocketlabcorp.com/assets/Uploads/RocketLabLogo-Social.jpg](https://rocketlabcorp.com/assets/Uploads/RocketLabLogo-Social.jpg) 
+
+![https://lacounty.gov/wp-content/uploads/2025/12/Supervisor-Holly-J-Mitchell-2024-1-819x1024.jpg](https://lacounty.gov/wp-content/uploads/2025/12/Supervisor-Holly-J-Mitchell-2024-1-819x1024.jpg)
+
+[@doug-newman-nasa @longbeachinnovation](https://github.com/thakarashard/RESUME) team @nasa-pds I think  this is a big role, but it feels accessible if the leadership is compatible [@la-county-isd Holly Mitchell @LACMTA](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) I will update my cover letter when the bullies let up [virtiserv.github.io/cv/](https://virtiserv.github.io/cv/) 
 [@nasa-jpl @ussf-orbit hi @la-county-isd @foratlanta @ajcnews https://rocketlabcorp.com/careers/positions/principal-cloud-security-engineer-long-beach-ca-7994656003/](https://rocketlabcorp.com/careers/positions/principal-cloud-security-engineer-long-beach-ca-7994656003/)
 Base Pay Range (CA Only)
 $152,300—$203,000 USD <~ [@CityOfLosAngeles Karen Bass @deptofwar](https://www.congress.gov/member/karen-bass/B001270) 
