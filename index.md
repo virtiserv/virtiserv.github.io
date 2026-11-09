@@ -17,9 +17,7 @@ mathjax: true
 <img  alt="image" src="https://github.com/user-attachments/assets/7c58075a-4146-421c-a375-d930696125d7" />
 
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
-    <g>
-      <g>
-
+ 
  <linearGradient id="bird_2_" gradientUnits="userSpaceOnUse" x1="3726.1963" y1="1102.499" x2="3726.1963" y2="1085.1249" gradientTransform="matrix(4.262 0 0 -4.262 -15526.0078 4711.7021)">
           <stop offset="0.3006" style="stop-color:#57C2EB" />
           <stop offset="1" style="stop-color:#28B3E3" />
