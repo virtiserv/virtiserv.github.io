@@ -3,10 +3,19 @@ layout: default
 mathjax: true
 ---
 
-[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [People’s Instinctive Travels and the Paths of Rhythm by A Tribe Called Quest](https://archive.org/details/peoples-instinctive-travels-and-the-paths-of-rhythm?webamp=default) something is wrong with the song order, I removed [Pharrell remixes](https://pharrellwilliams.com/) for my first re-listen
+[JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [Teyana Taylor - Gonna Love Me (Remix)](https://youtu.be/9aAb2H2IVbA?t=139) // [Free Mind · Tems](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU&t=1) // [Essence · Wizkid · Tems](https://youtu.be/JL263Go9FUk?list=RDtQiNQL-FEgU&t=84)
 
 
 ---
+
+## Bee Haven Fire burns 200 acres in Florida;
+2,500-acre controlled burn underway as smoke spreads 
+[https://dailydispatch.com/fire-news/wildland/bee-haven-fire-burns-200-acres-in-florida-2500-acre-controlled-burn-underway-as-smoke-spreads/](https://dailydispatch.com/fire-news/wildland/bee-haven-fire-burns-200-acres-in-florida-2500-acre-controlled-burn-underway-as-smoke-spreads/) @eosdis-nasa 
+@gtri hi its [Rashard](https://github.com/ra5hard/mybinder) from ESD. I can email some ppl in Florida but I'm having trouble finding ppl on GitHub... There's a fire on [the panhandle](https://floridapanhandle.com/), can you forward it to someone useful ?? [@la-county-isd https://fire.lacounty.gov/](https://fire.lacounty.gov/) @ajcnews [https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-82.2,31.1,7.7z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-82.2,31.1,7.7z) 
+<img alt="500080906-f2830884-c031-4780-bbb2-cbc59afd4e9f" src="https://github.com/user-attachments/assets/a9064372-652e-4657-a3d4-d8e7eb666ee5" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7c58075a-4146-421c-a375-d930696125d7" />
+
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
     <g>
       <g>
@@ -123,7 +132,7 @@ mathjax: true
   
 <img alt="image missing phone being used!!!!!!!! @BLACKGIRLSCODE @nasa-jpl I have @github access there!!!! @google https://accounts.google.com/v3/signin/challenge/ipp/consent?TL=AAxq8nvkeZScNiu-8kUCfQk8ZFcYua0J1Q0FkGZplO5sb2Q69YHi9Nw53G5UpFKK&authuser=0&cid=10&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fv3%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hAMa5CgCH3OSP_QKEXlD1zeKKe-EaeukDC-COHQZTKmD-qa_6se995suAyHepwPN0_hNUxUQEqrqrQ_tNoO4Ho3lnZ9FTaKi02dLU8AeQuEVZJL_KjuArs6yrAWsC93ztB9lvTkKQKd6BAFecjBfa58vPNzkyEyTG6oTS9Vew1GkEmJoJJWbahcjuhK5d7TvEZVQlXGUL6fC2DwfYBdSTBmWD_DogEvT0vcBfK2vzGEaxp9thQ0O5yboDUkZXYrr2vg5MTiOmnMzoRoVJHquYEzaXWoPBsqH6n3tRCtKtTdZU2GGdMxFKNJ6KMCrLMHlqAM_UalucXi1o9T-PwEzikZMCDNzAeBvqoq43xugUQCvboivoQaWq2dEwfj_AMJ309wNW049Kc1pDagu1Eym_2ePMMT_FYku2uG03gI9lsOcQYhDG4ru0Q1reOaPdeB-MfpPCX5jFxFWxBHibXFCb6f2uhVbTM7DRxXooc3haDKiPP3VrnU%26flowName%3DGeneralOAuthFlow%26as%3DSIrm6j3LY21PR50vc9q_xjHrA2SiIjbh_4jPzehoXjg%26client_id%3D41383750805-slra1gn7ge0bcc8ihpqnkk7hf0fo7dem.apps.googleusercontent.com%26requestPath%3D%2Fsignin%2Foauth%2Fv3%2Fconsent%26pli%3D1&dsh=S1593872468%3A1794250886070836&flowEntry=AccountChooser&flowName=GlifWebSignIn&rart=ANgoxccp2SPxeP-SGbKdGxCbitL8tZEpxOzxhureVs6LsXOj9bY1hzpzbbiQP8QoZF6st3T6FdHNLbhnhvs6x3kXxIrhbuhMeIsuU7fvjJKOO9GKvaY6e-U&rpbg=1 @fbicyber @deptofwar @USNAVy @newshour!!!!!  " src="https://github.com/user-attachments/assets/27ce7f2f-0a20-402a-9afb-4f24d149b7fc" />
 
-#INSTRUMENTALS @BLACKGIRLSCODE [People's Instinctive Travels and the Paths of Rhythm @nasa-jpl](https://youtu.be/WKmCXMBLMQE?list=RDWKmCXMBLMQE&t=1617)
+#INSTRUMENTALS @BLACKGIRLSCODE [People's Instinctive Travels and the Paths of Rhythm @nasa-jpl](https://youtu.be/WKmCXMBLMQE?list=RDWKmCXMBLMQE&t=1617) [People’s Instinctive Travels and the Paths of Rhythm by A Tribe Called Quest](https://archive.org/details/peoples-instinctive-travels-and-the-paths-of-rhythm?webamp=default) something is wrong with the song order, I removed [Pharrell remixes](https://pharrellwilliams.com/) for my first re-listen
 <img   alt="image" src="https://github.com/user-attachments/assets/e02a3616-431d-4ba4-8649-82fb9ed352d9" />
 
 [`WATCH` - Mornings With Mero Livestream 11-9-26 @ABCNEWS https://youtu.be/r9ba1PfT5e0?t=711](https://youtu.be/r9ba1PfT5e0?t=711) // [The N-Word Debate with Charlamagne Tha God, Dr. Michael Eric Dyson & more ](https://youtu.be/MM4i_UrNwPE?t=28) //[DJ Vlad Interviews Mike Tyson & Things Go Left ](https://youtu.be/xboo56WYGh8?t=2) // [Gene Deal Addresses Lil Cease Claims Of Meeting Daz In LA After 2Pac’s Death & Snoop Calling Biggie](https://youtu.be/yODONgtDgZI?t=13)
