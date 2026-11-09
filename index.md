@@ -45,6 +45,7 @@ and 2422 of Title 18, U.S.C. [@nasa @deptofwar @cityoflosangeles @whitehouse @co
 [esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
 <img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02024/ids/edr/browse/zcam/ZL0_2024_0846622583_145EBY_N0930000ZCAM10058_1100LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/02024/ids/edr/browse/zcam/ZL0_2024_0846622583_145EBY_N0930000ZCAM10058_1100LMJ01_1200.jpg)
 
 [@LACMTA Holly J Mitchell @la-County-isd @nasa-jpl @nasa-pds](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/)
 Mrs Mitchell, Walking through the terminal this morning I celebrated [MRO](https://lpl.arizona.edu/missions/hirise-mro) pumping 2.48mb/ps to goldstone I think, however [James Webb Space Telescope](https://spacetelescopelive.org/) is delivering a hearty 28mb/ps!!! [@gtri @gatech](https://www.uahirise.org/)
