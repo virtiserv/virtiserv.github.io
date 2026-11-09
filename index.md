@@ -8,7 +8,11 @@ mathjax: true
 
 ---
 
-[`WATCH` - Mornings With Mero Livestream 11-9-26 @ABCNEWS https://youtu.be/r9ba1PfT5e0?t=711](https://youtu.be/r9ba1PfT5e0?t=711)
+
+#INSTRUMENTALS @BLACKGIRLSCODE [People's Instinctive Travels and the Paths of Rhythm @nasa-jpl](https://youtu.be/WKmCXMBLMQE?list=RDWKmCXMBLMQE&t=1617)
+<img   alt="image" src="https://github.com/user-attachments/assets/e02a3616-431d-4ba4-8649-82fb9ed352d9" />
+
+[`WATCH` - Mornings With Mero Livestream 11-9-26 @ABCNEWS https://youtu.be/r9ba1PfT5e0?t=711](https://youtu.be/r9ba1PfT5e0?t=711) // [The N-Word Debate with Charlamagne Tha God, Dr. Michael Eric Dyson & more ](https://youtu.be/MM4i_UrNwPE?t=28) //[DJ Vlad Interviews Mike Tyson & Things Go Left ](https://youtu.be/xboo56WYGh8?t=2) // [Gene Deal Addresses Lil Cease Claims Of Meeting Daz In LA After 2Pac’s Death & Snoop Calling Biggie](https://youtu.be/yODONgtDgZI?t=13)
 
 <img  alt="image [hot97.com/talent/the-kid-mero/](https://www.hot97.com/talent/the-kid-mero/)
 Hi [Mero](https://www.instagram.com/thekidmero/?hl=en), its [Rashard](https://thakarashard.github.io/), I had a girl eye ball me with glowing eyes, and I think [latrice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYxmCoSZxuwh1pFEBAfN_DWW4BNs2ScMNFAmKcw_-rA&s) is with a dude named [andre](https://lookalikes.co.uk/celebrity-lookalikes/all-lookalikes/tupac-shakur-lookalike/) from my highschool now so I really don't know whats going on, but trice serving cold sphegetti in skid row @howard-university-web-services @whitehouse idk what happened to [Rob](https://www.zola.com/wedding/robandtricedominicanrepublic) . . . @nbcnews @blackgirlscode @cbs-news-data its @ra5hard checking in like that @ajcnews @newshour @disney @hulu 
