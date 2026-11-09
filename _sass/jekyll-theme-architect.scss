@@ -25,18 +25,25 @@ img {
   max-width: 100%;
   display: block;
   padding: 5px 0px 5px 0;
-  border-radius:12px;
+  border-radius:15px;
   transition: all 0.5s linear;
 }
 
 img:hover {
   transform: scale(1.00);
+
 }
 
 img[alt*="background"] {
   width: 100%;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 10px #c9ff2350;
+}
+
+img[alt*="background1"] {
+  width: 100%;
+  border-bottom: dashed 1px #c9ff2350;
+  background: url("https://www.transparenttextures.com/patterns/3px-tile.png") ,linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
 }
 
 .mermaid svg {
