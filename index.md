@@ -7,8 +7,11 @@ mathjax: true
 
 
 ---
-[@BlackGirlsCode iyanla.com](https://iyanla.com/about-iyanla/), hi I don't know what causes the patterns on Mars, but pasws this around b4 ppl start modding it! and [ppl get confused @nasa-pds youtu.be/S5jtvUpjJHs?si=HzLohIpUCFRm0zaN](https://youtu.be/S5jtvUpjJHs?si=HzLohIpUCFRm0zaN)
+[@BlackGirlsCode iyanla.com](https://iyanla.com/about-iyanla/), hi I don't know what causes the patterns on Mars, but pasws this around b4 ppl start modding it! and [ppl get confused @nasa-pds youtu.be/S5jtvUpjJHs?si=HzLohIpUCFRm0zaN](https://youtu.be/S5jtvUpjJHs?si=HzLohIpUCFRm0zaN) ///////// @nasa-pds cuniform ? @tesla @teslamotors @planetary-society  [@nasa-jpl mars.nasa.gov/msl-raw-images/msss/05067/mhli/5067MH0007050011404749C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05067/mhli/5067MH0007050011404749C00_DXXX.jpg) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e0ae5d05-613c-4fde-bbcc-4eaca7278e99" />
+
+![https://mars.nasa.gov/msl-raw-images/msss/05067/mhli/5067MH0007050011404749C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05067/mhli/5067MH0007050011404749C00_DXXX.jpg) 
 
 [nasa-pds pds-geosciences.wustl.edu/missions/artemis2/index.htm](https://pds-geosciences.wustl.edu/missions/artemis2/index.htm)
 ![https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
