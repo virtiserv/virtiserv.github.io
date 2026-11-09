@@ -8,6 +8,13 @@ mathjax: true
 
 ---
 
+### Hot97 Fanmail
+
+Hi [Mero](https://www.instagram.com/thekidmero/?hl=en), its [Rashard](https://thakarashard.github.io/), I had a girl eye ball me with glowing eyes, and I think [latrice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYxmCoSZxuwh1pFEBAfN_DWW4BNs2ScMNFAmKcw_-rA&s) is with a dude named [andre](https://lookalikes.co.uk/celebrity-lookalikes/all-lookalikes/tupac-shakur-lookalike/) from my highschool now so I really don't know whats going on, but trice serving cold sphegetti in skid row @howard-univers0ty-web-services @whitehouse idk what happened to [Rob](https://www.zola.com/wedding/robandtricedominicanrepublic) . . . @nbcnews @blackgirlscode @cbs-news-data its @ra5hard checking in like that @ajcnews @newshour @disney @hulu 
+[@nasa-jpl @foratlanta](https://www.hot97.com/talent/the-kid-mero/) 
+
+<img  alt="image Hi [Mero](https://www.instagram.com/thekidmero/?hl=en), its [Rashard](https://thakarashard.github.io/), I had a girl eye ball me with glowing eyes, and I think [latrice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYxmCoSZxuwh1pFEBAfN_DWW4BNs2ScMNFAmKcw_-rA&s) is with a dude named [andre](https://lookalikes.co.uk/celebrity-lookalikes/all-lookalikes/tupac-shakur-lookalike/) from my highschool now so I really don't know whats going on, but trice serving cold sphegetti in skid row @howard-univers0ty-web-services @whitehouse idk what happened to [Rob](https://www.zola.com/wedding/robandtricedominicanrepublic) . . . @nbcnews @blackgirlscode @cbs-news-data its @ra5hard checking in like that @ajcnews @newshour @disney @hulu 
+[@nasa-jpl @foratlanta](https://www.hot97.com/talent/the-kid-mero/) " src="https://github.com/user-attachments/assets/4e63a381-5355-4820-80f4-bdb12682e763" />
 
 [@USNAVY @la-county-isd firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-76.9,26.8,4.1z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fire_layers_basic,active-ca,active-usa,fire-perimeter,countries,noaa21_crtc,earth;@-76.9,26.8,4.1z) 
 
