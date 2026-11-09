@@ -10,9 +10,10 @@ mathjax: true
 
 # [JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu)
 [@nbcnews COVID vids  ](https://www.cdc.gov/intimate-partner-violence/about/index.html) // [Relationship Safety @DeptOfWar Intimate Partner Violence Assistance Program (IPVAP)](https://youtu.be/OBYo5s5rp9M?si=R0SkilwOfr9Bgeyt)
-[https://www.socialwork.va.gov/IPV/index.asp](https://www.socialwork.va.gov/IPV/index.asp) // [The Impact of COVID-19 Pandemic on Intimate Partner ... - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/)
+[https://www.socialwork.va.gov/IPV/index.asp](https://www.socialwork.va.gov/IPV/index.asp) // [The Impact of COVID-19 Pandemic on Intimate Partner ... - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/) // [@foratlanta @lacountyDPH @CityOFLOSANGELES @linkedin .com/in/kesha-baptiste-roberts](https://www.linkedin.com/in/kesha-baptiste-roberts)
 
 <img alt="image" src="https://github.com/user-attachments/assets/0ceaabe0-d510-433d-a551-aaa0b0307e5f" />
+<img  alt="image" src="https://github.com/user-attachments/assets/70f78cf4-d842-449f-8a15-af16d3a2e031" />
 
 
 ![background https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg) 
