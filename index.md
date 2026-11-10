@@ -13,7 +13,7 @@ mos def ms fat booty](https://youtu.be/lFyTzjJDeCk?list=RDlFyTzjJDeCk&t=81) // [
 North Pacific Ocean 
 [`report` - tar.nesdis.noaa.gov/goes/floater.php?stormid=CP042026#homePageLink](https://www.star.nesdis.noaa.gov/goes/floater.php?stormid=CP042026#homePageLink)
 [CP042026 - Tropical Storm PENA](https://rammb-data.cira.colostate.edu/tc_realtime/storm.asp?storm_identifier=cp042026)
-Last observation: 09 Nov 2026 - 23:05 UTC [@hulu ~> Tyana Taylor, hi I forgot u, but your mask is scary @deptofwar De La Soul - Stakes is High](https://youtu.be/P6fng8uHtBw?list=RDP6fng8uHtBw&t=54)
+Last observation: 09 Nov 2026 - 23:05 UTC [@hulu ~> Tyana Taylor, hi I forgot u, but your mask is scary @deptofwar De La Soul - Stakes is High](https://youtu.be/P6fng8uHtBw?list=RDP6fng8uHtBw&t=54) : [Jazzyfatnastees - Unconventional Ways @septadev `Alfredo Garcia` were you talking to someone on a lrad when I played this song @nymta](https://youtu.be/yivEIt2PL24?list=PL0117751A7E4B1067&t=3)
 « Active Storms »
 6 Nov 2026 - 9 Nov 2026
 Approximately 700 miles from Hawaii
