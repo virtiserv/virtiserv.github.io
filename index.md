@@ -30,8 +30,8 @@ This [ARSET](https://www.earthdata.nasa.gov/data/projects/arset) training focuse
 
 ![https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_1440x397_/public/2026-09/1D5A2728.JPG.webp](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_1440x397_/public/2026-09/1D5A2728.JPG.webp) 
 
- [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs)
-
+[deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs)
+[deadmau5.bandcamp.com/album/i-remember](https://deadmau5.bandcamp.com/album/i-remember)
 ![https://f4.bcbits.com/img/a1839217157_2.jpg](https://f4.bcbits.com/img/a1839217157_2.jpg)
 
 ### Nithya Raman wins Los Angeles mayoral race
