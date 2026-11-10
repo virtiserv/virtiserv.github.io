@@ -30,6 +30,10 @@ This [ARSET](https://www.earthdata.nasa.gov/data/projects/arset) training focuse
 
 ![https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_1440x397_/public/2026-09/1D5A2728.JPG.webp](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_1440x397_/public/2026-09/1D5A2728.JPG.webp) 
 
+ [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs)
+
+![https://f4.bcbits.com/img/a1839217157_2.jpg](https://f4.bcbits.com/img/a1839217157_2.jpg)
+
 ### Nithya Raman wins Los Angeles mayoral race
 , [@NBCNews projects @CityOFLosAngeles - youtu.be/jaJ4OBA2HUE?t=7](https://youtu.be/jaJ4OBA2HUE?t=7) // [“An Immigrant as Your Mayor!” Nithya Raman Gets Emotional After Historic LA Win ](https://youtu.be/vquC7apsR90?t=23) // [LA Mayor-elect Nithya Raman delivers remarks after defeating Karen Bass](https://youtu.be/B97D8VEjBVo?t=18) [@foratlanta @nasa-jpl @blackgirlscode -dco.uscg.mil/ External%20Prevention%20Directory%20Contact%20List ](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/CG-CVC/CID%20Contact%20List/External%20Prevention%20Directory%20Contact%20List.pdf) // [@nasa-jpl lahousing.lacity.org/AAHR/Documents/Council%20Deputy%20Contact%20List.pdf](https://lahousing.lacity.org/AAHR/Documents/Council%20Deputy%20Contact%20List.pdf) //  [Raman’s victory was a resounding rebuke to L.A.’s Latino political establishment](https://www.latimes.com/california/story/2026-11-10/latino-political-establishment-karen-bass) // [Orbital - Halcyon (live) @ForAtlanta @Blackgirlscode](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq)
 
