@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 ---
 
-[Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs) // [Lapalux - Midnight Peelers](https://youtu.be/__t2pTun2eU?list=RD__t2pTun2eU&t=23) // [Closer · Bonobo](https://youtu.be/irLUQdsjNKo?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=55) // [Age of Phase · Bonobo](https://youtu.be/q3cRgehcshw?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=172) // [Me_an_CoraL = DoubleTrouble_EAV hi @Blackgirlscode @Whitehouse](https://youtu.be/AmSUb5H5G0s?t=53) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=19) // [Mathematics · Mos Def](https://youtu.be/8Ir-zFC9nFE?si=pY-38icZOQQqu6uE) // [Above The Clouds · Gang Starr · Inspectah Deck](https://youtu.be/NqhNTA2VHqk?list=RD8Ir-zFC9nFE)
+[Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs) // [Lapalux - Midnight Peelers](https://youtu.be/__t2pTun2eU?list=RD__t2pTun2eU&t=23) // [Closer · Bonobo](https://youtu.be/irLUQdsjNKo?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=55) // [Age of Phase · Bonobo](https://youtu.be/q3cRgehcshw?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=172) // [Me_an_CoraL = DoubleTrouble_EAV hi @Blackgirlscode @Whitehouse](https://youtu.be/AmSUb5H5G0s?t=53) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=19) // [Mathematics · Mos Def](https://youtu.be/8Ir-zFC9nFE?si=pY-38icZOQQqu6uE) // [Above The Clouds · Gang Starr · Inspectah Deck](https://youtu.be/NqhNTA2VHqk?list=RD8Ir-zFC9nFE) // [2Pac - Do For Love](https://youtu.be/0VGjV8Suyvg?list=RD0VGjV8Suyvg&t=12)
 
 ---
 
