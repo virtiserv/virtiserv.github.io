@@ -3,9 +3,16 @@ layout: default
 mathjax: true
 ---
 
-[Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs) // [Lapalux - Midnight Peelers](https://youtu.be/__t2pTun2eU?list=RD__t2pTun2eU&t=23) // [Closer · Bonobo](https://youtu.be/irLUQdsjNKo?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=55) // [Age of Phase · Bonobo](https://youtu.be/q3cRgehcshw?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=172) // [Me_an_CoraL = DoubleTrouble_EAV hi @Blackgirlscode @Whitehouse](https://youtu.be/AmSUb5H5G0s?t=53) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=19) // [Mathematics · Mos Def](https://youtu.be/8Ir-zFC9nFE?si=pY-38icZOQQqu6uE)
+[Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs) // [Lapalux - Midnight Peelers](https://youtu.be/__t2pTun2eU?list=RD__t2pTun2eU&t=23) // [Closer · Bonobo](https://youtu.be/irLUQdsjNKo?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=55) // [Age of Phase · Bonobo](https://youtu.be/q3cRgehcshw?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=172) // [Me_an_CoraL = DoubleTrouble_EAV hi @Blackgirlscode @Whitehouse](https://youtu.be/AmSUb5H5G0s?t=53) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=19) // [Mathematics · Mos Def](https://youtu.be/8Ir-zFC9nFE?si=pY-38icZOQQqu6uE) // [Above The Clouds · Gang Starr · Inspectah Deck](https://youtu.be/NqhNTA2VHqk?list=RD8Ir-zFC9nFE)
 
 ---
+
+
+# Observed Shoreline Change @nasa-jpl / @usgs
+The yellow line is where our shoreline was around the [civil war](https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/civil-war-and-reconstruction-1861-1877/overview/) the blue line is [where we are today ](https://www.santamonicapier.org/)
+[@longbeachinnovationteam @cityofsantamonica @la-county-isd @CityOfLosAngeles]
+[marine.usgs.gov/coastalchangehazardsportal/?ui=v2&z=18&ll=34.00926,-118.49694&b=imagery&items=CAkR645,LPeNopsD,LPg2U9JM](https://marine.usgs.gov/coastalchangehazardsportal/?ui=v2&z=18&ll=34.00926,-118.49694&b=imagery&items=CAkR645,LPeNopsD,LPg2U9JM)
+<img  alt="image" src="https://github.com/user-attachments/assets/2245b0c3-4f0c-44e6-a38f-27283f32c9a5" />
 
 
 ## Identifying Disaster Extent and Risk Using [NISAR](https://www.jpl.nasa.gov/missions/nasa-isro-synthetic-aperture-radar-nisar/) Surface Displacement
