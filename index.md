@@ -5,8 +5,26 @@ mathjax: true
 
 [Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq)
 
+---
+
+
+## Identifying Disaster Extent and Risk Using NISAR Surface Displacement
+This ARSET training focuses on the use of InSAR data from NISAR and surface displacement products from OPERA to monitor ground movements. // [earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement](https://www.earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement)
+@Doug-Newman-nasa i dont know what my tormentors and my availiable computer time will allow me to complete , but i plan to be on time! [@la-county-isd _Holly J Mitchell_ @lacmta](https://mayor.lacity.gov/about-mayor-karen-bass) + [@CityOfLosAngeles Karen Bass](https://mayor.lacity.gov/about-mayor-karen-bass), [@StateOfCalifornia Nithiya Raman @isro @nasa-jpl](https://youtu.be/fkZkM7EH-VY?t=15) [[1](https://www.youtube.com/@NithyafortheCity)] hi its more training to manage local disasters @la-county-isd @nasa-jpl its an @eosdis-nasa class @nasa-openscapes // [@hulu not bugging you, she in a mask and is involved so im follwoing cues @ajcnews](https://soundcloud.com/teyana-taylor-official)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9cd07ae4-b698-42ba-bdb6-8cd702ebf3d6" />
+
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/a6e7b654-2259-46c7-ac13-91a0fc6b710c" />
+![ @isro https://ca-times.brightspotcdn.com/dims4/default/ff21bf8/2147483647/strip/true/crop/4848x3232+0+0/resize/1200x800!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa2%2Fd9%2F39ec52fb457385afe074c80a8500%2F1557181-me-nithya-raman-campaigning-144.jpg](https://ca-times.brightspotcdn.com/dims4/default/ff21bf8/2147483647/strip/true/crop/4848x3232+0+0/resize/1200x800!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa2%2Fd9%2F39ec52fb457385afe074c80a8500%2F1557181-me-nithya-raman-campaigning-144.jpg) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7839a1ef-834f-47a8-9b9e-b16b474d04e4" />
+
+![https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_1440x397_/public/2026-09/1D5A2728.JPG.webp](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_1440x397_/public/2026-09/1D5A2728.JPG.webp) 
+
 ### Nithya Raman wins Los Angeles mayoral race
-, [@NBCNews projects @CityOFLosAngeles - youtu.be/jaJ4OBA2HUE?t=7](https://youtu.be/jaJ4OBA2HUE?t=7) // [“An Immigrant as Your Mayor!” Nithya Raman Gets Emotional After Historic LA Win ](https://youtu.be/vquC7apsR90?t=23) // [LA Mayor-elect Nithya Raman delivers remarks after defeating Karen Bass](https://youtu.be/B97D8VEjBVo?t=18) [@foratlanta @nasa-jpl @blackgirlscode -dco.uscg.mil/ External%20Prevention%20Directory%20Contact%20List ](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/CG-CVC/CID%20Contact%20List/External%20Prevention%20Directory%20Contact%20List.pdf) // [Orbital - Halcyon (live) @ForAtlanta @Blackgirlscode](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq)
+, [@NBCNews projects @CityOFLosAngeles - youtu.be/jaJ4OBA2HUE?t=7](https://youtu.be/jaJ4OBA2HUE?t=7) // [“An Immigrant as Your Mayor!” Nithya Raman Gets Emotional After Historic LA Win ](https://youtu.be/vquC7apsR90?t=23) // [LA Mayor-elect Nithya Raman delivers remarks after defeating Karen Bass](https://youtu.be/B97D8VEjBVo?t=18) [@foratlanta @nasa-jpl @blackgirlscode -dco.uscg.mil/ External%20Prevention%20Directory%20Contact%20List ](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/CG-CVC/CID%20Contact%20List/External%20Prevention%20Directory%20Contact%20List.pdf) // [@nasa-jpl lahousing.lacity.org/AAHR/Documents/Council%20Deputy%20Contact%20List.pdf](https://lahousing.lacity.org/AAHR/Documents/Council%20Deputy%20Contact%20List.pdf) //  [Raman’s victory was a resounding rebuke to L.A.’s Latino political establishment](https://www.latimes.com/california/story/2026-11-10/latino-political-establishment-karen-bass) // [Orbital - Halcyon (live) @ForAtlanta @Blackgirlscode](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq)
 
 
 <div class="tupperware">
