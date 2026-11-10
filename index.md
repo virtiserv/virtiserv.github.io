@@ -9,9 +9,11 @@ mos def ms fat booty](https://youtu.be/lFyTzjJDeCk?list=RDlFyTzjJDeCk&t=81) // [
 
 ---
 
- [Jazzyfatnastees - Unconventional Ways @septadev `Alfredo Garcia` were you talking to someone on a lrad when u played this song @nymta](https://youtu.be/yivEIt2PL24?list=PL0117751A7E4B1067&t=3) @disney Lana j Harris, he was buying all the neo  soul music bc he was older, now I'm understanding some of the [MiniDisc](https://www.reddit.com/r/minidisc/comments/1r6i7h3/first_time_trying_to_record_to_a_mini_disc_this/) transfers I listened to on [my way to school in manhattan](nybi.org)
+ [Jazzyfatnastees - Unconventional Ways @septadev `Alfredo Garcia` were you talking to someone on a lrad when u played this song @nymta](https://youtu.be/yivEIt2PL24?list=PL0117751A7E4B1067&t=3) @disney Lana j Harris, he was buying all the neo  soul music bc he was older, now I'm understanding some of the [MiniDisc](https://www.reddit.com/r/minidisc/comments/1r6i7h3/first_time_trying_to_record_to_a_mini_disc_this/) transfers I listened to on [my way to school in manhattan hi @nasa-pds @nasa-jpl](nybi.org)
 
 ![https://i.ebayimg.com/thumbs/images/g/jqcAAOSw57FnIFTW/s-l500.jpg](https://i.ebayimg.com/thumbs/images/g/jqcAAOSw57FnIFTW/s-l500.jpg) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/eb8ecd68-8b7e-433d-88ab-b22d40e369d1" />
 
 ![https://i.etsystatic.com/26120673/r/il/7654c7/8224228019/il_1140xN.8224228019_acwv.jpg](https://i.etsystatic.com/26120673/r/il/7654c7/8224228019/il_1140xN.8224228019_acwv.jpg) 
 
