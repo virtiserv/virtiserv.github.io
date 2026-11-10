@@ -9,11 +9,17 @@ mos def ms fat booty](https://youtu.be/lFyTzjJDeCk?list=RDlFyTzjJDeCk&t=81) // [
 
 ---
 
+ [Jazzyfatnastees - Unconventional Ways @septadev `Alfredo Garcia` were you talking to someone on a lrad when u played this song @nymta](https://youtu.be/yivEIt2PL24?list=PL0117751A7E4B1067&t=3) @disney Lana j Harris, he was buying all the neo  soul music bc he was older, now I'm understanding some of the [MiniDisc](https://www.reddit.com/r/minidisc/comments/1r6i7h3/first_time_trying_to_record_to_a_mini_disc_this/) transfers I listened to on [my way to school in manhattan](nybi.org)
+
+![https://i.ebayimg.com/thumbs/images/g/jqcAAOSw57FnIFTW/s-l500.jpg](https://i.ebayimg.com/thumbs/images/g/jqcAAOSw57FnIFTW/s-l500.jpg) 
+
+![https://i.etsystatic.com/26120673/r/il/7654c7/8224228019/il_1140xN.8224228019_acwv.jpg](https://i.etsystatic.com/26120673/r/il/7654c7/8224228019/il_1140xN.8224228019_acwv.jpg) 
+
 ## Tropical Storm Pena at 11.5°N - 161.4°W
 North Pacific Ocean 
 [`report` - tar.nesdis.noaa.gov/goes/floater.php?stormid=CP042026#homePageLink](https://www.star.nesdis.noaa.gov/goes/floater.php?stormid=CP042026#homePageLink)
 [CP042026 - Tropical Storm PENA](https://rammb-data.cira.colostate.edu/tc_realtime/storm.asp?storm_identifier=cp042026)
-Last observation: 09 Nov 2026 - 23:05 UTC [@hulu ~> Tyana Taylor, hi I forgot u, but your mask is scary @deptofwar De La Soul - Stakes is High](https://youtu.be/P6fng8uHtBw?list=RDP6fng8uHtBw&t=54) : [Jazzyfatnastees - Unconventional Ways @septadev `Alfredo Garcia` were you talking to someone on a lrad when I played this song @nymta](https://youtu.be/yivEIt2PL24?list=PL0117751A7E4B1067&t=3)
+Last observation: 09 Nov 2026 - 23:05 UTC [@hulu ~> Tyana Taylor, hi I forgot u, but your mask is scary @deptofwar De La Soul - Stakes is High](https://youtu.be/P6fng8uHtBw?list=RDP6fng8uHtBw&t=54) :
 « Active Storms »
 6 Nov 2026 - 9 Nov 2026
 Approximately 700 miles from Hawaii
