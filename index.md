@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 ---
 
-[Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs)
+[Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs) // [Lapalux - Midnight Peelers](https://youtu.be/__t2pTun2eU?list=RD__t2pTun2eU&t=23)
 
 ---
 
