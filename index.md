@@ -8,6 +8,11 @@ mathjax: true
 ---
 
 
+![https://web.archive.org/web/20150208094354im_/http://d3odcnigi1nnzz.cloudfront.net/public/images/logos/leafly-logo-dark.png](https://web.archive.org/web/20150208094354im_/http://d3odcnigi1nnzz.cloudfront.net/public/images/logos/leafly-logo-dark.png)
+@rocketlab so i smoked @nasa-jpl understand [@la-county-isd https://cdn.cannabis.ca.gov/wp-content/uploads/sites/2/2026/01/dcc_regulations_01012026.pdf](https://cdn.cannabis.ca.gov/wp-content/uploads/sites/2/2026/01/dcc_regulations_01012026.pdf) religion can get in the way . . . @nasa-jpl i want a straight answer about that in california and if ppl mad bc i brought 1oz to Atlanta @Ajcnews after i got my card ? @bbc @forAtlanta
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A291997691&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nichtwie-duheist" title="Nichtwie Duheist" target="_blank" style="color: #cccccc; text-decoration: none;">Nichtwie Duheist</a> · <a href="https://soundcloud.com/nichtwie-duheist/now-im-high-really-high" title="Now I&#x27;m High, Really High" target="_blank" style="color: #cccccc; text-decoration: none;">Now I&#x27;m High, Really High</a></div>
+
+
 ## Flood Impact MAp
 [https://apps.usgs.gov/rtfi-map/#/](https://apps.usgs.gov/rtfi-map/#/)
 <img   alt="image" src="https://github.com/user-attachments/assets/2fa14dfd-26a1-4cad-8f88-57ec0b36c4e9" />
