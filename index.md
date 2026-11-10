@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 [JIAH - HALO](https://youtu.be/b_-MuXr1IU0?si=6T53e6Y4SlGlXBCu) // [Muni Long - Time Machine](https://youtu.be/-7xAqQhawL4?si=ScUln99wEbb1b9qL) // [Summer Walker - Playing Games](https://youtu.be/o_6HGBsMHeA?list=RDo_6HGBsMHeA&t=19) // [Teyana Taylor - Gonna Love Me (Remix)](https://youtu.be/9aAb2H2IVbA?t=139) // [Free Mind · Tems](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU&t=1) // [Essence · Wizkid · Tems](https://youtu.be/JL263Go9FUk?list=RDtQiNQL-FEgU&t=84) // [A Tribe Called Quest - Midnight Marauders (1993) ](https://youtu.be/Mu7yJH3QUfw?list=RDMu7yJH3QUfw) // [Cella Dwellas - Perfect Match](https://youtu.be/5WHySdRlcUE?si=D4iDcmYsfB0Ioi4F) // [
-mos def ms fat booty](https://youtu.be/lFyTzjJDeCk?list=RDlFyTzjJDeCk&t=81) // [dj honda / Travellin' Man feat. MosDef](https://youtu.be/p2YUDZZV6H8?list=RDp2YUDZZV6H8&t=16) // [Common - I Used to Love H.E.R. ](https://youtu.be/TrUERC2Zk64?list=RDTrUERC2Zk64&t=17) // [All Night Long · Common · Erykah Badu](https://youtu.be/G0_1cvD9irs?list=RDG0_1cvD9irs) // [De La Soul - Stakes is High _FullAlbum_@nbcnews @newshour](https://youtu.be/P6fng8uHtBw?list=RDP6fng8uHtBw&t=54)
+mos def ms fat booty](https://youtu.be/lFyTzjJDeCk?list=RDlFyTzjJDeCk&t=81) // [dj honda / Travellin' Man feat. MosDef](https://youtu.be/p2YUDZZV6H8?list=RDp2YUDZZV6H8&t=16) // [Common - I Used to Love H.E.R. ](https://youtu.be/TrUERC2Zk64?list=RDTrUERC2Zk64&t=17) // [All Night Long · Common · Erykah Badu](https://youtu.be/G0_1cvD9irs?list=RDG0_1cvD9irs) // [De La Soul - Stakes is High _FullAlbum_@nbcnews @newshour](https://youtu.be/P6fng8uHtBw?list=RDP6fng8uHtBw&t=54) // [Jazzyfatnastees - Unconventional Ways](https://youtu.be/yivEIt2PL24?list=PL0117751A7E4B1067&t=3)
 
 
 ---
