@@ -8,8 +8,8 @@ mathjax: true
 ---
 
 
-## Identifying Disaster Extent and Risk Using NISAR Surface Displacement
-This ARSET training focuses on the use of InSAR data from NISAR and surface displacement products from OPERA to monitor ground movements. // [earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement](https://www.earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement)
+## Identifying Disaster Extent and Risk Using [NISAR](https://www.jpl.nasa.gov/missions/nasa-isro-synthetic-aperture-radar-nisar/) Surface Displacement
+This [ARSET](https://www.earthdata.nasa.gov/data/projects/arset) training focuses on the use of InSAR data from NISAR and surface displacement products from OPERA to monitor ground movements. // [earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement](https://www.earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement)
 @Doug-Newman-nasa i dont know what my tormentors and my availiable computer time will allow me to complete , but i plan to be on time! [@la-county-isd _Holly J Mitchell_ @lacmta](https://mayor.lacity.gov/about-mayor-karen-bass) + [@CityOfLosAngeles Karen Bass](https://mayor.lacity.gov/about-mayor-karen-bass), [@StateOfCalifornia Nithiya Raman @isro @nasa-jpl](https://youtu.be/fkZkM7EH-VY?t=15) [[1](https://www.youtube.com/@NithyafortheCity)] hi its more training to manage local disasters @la-county-isd @nasa-jpl its an @eosdis-nasa class @nasa-openscapes // [@hulu not bugging you, she in a mask and is involved so im follwoing cues @ajcnews](https://soundcloud.com/teyana-taylor-official)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9cd07ae4-b698-42ba-bdb6-8cd702ebf3d6" />
