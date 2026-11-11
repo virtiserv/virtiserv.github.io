@@ -3,6 +3,26 @@ layout: default
 mathjax: true
 ---
 
+# HAppy Veterans Day @nasa-jpl @Cityoflosangeles @Whitehouse
+I love everyone at a certain level!
+@blackgirlscode 
+<iframe src="https://archive.org/embed/CaptainAmerica1944Serial1" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/the-hillbillies-of-beverly-hills-unaired-pilot-episode-for-the-beverly-hillbillies-1962" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/JimmyAndTheFederationGang" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/All-Episodes-of-TMNT-1987" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can an AI tell your writing apart from your friend’s? 🤖✍🏾
+In CODE YOUR VOICE, students ages 12 to 17 use Python to train an AI model on their own writing and find out.
+Sat., Nov. 21, 1 to 3 p.m. ET (virtual)
+Register: https://t.co/SqSYOHOwPC 🧡 https://t.co/muxwduwBnO</p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2120261106195222892?ref_src=twsrc%5Etfw">November 10, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 [Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs) // [Lapalux - Midnight Peelers](https://youtu.be/__t2pTun2eU?list=RD__t2pTun2eU&t=23) // [Closer · Bonobo](https://youtu.be/irLUQdsjNKo?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=55) // [Age of Phase · Bonobo](https://youtu.be/q3cRgehcshw?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=172) // [Me_an_CoraL = DoubleTrouble_EAV hi @Blackgirlscode @Whitehouse](https://youtu.be/AmSUb5H5G0s?t=53) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=19) // [Mathematics · Mos Def](https://youtu.be/8Ir-zFC9nFE?si=pY-38icZOQQqu6uE) // [Above The Clouds · Gang Starr · Inspectah Deck](https://youtu.be/NqhNTA2VHqk?list=RD8Ir-zFC9nFE) // [2Pac - Do For Love](https://youtu.be/0VGjV8Suyvg?list=RD0VGjV8Suyvg&t=12) // [2Pac - All Eyez On Me](https://youtu.be/H1HdZFgR-aA?list=RD0VGjV8Suyvg&t=217) // [November 5, 2026 Cannabis Regulation Commission Meeting @nasa-jpl @usgs](https://youtu.be/3TEy5T2rja0?t=35)
 
 ---
@@ -170,6 +190,10 @@ mathjax: true
 
 [./HoleToAnotherUniverse/los_angeles](https://codepen.io/thakarashard/pen/yLWaEyM)
 <img  alt="image" src="https://github.com/user-attachments/assets/94dc38b9-13fb-4b7f-8a85-426f3b69b255" />
+
+[mdnFLEXBOX flexbasis ](https://codepen.io/ricoThaka/pen/LEPZxaQ)
+<img   alt="image" src="https://github.com/user-attachments/assets/d4ab0397-3219-4d8c-a3b2-b000812322fe" />
+
 
 
 [##6iTEM_MODELiNG_SPREAD##FLEXBOX##FORPRODUCTION @howard-university-web-services](https://codepen.io/ricoThaka/pen/emOWLZx)
