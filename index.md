@@ -7,6 +7,31 @@ mathjax: true
 
 ---
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
+
+[https://worldview.earthdata.nasa.gov/?v=-119.18383809748505,33.498444249216455,-117.17646664162623,34.486447387646955&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,Reference_Labels_15m,OrbitTracks_Landsat-8_Descending,GRUMP_Settlements,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams&lg=true&t=2026-05-11-T16%3A53%3A48Z](https://worldview.earthdata.nasa.gov/?v=-119.18383809748505,33.498444249216455,-117.17646664162623,34.486447387646955&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,Reference_Labels_15m,OrbitTracks_Landsat-8_Descending,GRUMP_Settlements,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams&lg=true&t=2026-05-11-T16%3A53%3A48Z) 
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) // [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) // [![Twitter Follow](https://img.shields.io/badge/Social-@cd4losangeles__-blue?style=social&logo=X)](https://twitter.com/@cd4losangeles) // [![Twitter Follow](https://img.shields.io/badge/Social-@nithyavraman__-blue?style=social&logo=X)](https://twitter.com/@nithyavraman) //  [![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris) //  [![Twitter Follow](https://img.shields.io/badge/Social-@LanaJHarris__-blue?style=social&logo=X)](https://twitter.com/@LanaJHarris) 
+
+
+
+@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode
+<img   alt="@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode rashardvoted-03" src="https://github.com/user-attachments/assets/53835a8e-e14c-48f9-8be5-342ea9d59f8e" />
+<img  alt="@rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode image" src="https://github.com/user-attachments/assets/d135fc22-5f5c-43e5-8410-cf2aca317a3a" />
+<img   alt=" @rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscoderashardvoted-14" src="https://github.com/user-attachments/assets/730a19bd-3174-4f61-840b-05e9677abb8b" />
+<img  alt="rashardvoted-06 @rashardikelly Voted @foratlanta @cityoflosangeles @stateofcalifornia @saccounty @blackgirlscode" src="https://github.com/user-attachments/assets/189d0e16-29a4-489a-a3e2-0bb08776af6b" />
+
+
 
 [![https://web.archive.org/web/20150208094354im_/http://d3odcnigi1nnzz.cloudfront.net/public/images/logos/leafly-logo-dark.png](https://web.archive.org/web/20150208094354im_/http://d3odcnigi1nnzz.cloudfront.net/public/images/logos/leafly-logo-dark.png)](https://www.leafly.com/news/cannabis-101)
 
