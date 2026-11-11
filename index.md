@@ -7,6 +7,128 @@ mathjax: true
 
 ---
 
+<section>
+
+
+  <div class="swatch">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+  </section>
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
@@ -19,13 +141,35 @@ mathjax: true
 
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
+<object class="scroller" data="https://eyes.nasa.gov/apps/juno-embed/" type="text/html" /></object>
+	
 # SOURCE:Parker Solar Probe [homepage @nasa-jpl](https://parkersolarprobe.jhuapl.edu/)
 #### DATA RATE 454.5 kb/sec
 #### POWER RECEIVED -120 dBm (1.0 x 10-18 kW)
 #### FREQUENCY BAND: `Ka` [@nasa-pds happy veterans day @nasa-pds @blackgirscode hi @hulu](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_parker_solar_probe?interactPrompt=true&surfaceMapTiling=true&hd=true&minorMoons=true&heliosphere=true&lighting=natural" allowfullscreen type="text/html" /></object>
+
+   <object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
+
 <img   alt="image" src="https://github.com/user-attachments/assets/39364a31-7273-4d22-b0aa-fbca3b7ee840" />
 
 ![https://parkersolarprobe.jhuapl.edu/whereispsp/Current/psp202611_0244.svg@nasa-pds happy veterans day @nasa-pds @blackgirscode hi @hulu https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://parkersolarprobe.jhuapl.edu/whereispsp/Current/psp202611_0244.svg)
+
+[##COLLAGE##LIST##MENUNAV##ANiMATED](https://codepen.io/thakarashard/pen/RwOjYLZ)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7c533550-0cc8-44ab-82fa-cc7429203c0d" />
+
+
+[./HoleToAnotherUniverse/los_angeles](https://codepen.io/thakarashard/pen/yLWaEyM)
+<img  alt="image" src="https://github.com/user-attachments/assets/94dc38b9-13fb-4b7f-8a85-426f3b69b255" />
+
+
+[##6iTEM_MODELiNG_SPREAD##FLEXBOX##FORPRODUCTION @howard-university-web-services](https://codepen.io/ricoThaka/pen/emOWLZx)
+<img  alt="image" src="https://github.com/user-attachments/assets/da5ff39f-e073-47d2-a8d8-e02835408cf8" />
+
+[WebSafeFontSampler @normani @blackgirlscode @hulu codepen.io/rashardsdata/pen/dPGRKZN](https://codepen.io/rashardsdata/pen/dPGRKZN)
+<img  alt="image" src="https://github.com/user-attachments/assets/4982c471-1122-484b-bc7f-3c801b7b779d" />
 
 [https://worldview.earthdata.nasa.gov/?v=-119.18383809748505,33.498444249216455,-117.17646664162623,34.486447387646955&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,Reference_Labels_15m,OrbitTracks_Landsat-8_Descending,GRUMP_Settlements,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams&lg=true&t=2026-05-11-T16%3A53%3A48Z](https://worldview.earthdata.nasa.gov/?v=-119.18383809748505,33.498444249216455,-117.17646664162623,34.486447387646955&l=Admin_Boundaries,DoS_International_Boundaries,Coastlines_15m,Reference_Labels_15m,OrbitTracks_Landsat-8_Descending,GRUMP_Settlements,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams&lg=true&t=2026-05-11-T16%3A53%3A48Z) 
 
