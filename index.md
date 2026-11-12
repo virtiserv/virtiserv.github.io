@@ -3,6 +3,16 @@ layout: default
 mathjax: true
 ---
 
+#  HTML external object element
+
+```html
+<object>
+```
+The `object` HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin [@nasa-pds developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)  [today](https://virtiserv.github.io/) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/ca83ed4d-9e2f-4f22-92b0-c5d5ea58000f" />
+
+
 # HAppy Veterans Day @nasa-jpl @Cityoflosangeles @Whitehouse
 I love everyone at a certain level!
 @blackgirlscode 
