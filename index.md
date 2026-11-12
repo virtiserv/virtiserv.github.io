@@ -3,6 +3,15 @@ layout: default
 mathjax: true
 ---
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
 
 <section>
 
@@ -126,17 +135,73 @@ mathjax: true
     </div>
   </section>
 
-<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
-  
-  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
-  
-  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
-  
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
-  
-</picture>
+![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
+
+
+[search.earthdata.nasa.gov/search/granules?p=C2854338529-start_date&g=G4370148709-ASF&q=118.30265%2C33.76474%2C-117.94416%2C34.10177&lat=34.61908&long=-118.75189570881227&zoom=6.738810737255636](https://search.earthdata.nasa.gov/search/granules?p=C2854338529-ASF&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4370148709-ASF&q=nisar&sb[0]=-118.30265%2C33.76474%2C-117.94416%2C34.10177&lat=34.61908&long=-118.75189570881227&zoom=6.738810737255636)
+
+
+<img alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/abda12f2-43bf-46df-b5a7-b864e5a7fe53" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/d585c1c5-3104-4908-9eff-315be7ae14f8" />
+
+
+`NISAR_L2_PR_GCOV_033_034_A_019_4005_DHDH_A_20261014T130823_20261014T130857_P05023_N_F_J_001_NATIVE_B_HVHV` [gif](https://ezgif.com/maker/ezgif-295d0b3dc4e310c8-split.html) @cityoflosangeles @nasa-jpl @isro 
+<img  alt="NISAR_L2_PR_GCOV_033_034_A_019_4005_DHDH_A_20261014T130823_20261014T130857_P05023_N_F_J_001_NATIVE_B_HVHV" src="https://github.com/user-attachments/assets/b8656732-2fd6-4e0a-8ad6-bf6fa46933db" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/988e2708-0ac7-4d4c-83e9-9833584d6eed" />
+
+
+2026-01-11 13:27 NISAR_L2_PR_GCOV_010_034_A_019_4005_DHDH_A_20260111T130827_20260111T130902_X05010_N_F_J_001
+<img  alt="NISAR_L2_PR_GCOV_010_034_A_019_4005_DHDH_A_20260111T130827_20260111T130902_X05010_N_F_J_001" src="https://github.com/user-attachments/assets/404341e0-b7e7-4da0-8c2a-354944d4c39b" />
+
+
+@isro @nasa-jpl @cityoflosangeles NISAR_L2_PR_GSLC_032_013_D_071_4005_DHDH_A_20261001T024033_20261001T024111_P05023_N_F_J_001_NATIVE
+<img alt="NISAR_L2_PR_GSLC_032_013_D_071_4005_DHDH_A_20261001T024033_20261001T024111_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/8666a894-9dce-4ec8-b7d2-115d16456fce" />
+
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png?VersionId=llfrsEYaf2oR_ntfvKpvpt8qp09TgU2X&itok=vFOBBjV2](https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png)
+
+<img alt="image" src="https://github.com/user-attachments/assets/b69b1b32-d653-4f5b-b42c-3e1c0fe5670a" />
+
+
+
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_generic_card/public/2026-09/ARSET-SurfaceDisplacement2026-th.jpg?VersionId=eYAUSXFMJaR5dPr2J9otU5LgjuUrfoHO&itok=cys57EJX](https://earthdata.nasa.gov/s3fs-public/styles/hds_generic_card/public/2026-09/ARSET-SurfaceDisplacement2026-th.jpg?VersionId=eYAUSXFMJaR5dPr2J9otU5LgjuUrfoHO&itok=cys57EJX) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/37a59589-a737-44ee-a196-77d67d8f40c9" />
+
+
+NISAR_L2_PR_GSLC_034_034_A_019_4005_DHDH_A_20261026T130823_20261026T130858_P05036_N_F_J_001_NATIVE @NASA-jpl @CityOFLOSANGELES @iSRO
+<img alt="NISAR_L2_PR_GSLC_034_034_A_019_4005_DHDH_A_20261026T130823_20261026T130858_P05036_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/1221afec-53c3-461d-aece-3a7a0512d5e3" />
 
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0e109d14-0ebe-47bb-bf5d-112312f2dc01" />
+
+![https://asf.alaska.edu/wp-content/uploads/2022/12/ASFLogo-Blue2-copy-1-1.png](https://asf.alaska.edu/wp-content/uploads/2022/12/ASFLogo-Blue2-copy-1-1.png) 
+
+ QGiS [github.com/qgis](https://github.com/qgis)
+[qgis.org/](https://qgis.org/) // [QGIS User Conference 2026](https://feed.qgis.org/170/) More than 420 people from over 30 countries and five continents gathered in Laax from 4 to 9 October for the QGIS User Conference 2026 and Contributor Meeting
+![https://qgis.org/img/logosign.svg](https://qgis.org/img/logosign.svg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2c3b73c3-1435-4538-8dce-62df729007d4" />
+
+[https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf#page=43)
+
+<img alt="image" src="https://github.com/user-attachments/assets/4d553fe8-8311-45d8-875a-f21cd97ef5c0" />
+
+
+
+##### NASA-ISRO SAR (NISAR) Mission  Science Users’ Handbook
+[`READ` @NASA-jpl @CityOFLOSANGELES @iSRO dataverse.jpl.nasa.gov/api/access/datafile/97405?gbrecs=true](https://dataverse.jpl.nasa.gov/api/access/datafile/97405?gbrecs=true)
+<img  alt="image" src="https://github.com/user-attachments/assets/af99619f-a7b7-4925-859a-1171eb81dcf1" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/24d74f8f-6f22-4bcb-b97a-50f88ba87607" />
+
+@doug-newman-nasa @nasa-jpl @eosdis-nasa @isro @webex [I'm in earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement](https://www.earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement) , I missed the first 15 min so I'm kinda lost @CityOfLosAngeles @nasa @deptofwar 
+<img  alt="image" src="https://github.com/user-attachments/assets/cf235f60-971a-4f1c-b247-13163c4f223b" />
 
 #  HTML external object element
 

@@ -2,9 +2,15 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 @import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
+@font-face {
+  font-family: Cluster;
+  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
+}
+
 /* LAYOUT STYLES */
 body {
-  font-family: "Ubuntu Sans", 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "Martian Mono", "Ubuntu Sans", 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-optical-sizing: auto;
   font-weight: 400;
