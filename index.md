@@ -166,6 +166,32 @@ The `object` HTML element represents an external resource, which can be treated 
   width="450"
   height="300"></object>
 
+@cityoflosangeles @longbeachinnovationteam 
+@la-county-isd @nasa-jpl @whitehouse @blackgirlscode I got kicked out of the Long Beach public library for 3 months, y am I still logged in @deptofwar @ajcnews @cbs-news-data , was it the @disney or @hulu mention ? ?
+
+Long Beach 205.154.246.88
+Last accessed on Nov 10, 2026
+Seen in US
+Device:
+Chrome on Windows
+
+Last location:
+Long Beach, California, United States
+
+Signed in:
+November 10, 2026
+Long Beach, California, United States
+<img   alt="image" src="https://github.com/user-attachments/assets/70fe5589-af82-4605-9b60-abc4912cc141" />
+
+Los Angeles 155.190.3.5
+active
+Your current session
+Seen in US
+Long Beach 205.154.246.88
+stale
+Last accessed on Nov 10, 2026
+Seen in US
+
 <img  alt="image" src="https://github.com/user-attachments/assets/7ee2b968-126e-4ea3-bba2-f7d02aa03e2a" />
 
 # HAppy Veterans Day @nasa-jpl @Cityoflosangeles @Whitehouse
