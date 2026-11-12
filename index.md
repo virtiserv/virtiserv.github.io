@@ -3,33 +3,6 @@ layout: default
 mathjax: true
 ---
 
-#  HTML external object element
-
-```html
-<object>
-```
-The `object` HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin [@nasa-pds developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)  [today](https://virtiserv.github.io/) 
-
-<img alt="image" src="https://github.com/user-attachments/assets/ca83ed4d-9e2f-4f22-92b0-c5d5ea58000f" />
-
-
-# HAppy Veterans Day @nasa-jpl @Cityoflosangeles @Whitehouse
-I love everyone at a certain level!
-@blackgirlscode 
-<iframe src="https://archive.org/embed/CaptainAmerica1944Serial1" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-[Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs) // [Lapalux - Midnight Peelers](https://youtu.be/__t2pTun2eU?list=RD__t2pTun2eU&t=23) // [Closer · Bonobo](https://youtu.be/irLUQdsjNKo?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=55) // [Age of Phase · Bonobo](https://youtu.be/q3cRgehcshw?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=172) // [Me_an_CoraL = DoubleTrouble_EAV hi @Blackgirlscode @Whitehouse](https://youtu.be/AmSUb5H5G0s?t=53) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=19) // [Mathematics · Mos Def](https://youtu.be/8Ir-zFC9nFE?si=pY-38icZOQQqu6uE) // [Above The Clouds · Gang Starr · Inspectah Deck](https://youtu.be/NqhNTA2VHqk?list=RD8Ir-zFC9nFE) // [2Pac - Do For Love](https://youtu.be/0VGjV8Suyvg?list=RD0VGjV8Suyvg&t=12) // [2Pac - All Eyez On Me](https://youtu.be/H1HdZFgR-aA?list=RD0VGjV8Suyvg&t=217) // [November 5, 2026 Cannabis Regulation Commission Meeting @nasa-jpl @usgs](https://youtu.be/3TEy5T2rja0?t=35)
-
----
-
-
-## Sea Level Rise Viewer
-[@noaagov  @nasa-jpl coast.noaa.gov/slr/](https://coast.noaa.gov/slr/)
-### simulated flood.
-[@cityoflosangeles Karen Bass](https://www.congress.gov/member/karen-bass/B001270), if the sea level rose 10 ft, [CouncilWomanNithiya_CD4](https://en.wikipedia.org/wiki/Nithya_Raman) try the slider on the left pane hi @noaagov @esri
-[coast.noaa.gov/slr/#/layer/slr/10/-13145277.040173031/3991116.350449195/12.448/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/10/-13145277.040173031/3991116.350449195/12.448/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor)
 
 <section>
 
@@ -165,20 +138,15 @@ I love everyone at a certain level!
 
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
+#  HTML external object element
 
+```html
+<object>
+```
+The `object` HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin [@nasa-pds developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)  [today](https://virtiserv.github.io/) 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can an AI tell your writing apart from your friend’s? 🤖✍🏾
-In CODE YOUR VOICE, students ages 12 to 17 use Python to train an AI model on their own writing and find out.
-Sat., Nov. 21, 1 to 3 p.m. ET (virtual)
-Register: https://t.co/SqSYOHOwPC 🧡 https://t.co/muxwduwBnO</p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2120261106195222892?ref_src=twsrc%5Etfw">November 10, 2026</a></blockquote>
-<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+<img alt="image" src="https://github.com/user-attachments/assets/ca83ed4d-9e2f-4f22-92b0-c5d5ea58000f" />
 
-
-	
-# SOURCE:Parker Solar Probe [homepage @nasa-jpl](https://parkersolarprobe.jhuapl.edu/)
-#### DATA RATE 454.5 kb/sec
-#### POWER RECEIVED -120 dBm (1.0 x 10-18 kW)
-#### FREQUENCY BAND: `Ka` [@nasa-pds happy veterans day @nasa-pds @blackgirscode hi @hulu](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 <object
   type="text/html" 
@@ -197,6 +165,41 @@ Register: https://t.co/SqSYOHOwPC 🧡 https://t.co/muxwduwBnO</p>&mdash; Black 
   data="https://eyes.nasa.gov/apps/solar-system/#/sc_parker_solar_probe?interactPrompt=true&surfaceMapTiling=true&hd=true&minorMoons=true&heliosphere=true&lighting=natural" allowfullscreen 
   width="450"
   height="300"></object>
+
+
+# HAppy Veterans Day @nasa-jpl @Cityoflosangeles @Whitehouse
+I love everyone at a certain level!
+@blackgirlscode 
+<iframe src="https://archive.org/embed/CaptainAmerica1944Serial1" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+[Orbital - Halcyon (live)](https://youtu.be/F6pUyxcKrRQ?si=tEOyx7GBjiv2Vzmq) // [deadmau5 & Kaskade - I Remember](https://youtu.be/zK1mLIeXwsQ?si=70DpazwGg04RLpxs) // [Lapalux - Midnight Peelers](https://youtu.be/__t2pTun2eU?list=RD__t2pTun2eU&t=23) // [Closer · Bonobo](https://youtu.be/irLUQdsjNKo?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=55) // [Age of Phase · Bonobo](https://youtu.be/q3cRgehcshw?list=PLS4jAfE9d3aKXueMUL_UqTeBdgI7RURu-&t=172) // [Me_an_CoraL = DoubleTrouble_EAV hi @Blackgirlscode @Whitehouse](https://youtu.be/AmSUb5H5G0s?t=53) // [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=19) // [Mathematics · Mos Def](https://youtu.be/8Ir-zFC9nFE?si=pY-38icZOQQqu6uE) // [Above The Clouds · Gang Starr · Inspectah Deck](https://youtu.be/NqhNTA2VHqk?list=RD8Ir-zFC9nFE) // [2Pac - Do For Love](https://youtu.be/0VGjV8Suyvg?list=RD0VGjV8Suyvg&t=12) // [2Pac - All Eyez On Me](https://youtu.be/H1HdZFgR-aA?list=RD0VGjV8Suyvg&t=217) // [November 5, 2026 Cannabis Regulation Commission Meeting @nasa-jpl @usgs](https://youtu.be/3TEy5T2rja0?t=35)
+
+---
+
+
+## Sea Level Rise Viewer
+[@noaagov  @nasa-jpl coast.noaa.gov/slr/](https://coast.noaa.gov/slr/)
+### simulated flood.
+[@cityoflosangeles Karen Bass](https://www.congress.gov/member/karen-bass/B001270), if the sea level rose 10 ft, [CouncilWomanNithiya_CD4](https://en.wikipedia.org/wiki/Nithya_Raman) try the slider on the left pane hi @noaagov @esri
+[coast.noaa.gov/slr/#/layer/slr/10/-13145277.040173031/3991116.350449195/12.448/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/10/-13145277.040173031/3991116.350449195/12.448/satellite/none/0.8/2050/interHigh/noAccretion/NOS_Minor)
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can an AI tell your writing apart from your friend’s? 🤖✍🏾
+In CODE YOUR VOICE, students ages 12 to 17 use Python to train an AI model on their own writing and find out.
+Sat., Nov. 21, 1 to 3 p.m. ET (virtual)
+Register: https://t.co/SqSYOHOwPC 🧡 https://t.co/muxwduwBnO</p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2120261106195222892?ref_src=twsrc%5Etfw">November 10, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+	
+# SOURCE:Parker Solar Probe [homepage @nasa-jpl](https://parkersolarprobe.jhuapl.edu/)
+#### DATA RATE 454.5 kb/sec
+#### POWER RECEIVED -120 dBm (1.0 x 10-18 kW)
+#### FREQUENCY BAND: `Ka` [@nasa-pds happy veterans day @nasa-pds @blackgirscode hi @hulu](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/39364a31-7273-4d22-b0aa-fbca3b7ee840" />
 
