@@ -138,6 +138,10 @@ mathjax: true
 
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
+[https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf#page=43)
+
+<img "alt="image" src="https://github.com/user-attachments/assets/4d553fe8-8311-45d8-875a-f21cd97ef5c0" />
+
 ![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
 
 ##### NASA-ISRO SAR (NISAR) Mission  Science Users’ Handbook
