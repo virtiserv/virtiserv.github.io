@@ -138,6 +138,15 @@ mathjax: true
 
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
+![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
+
+##### NASA-ISRO SAR (NISAR) Mission  Science Users’ Handbook
+[`READ` @NASA-jpl @CityOFLOSANGELES @iSRO dataverse.jpl.nasa.gov/api/access/datafile/97405?gbrecs=true](https://dataverse.jpl.nasa.gov/api/access/datafile/97405?gbrecs=true)
+<img  alt="image" src="https://github.com/user-attachments/assets/af99619f-a7b7-4925-859a-1171eb81dcf1" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/24d74f8f-6f22-4bcb-b97a-50f88ba87607" />
+
 @doug-newman-nasa @nasa-jpl @eosdis-nasa @isro @webex [I'm in earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement](https://www.earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement) , I missed the first 15 min so I'm kinda lost @CityOfLosAngeles @nasa @deptofwar 
 <img  alt="image" src="https://github.com/user-attachments/assets/cf235f60-971a-4f1c-b247-13163c4f223b" />
 
