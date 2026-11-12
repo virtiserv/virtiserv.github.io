@@ -167,7 +167,7 @@ The `object` HTML element represents an external resource, which can be treated 
   height="300"></object>
 
 @cityoflosangeles @longbeachinnovationteam 
-@la-county-isd @nasa-jpl @whitehouse @blackgirlscode I got kicked out of the Long Beach public library for 3 months, y am I still logged in @deptofwar @ajcnews @cbs-news-data , was it the @disney or @hulu mention ? ?
+@la-county-isd @nasa-jpl @whitehouse @blackgirlscode I got kicked out of the Long Beach public library for 3 months, y am I still logged in @deptofwar @ajcnews @cbs-news-data , was it the @disney or @hulu mention ? ? @isro I'm late I'm going to try to catch the [class  https://www.lapl.org/](https://www.lapl.org/) 
 
 Long Beach 205.154.246.88
 Last accessed on Nov 10, 2026
