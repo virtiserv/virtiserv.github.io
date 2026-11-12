@@ -140,7 +140,7 @@ mathjax: true
 
 [https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf#page=43)
 
-<img "alt="image" src="https://github.com/user-attachments/assets/4d553fe8-8311-45d8-875a-f21cd97ef5c0" />
+<img alt="image" src="https://github.com/user-attachments/assets/4d553fe8-8311-45d8-875a-f21cd97ef5c0" />
 
 ![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
 
