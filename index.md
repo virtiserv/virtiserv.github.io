@@ -138,6 +138,9 @@ mathjax: true
 
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
+@doug-newman-nasa @nasa-jpl @eosdis-nasa @isro @webex [I'm in earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement](https://www.earthdata.nasa.gov/learn/trainings/identifying-disaster-extent-risk-using-nisar-surface-displacement) , I missed the first 15 min so I'm kinda lost @CityOfLosAngeles @nasa @deptofwar 
+<img  alt="image" src="https://github.com/user-attachments/assets/cf235f60-971a-4f1c-b247-13163c4f223b" />
+
 #  HTML external object element
 
 ```html
