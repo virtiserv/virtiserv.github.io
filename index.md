@@ -170,9 +170,23 @@ Register: https://t.co/SqSYOHOwPC 🧡 https://t.co/muxwduwBnO</p>&mdash; Black 
 #### POWER RECEIVED -120 dBm (1.0 x 10-18 kW)
 #### FREQUENCY BAND: `Ka` [@nasa-pds happy veterans day @nasa-pds @blackgirscode hi @hulu](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_parker_solar_probe?interactPrompt=true&surfaceMapTiling=true&hd=true&minorMoons=true&heliosphere=true&lighting=natural" allowfullscreen type="text/html" /></object>
+<object
+  type="text/html" 
+  data="https://eyes.nasa.gov/apps/dsn-now/dsn.html"
+  width="450"
+  height="300"></object>
 
-   <object class="scroller" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" /></object>
+<object
+  type="text/html" 
+  data="https://eyes.nasa.gov/apps/juno-embed/"
+  width="450"
+  height="300"></object>
+
+<object
+  type="text/html" 
+  data="https://eyes.nasa.gov/apps/solar-system/#/sc_parker_solar_probe?interactPrompt=true&surfaceMapTiling=true&hd=true&minorMoons=true&heliosphere=true&lighting=natural" allowfullscreen 
+  width="450"
+  height="300"></object>
 
 <img   alt="image" src="https://github.com/user-attachments/assets/39364a31-7273-4d22-b0aa-fbca3b7ee840" />
 
@@ -181,9 +195,6 @@ Register: https://t.co/SqSYOHOwPC 🧡 https://t.co/muxwduwBnO</p>&mdash; Black 
 [##COLLAGE##LIST##MENUNAV##ANiMATED](https://codepen.io/thakarashard/pen/RwOjYLZ)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/7c533550-0cc8-44ab-82fa-cc7429203c0d" />
-
-<object class="scroller" data="https://eyes.nasa.gov/apps/juno-embed/" type="text/html" />
-</object>
 
 [./HoleToAnotherUniverse/los_angeles](https://codepen.io/thakarashard/pen/yLWaEyM)
 <img  alt="image" src="https://github.com/user-attachments/assets/94dc38b9-13fb-4b7f-8a85-426f3b69b255" />
