@@ -135,8 +135,9 @@ mathjax: true
     </div>
   </section>
 
+![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
 
-![https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png?VersionId=llfrsEYaf2oR_ntfvKpvpt8qp09TgU2X&itok=vFOBBjV2](https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png?VersionId=llfrsEYaf2oR_ntfvKpvpt8qp09TgU2X&itok=vFOBBjV2)
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png?VersionId=llfrsEYaf2oR_ntfvKpvpt8qp09TgU2X&itok=vFOBBjV2](https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png)
 
 <img alt="image" src="https://github.com/user-attachments/assets/b69b1b32-d653-4f5b-b42c-3e1c0fe5670a" />
 
@@ -156,16 +157,17 @@ NISAR_L2_PR_GSLC_034_034_A_019_4005_DHDH_A_20261026T130823_20261026T130858_P0503
 
 ![https://asf.alaska.edu/wp-content/uploads/2022/12/ASFLogo-Blue2-copy-1-1.png](https://asf.alaska.edu/wp-content/uploads/2022/12/ASFLogo-Blue2-copy-1-1.png) 
 
-#### QGiS [github.com/qgis](https://github.com/qgis)
+ QGiS [github.com/qgis](https://github.com/qgis)
 [qgis.org/](https://qgis.org/) // [QGIS User Conference 2026](https://feed.qgis.org/170/) More than 420 people from over 30 countries and five continents gathered in Laax from 4 to 9 October for the QGIS User Conference 2026 and Contributor Meeting
 ![https://qgis.org/img/logosign.svg](https://qgis.org/img/logosign.svg)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/2c3b73c3-1435-4538-8dce-62df729007d4" />
 
 [https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-11/ARSET-SurfaceDisplacement2026-part1-slides.pdf#page=43)
 
 <img alt="image" src="https://github.com/user-attachments/assets/4d553fe8-8311-45d8-875a-f21cd97ef5c0" />
 
-![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
+
 
 ##### NASA-ISRO SAR (NISAR) Mission  Science Users’ Handbook
 [`READ` @NASA-jpl @CityOFLOSANGELES @iSRO dataverse.jpl.nasa.gov/api/access/datafile/97405?gbrecs=true](https://dataverse.jpl.nasa.gov/api/access/datafile/97405?gbrecs=true)
