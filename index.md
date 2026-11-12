@@ -140,7 +140,11 @@ mathjax: true
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
 
-# QGiS [github.com/qgis](https://github.com/qgis)
+<img  alt="image" src="https://github.com/user-attachments/assets/0e109d14-0ebe-47bb-bf5d-112312f2dc01" />
+
+![https://asf.alaska.edu/wp-content/uploads/2022/12/ASFLogo-Blue2-copy-1-1.png](https://asf.alaska.edu/wp-content/uploads/2022/12/ASFLogo-Blue2-copy-1-1.png) 
+
+#### QGiS [github.com/qgis](https://github.com/qgis)
 [qgis.org/](https://qgis.org/) // [QGIS User Conference 2026](https://feed.qgis.org/170/) More than 420 people from over 30 countries and five continents gathered in Laax from 4 to 9 October for the QGIS User Conference 2026 and Contributor Meeting
 ![https://qgis.org/img/logosign.svg](https://qgis.org/img/logosign.svg)
 <img  alt="image" src="https://github.com/user-attachments/assets/2c3b73c3-1435-4538-8dce-62df729007d4" />
