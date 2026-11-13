@@ -1,22 +1,35 @@
-name: Publish Gem
-
 on:
-  release:
-    types: [released]
-
+  push:
+  pull_request:
+    types: [opened, synchronize]
 jobs:
-  release:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: macos-latest
+    name: script/cibuild
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: actions/checkout@v4
+        uses: actions/jekyll-build-pages@v1
         with:
-          ruby-version: '3.2.0'
-      - name: Build gem
-        run: |
-          gem build github-pages.gemspec
-      - name: Publish
-        run: |
-          gem push github-pages.gem --key ${{ secrets.PAGES_GEM_PUBLISH }}
+          source: ./
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2.0
+          bundler-cache: true
+      - name: build
+        run: script/bootstrap
+      - name: test
+        run: script/cibuild
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: macos-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
