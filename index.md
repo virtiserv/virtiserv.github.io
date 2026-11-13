@@ -137,6 +137,8 @@ mathjax: true
 
 ![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
 
+[M.I.A. - Matahdatah Scroll 01 "Broader Than A Border"](https://youtu.be/SJuFdkMOP20?t=12) // [M.I.A. - Borders](https://youtu.be/r-Nw7HbaeWY?list=RDr-Nw7HbaeWY&t=1)
+
 ### NISAR Provisional Geocoded Polarimetric Covariance Product (Version 1)
 @nasa-jpl @eosdis-nasa hi its @rashardikelly , I just finished the first class from the NiSAR series this week I guess, anyway this product is really healthy in earthdata search. I noticed the new visualization layer. Its amazing. I guess @ESA OPERA has competing data products? But is that a real thing ? Every unit has its own qualities could the sentinel 1 functionjs be moving all to [NiSAR? earch.earthdata.nasa.gov/search/granules?p=C2854338529-ASF-ASF&q=nisar&sb](https://search.earthdata.nasa.gov/search/granules?p=C2854338529-ASF&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4370148709-ASF&q=nisar&sb[0]=-118.30265%2C33.76474%2C-117.94416%2C34.10177&lat=33.8352152262405&long=-118.11183687415318&zoom=10.814808935362285)
 
