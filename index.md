@@ -135,9 +135,24 @@ mathjax: true
     </div>
   </section>
 
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Los Angeles, I am deeply honored to be your next mayor.
+
+I just spoke with Mayor Bass and expressed my deepest gratitude for her leadership and decades of service. Los Angeles would not be the city it is today without her.
+
+I love this city. I believe in its people. The work ahead will be hard, and change will take time. And together, we are going to build a future as extraordinary as the city we call home.
+
+Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) <a href="https://x.com/nithyavraman/status/2118438804063445171?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 ![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
 
-[M.I.A. - Matahdatah Scroll 01 "Broader Than A Border"](https://youtu.be/SJuFdkMOP20?t=12) // [M.I.A. - Borders](https://youtu.be/r-Nw7HbaeWY?list=RDr-Nw7HbaeWY&t=1)
+[M.I.A. - Matahdatah Scroll 01 "Broader Than A Border"](https://youtu.be/SJuFdkMOP20?t=12) // [M.I.A. - Borders](https://youtu.be/r-Nw7HbaeWY?list=RDr-Nw7HbaeWY&t=1) // [M.I.A. - P.O.W.A](https://youtu.be/Zkkr-HhnwS8?list=RDZkkr-HhnwS8&t=1) // [M.I.A. - Go Off](https://youtu.be/kGDhHxgY6uo?list=RDZkkr-HhnwS8&t=45)
+
+
+@gatech @gtri @isro @nasa-jpl hi I'm looking at [earthdatasearch](https://github.com/nasa/earthdata-search) and [Worldview](https://github.com/nasa-gibs/worldview) in the two images below and I see a pause in data after October 24th . . . @DeptOfWar @FecGov any politics slowing things down ? @Blackgirlscode hi if you out there that may be affecting people [@CityOFLoSangeles](https://github.com/cityoflosangeles) @nasa-gibs
+<img alt="image" src="https://github.com/user-attachments/assets/450fdb0f-6958-4f7f-8580-1c1d5b563b17" />
+
 
 ### NISAR Provisional Geocoded Polarimetric Covariance Product (Version 1)
 @nasa-jpl @eosdis-nasa hi its @rashardikelly , I just finished the first class from the NiSAR series this week I guess, anyway this product is really healthy in earthdata search. I noticed the new visualization layer. Its amazing. I guess @ESA OPERA has competing data products? But is that a real thing ? Every unit has its own qualities could the sentinel 1 functionjs be moving all to [NiSAR? earch.earthdata.nasa.gov/search/granules?p=C2854338529-ASF-ASF&q=nisar&sb](https://search.earthdata.nasa.gov/search/granules?p=C2854338529-ASF&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4370148709-ASF&q=nisar&sb[0]=-118.30265%2C33.76474%2C-117.94416%2C34.10177&lat=33.8352152262405&long=-118.11183687415318&zoom=10.814808935362285)
