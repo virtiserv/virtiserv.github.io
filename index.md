@@ -141,6 +141,16 @@ mathjax: true
   
 [M.I.A. - Piracy Funds Terrorism Volume 1 - Full Mixtape ](https://youtu.be/tEsdsw7qLfI?list=RDtEsdsw7qLfI&t=66)  [Freddie Hubbard - Red Clay](https://youtu.be/wA1ZelIbUfI?list=RDwA1ZelIbUfI&t=412) // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94)
 
+# Nancy Grace Roman Space Telescope
+Nancy Grace Roman Space Telescope [Project https://science.jpl.nasa.gov/projects/wfirst/](https://science.jpl.nasa.gov/projects/wfirst/) @nasa-pds 
+The Nancy Grace Roman Space Telescope is a NASA observatory designed to settle essential questions in the areas of dark energy, exoplanets, and infrared astrophysics.
+DATA RATE
+780.0 kb/sec
+
+POWER RECEIVED
+-98 dBm
+<img alt="image" src="https://github.com/user-attachments/assets/534d6e24-3052-486b-a196-49e7bd18fafd" />
+
 
 # Weather Anomolie
 @USSF-ORBiT @NASA-JPL hi, its that white cloud blowing towards @UCSB-Library-Research-Data-Services + @CityOfLosAngeles @eosdis-nasa its a weather report, is it proper to mention @doug-newman-nasa ? a lot of things are rolling together that was discussed in 2015 @deptofwar @whitehouse @la-county-isd and I don't want to get dull in my reporting perception simply because I can connect that its one job, Unix help desk at a weather firm that makes cameras hi @blackgirlscode @nbcnews @cbs-news-data
