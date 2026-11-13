@@ -137,6 +137,8 @@ mathjax: true
 
  // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94) // [Gil Scott Heron - Angel Dust (1978)](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM&t=57)
 
+ ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094599_1655/ESP_094599_1655_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094599_1655/ESP_094599_1655_MRGB.abrowse.jpg) 
+
 @nasa-jpl [Measure 45th](https://calmatters.org/california-voter-guide-2026/proposition-45-environmental-review/) @cityOflosangeles
 [Voters rejected Prop. 45. The battle over California’s housing crisis continues](https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚒 The latest episode of Live From LA County brings together 7 #LACounty leaders for a conversation about emergency preparedness, disaster response, &amp;amp; the coordination required to keep communities safe.
