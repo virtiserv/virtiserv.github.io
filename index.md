@@ -138,7 +138,10 @@ mathjax: true
   
 [M.I.A. - Piracy Funds Terrorism Volume 1 - Full Mixtape ](https://youtu.be/tEsdsw7qLfI?list=RDtEsdsw7qLfI&t=66)
 
-  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Los Angeles, I am deeply honored to be your next mayor.
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Los Angeles, I am deeply honored to be your next mayor.
 
 I just spoke with Mayor Bass and expressed my deepest gratitude for her leadership and decades of service. Los Angeles would not be the city it is today without her.
 
@@ -146,6 +149,13 @@ I love this city. I believe in its people. The work ahead will be hard, and chan
 
 Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) <a href="https://x.com/nithyavraman/status/2118438804063445171?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+![background1 https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg) 
+[The Emirates Mars Mission](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) // [Freddie Hubbard - Red Clay](https://youtu.be/wA1ZelIbUfI?list=RDwA1ZelIbUfI&t=412) // @nat I am only mentioning you bc you look like [bill](https://www.congress.gov/member/clarence-nelson/N000032) @nasa-jpl @ESA idk who to alert about this one @isro 
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg)
+<img   alt="image" src="https://github.com/user-attachments/assets/09a6e8a0-c44c-4669-9b46-63b6d4892dd8" />
 
 
 ![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
