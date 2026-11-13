@@ -135,10 +135,42 @@ mathjax: true
     </div>
   </section>
 
-  
-[M.I.A. - Piracy Funds Terrorism Volume 1 - Full Mixtape ](https://youtu.be/tEsdsw7qLfI?list=RDtEsdsw7qLfI&t=66)
 
-  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Los Angeles, I am deeply honored to be your next mayor.
+
+@nasa-jpl [Measure 45th](https://calmatters.org/california-voter-guide-2026/proposition-45-environmental-review/) @cityOflosangeles
+[Voters rejected Prop. 45. The battle over California’s housing crisis continues](https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚒 The latest episode of Live From LA County brings together 7 #LACounty leaders for a conversation about emergency preparedness, disaster response, &amp;amp; the coordination required to keep communities safe.
+
+What do these agencies do? What can YOU do?
+
+📺 https://t.co/k9Ky8B4vbm
+
+1/2 https://t.co/SRKxtBXMWx</p>&mdash; Ready Los Angeles County (@ReadyLACounty) <a href="https://x.com/ReadyLACounty/status/2120261511306514643?ref_src=twsrc%5Etfw">November 10, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+  
+[M.I.A. - Piracy Funds Terrorism Volume 1 - Full Mixtape ](https://youtu.be/tEsdsw7qLfI?list=RDtEsdsw7qLfI&t=66)  [Freddie Hubbard - Red Clay](https://youtu.be/wA1ZelIbUfI?list=RDwA1ZelIbUfI&t=412) // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94)
+
+# Nancy Grace Roman Space Telescope
+Nancy Grace Roman Space Telescope [Project https://science.jpl.nasa.gov/projects/wfirst/](https://science.jpl.nasa.gov/projects/wfirst/) @nasa-pds 
+The Nancy Grace Roman Space Telescope is a NASA observatory designed to settle essential questions in the areas of dark energy, exoplanets, and infrared astrophysics.
+DATA RATE
+780.0 kb/sec
+
+POWER RECEIVED
+-98 dBm
+<img alt="image" src="https://github.com/user-attachments/assets/534d6e24-3052-486b-a196-49e7bd18fafd" />
+
+
+# Weather Anomolie
+@USSF-ORBiT @NASA-JPL hi, its that white cloud blowing towards @UCSB-Library-Research-Data-Services + @CityOfLosAngeles @eosdis-nasa its a weather report, is it proper to mention @doug-newman-nasa ? a lot of things are rolling together that was discussed in 2015 @deptofwar @whitehouse @la-county-isd and I don't want to get dull in my reporting perception simply because I can connect that its one job, Unix help desk at a weather firm that makes cameras hi @blackgirlscode @nbcnews @cbs-news-data
+goeswestabiconus-12p30um-sNov 13, 2026 - 16_11 UTC-eNov 13, 2026 - 17_46 UTC [What are your opinions on Randy Rouse for Mayor - `REDDiT`](https://www.reddit.com/r/SantaBarbara/comments/pr1rec/what_are_your_opinions_on_randy_rouse_for_mayor/)
+
+<img alt="goeswestabiconus-12p30um-sNov 13, 2026 - 16_11 UTC-eNov 13, 2026 - 17_46 UTC" src="https://github.com/user-attachments/assets/f2c79913-3780-4cb6-99df-736c63bb33a4" />
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Los Angeles, I am deeply honored to be your next mayor.
 
 I just spoke with Mayor Bass and expressed my deepest gratitude for her leadership and decades of service. Los Angeles would not be the city it is today without her.
 
@@ -146,7 +178,17 @@ I love this city. I believe in its people. The work ahead will be hard, and chan
 
 Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) <a href="https://x.com/nithyavraman/status/2118438804063445171?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+# Open source goes to Mars 🚀
+[The Emirates Mars Mission - pmc.ncbi.nlm.nih.gov/articles/PMC8830993/ @NiHGOV @whitehouse @CityOFLosAngeles](https://pmc.ncbi.nlm.nih.gov/articles/PMC8830993/) //
+[`read` - https://github.blog/news-insights/company-news/open-source-goes-to-mars/](https://github.blog/news-insights/company-news/open-source-goes-to-mars/)
+@nat I am only mentioning you bc you look like [bill](https://www.congress.gov/member/clarence-nelson/N000032) @nasa-jpl @ESA idk who to alert about this one @isro 
 
+# DATA RATE: 241.9 kb/sec
+# POWER RECEIVED: -120 dBm (1.0 x 10-18 kW)
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg)
+<img   alt="image" src="https://github.com/user-attachments/assets/09a6e8a0-c44c-4669-9b46-63b6d4892dd8" />
+![background1 https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg](https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg) 
 
 ![https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png](https://asf.alaska.edu/wp-content/uploads/NISAR/NISAR_Mission_Logo.png) 
 
