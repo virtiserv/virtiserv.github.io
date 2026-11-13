@@ -135,7 +135,7 @@ mathjax: true
     </div>
   </section>
 
-
+ // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94) // [Gil Scott Heron - Angel Dust (1978)](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM&t=57)
 
 @nasa-jpl [Measure 45th](https://calmatters.org/california-voter-guide-2026/proposition-45-environmental-review/) @cityOflosangeles
 [Voters rejected Prop. 45. The battle over California’s housing crisis continues](https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues)
