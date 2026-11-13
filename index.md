@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: rt_leap
 mathjax: true
 ---
 
