@@ -135,7 +135,12 @@ mathjax: true
     </div>
   </section>
 
- // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94) // [Gil Scott Heron - Angel Dust (1978)](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM&t=57)
+ // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94) // [Gil Scott Heron - Angel Dust (1978)](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM&t=57) // [The Jones Girls - Nights Over Egypt a.k.a. @CityOfLosAngeles mayors mommy ? @nbcnews](https://youtu.be/ci63QpctwQ8?list=RDci63QpctwQ8&t=47)
+
+
+ # MArs Landing Spot Recon @nasa-pds / @nasa-jpl @rashardikelly
+hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_094500_094599/ESP_094571_2285_ESP_094294_2285/ESP_094571_2285_ESP_094294_2285_RED.browse.png - Volcano ? <~ @whitehouse @deptofwar 
+ ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_094500_094599/ESP_094571_2285_ESP_094294_2285/ESP_094571_2285_ESP_094294_2285_RED.browse.png - Volcano ?](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_094500_094599/ESP_094571_2285_ESP_094294_2285/ESP_094571_2285_ESP_094294_2285_RED.browse.png)
 
  ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094599_1655/ESP_094599_1655_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094500_094599/ESP_094599_1655/ESP_094599_1655_MRGB.abrowse.jpg) 
 
