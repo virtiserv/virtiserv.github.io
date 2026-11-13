@@ -1,18 +1,22 @@
+name: Publish Gem
+
 on:
-  push:
-  pull_request:
-    types: [opened, synchronize]
+  release:
+    types: [released]
+
 jobs:
-  build:
-    runs-on: windows-latest
-    name: script/cibuild
+  release:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: ruby/setup-ruby@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2.0
-          bundler-cache: true
-      - name: build
-        run: script/bootstrap
-      - name: test
-        run: script/cibuild
+          ruby-version: '3.2.0'
+      - name: Build gem
+        run: |
+          gem build github-pages.gemspec
+      - name: Publish
+        run: |
+          gem push github-pages.gem --key ${{ secrets.PAGES_GEM_PUBLISH }}
