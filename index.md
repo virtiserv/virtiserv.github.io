@@ -136,7 +136,18 @@ mathjax: true
   </section>
 
 
-  
+
+@nasa-jpl [Measure 45th](https://calmatters.org/california-voter-guide-2026/proposition-45-environmental-review/) @cityOflosangeles
+[Voters rejected Prop. 45. The battle over California’s housing crisis continues](https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚒 The latest episode of Live From LA County brings together 7 #LACounty leaders for a conversation about emergency preparedness, disaster response, &amp;amp; the coordination required to keep communities safe.
+
+What do these agencies do? What can YOU do?
+
+📺 https://t.co/k9Ky8B4vbm
+
+1/2 https://t.co/SRKxtBXMWx</p>&mdash; Ready Los Angeles County (@ReadyLACounty) <a href="https://x.com/ReadyLACounty/status/2120261511306514643?ref_src=twsrc%5Etfw">November 10, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 
   
 [M.I.A. - Piracy Funds Terrorism Volume 1 - Full Mixtape ](https://youtu.be/tEsdsw7qLfI?list=RDtEsdsw7qLfI&t=66)  [Freddie Hubbard - Red Clay](https://youtu.be/wA1ZelIbUfI?list=RDwA1ZelIbUfI&t=412) // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94)
