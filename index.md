@@ -18,6 +18,37 @@ mathjax: true
 # [Rashard Kelly](https://rashard-ecostress-jpl-iss.github.io/)
 ## NasaJpl MRO JUNO iSS [[1](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master)] [[2](https://kellyrashardiman.github.io/)]
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+### Snow White And The Seven Dwarfs (1937)
+by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22) [`files`](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404)
+"Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White)
+[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf) +++ [Grimm 053: Little Snow-White](https://www.grimmstories.com/en/grimm_fairy-tales/snow-white)
+
+[<video controls loading="lazy" width="500" height="300" poster="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" src="https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4" />](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4)
+
+```html
+<iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
+<img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
+
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
+
+### Snow White And The Seven Dwarfs (1937)
+by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22) [`files`](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404)
+"Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White)
+[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf) +++ [Grimm 053: Little Snow-White](https://www.grimmstories.com/en/grimm_fairy-tales/snow-white)
+
+[<video controls loading="lazy" width="500" height="300" poster="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" src="https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4" />](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4)
+
+```html
+<iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
+<img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
+
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
 
 
 {% include nav.html %}
@@ -1508,21 +1539,6 @@ MRO MARCI Weather Report for the week of
 [Mr. Magic’s, “Rap Attack” featuring Marley Marl on 107.5 WBLS-FM New York City 1987](https://youtu.be/Nxnafd_e6KE?list=RDNxnafd_e6KE)
 
 
-### Snow White And The Seven Dwarfs (1937)
-by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22) [`files`](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404)
-"Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White)
-[`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf) +++ [Grimm 053: Little Snow-White](https://www.grimmstories.com/en/grimm_fairy-tales/snow-white)
-
-[<video controls loading="lazy" poster="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" src="https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4" />](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4)
-
-```html
-<iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-```
-<img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
-
-[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
 
 
 ![https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
@@ -1942,6 +1958,21 @@ x' &=& &x \sin\phi &+& z \cos\phi \\
 z' &=& - &x \cos\phi &+& z \sin\phi \\
 \end{eqnarray}$$
 
+{% include nav.html %}
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+  
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
