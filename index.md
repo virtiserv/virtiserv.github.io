@@ -150,6 +150,11 @@ Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) <a h
 [M.I.A. - Matahdatah Scroll 01 "Broader Than A Border"](https://youtu.be/SJuFdkMOP20?t=12) // [M.I.A. - Borders](https://youtu.be/r-Nw7HbaeWY?list=RDr-Nw7HbaeWY&t=1) // [M.I.A. - P.O.W.A](https://youtu.be/Zkkr-HhnwS8?list=RDZkkr-HhnwS8&t=1) // [M.I.A. - Go Off](https://youtu.be/kGDhHxgY6uo?list=RDZkkr-HhnwS8&t=45)
 
 
+[worldview.earthdata.nasa.gov/=Reference_Labels_15m,`NISAR`_L2_Geocoded_Polarimetric_Covariance&lg=true](https://worldview.earthdata.nasa.gov/?v=-118.43334722214759,33.63618558273149,-117.76211052563833,33.96655989429464&ics=true&ici=3&icd=12&l=Reference_Labels_15m,NISAR_L2_Geocoded_Polarimetric_Covariance&lg=true&s=-118.1813,33.7717&t=2026-10-26-T23%3A57%3A23Z)
+<img   alt="snapshot-2026-10-26" src="https://github.com/user-attachments/assets/fcabfca8-7efa-4a61-bfd3-a1decac6c830" />
+
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
 @gatech @gtri @isro @nasa-jpl hi I'm looking at [earthdatasearch](https://github.com/nasa/earthdata-search) and [Worldview](https://github.com/nasa-gibs/worldview) in the two images below and I see a pause in data after October 24th . . . @DeptOfWar @FecGov any politics slowing things down ? @Blackgirlscode hi if you out there that may be affecting people [@CityOFLoSangeles](https://github.com/cityoflosangeles) @nasa-gibs
 <img alt="image" src="https://github.com/user-attachments/assets/450fdb0f-6958-4f7f-8580-1c1d5b563b17" />
 
