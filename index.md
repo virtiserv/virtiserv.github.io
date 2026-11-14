@@ -16,8 +16,7 @@ mathjax: true
 {% include nav.html %}
 
 
-# [Rashard Kelly](https://rashard-ecostress-jpl-iss.github.io/)
-## NasaJpl MRO JUNO iSS [[1](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master)] [[2](https://kellyrashardiman.github.io/)]
+
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 <section>
@@ -142,24 +141,19 @@ mathjax: true
     </div>
   </section>
 
+ // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94) // [Gil Scott Heron - Angel Dust (1978)](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM&t=57) // [The Jones Girls - Nights Over Egypt a.k.a. @CityOfLosAngeles mayors mommy ? @nbcnews](https://youtu.be/ci63QpctwQ8?list=RDci63QpctwQ8&t=47) // [52nd Street - Tell Me (How It Feels)](https://youtu.be/ogMf9GYHgFI?si=hlgcGPQlCSXUADuN) // [Cherrelle - Saturday Love](https://youtu.be/efLcgUQmyT8?list=RDefLcgUQmyT8&t=52) @uber I need my driver logs, I lost my girl @nasa-jpl @fema @femagov [Juicy - Sugar Free](https://youtu.be/_opu_18mLfA?list=RD_opu_18mLfA&t=20) // [Whitney Houston - February 14, 1985](https://youtu.be/YzquBb_Kfxs?list=RDYzquBb_Kfxs&t=73) // [I believe the children are our future](https://youtu.be/YzquBb_Kfxs?list=RDYzquBb_Kfxs&t=2400) [Estelle - American Boy Feat. Kanye West ](https://youtu.be/Ic5vxw3eijY?list=RDIc5vxw3eijY&t=115) // [Keri Hilson - Knock You Down (Official Music Video) ft. Kanye West, Ne-Yo](https://youtu.be/p_RqWocthcc?si=VwCMoGocLTW6_CjZ) // [Drake, Kanye West, Lil Wayne, Eminem - Forever (Explicit Version) ](https://youtu.be/eDuRoPIOBjE?list=RDeDuRoPIOBjE&t=13) // [Drake - Headlines](https://youtu.be/cimoNqiulUE?list=RDcimoNqiulUE&t=10) // [Drake - Hotline Bling](https://youtu.be/uxpDa-c-4Mc?list=RDuxpDa-c-4Mc&t=16) // [Drake - God's Plan](https://youtu.be/xpVfcZ0ZcFM?si=tygmpHgUOB64V4Kj) // [Kendrick Lamar - Swimming Pools (Drank)](https://youtu.be/B5YNiCfWC3A?list=RDB5YNiCfWC3A&t=4)
+
+
+## Books  @nasa-pds
+[Mars by Lowell, Percival, 1855-1916](https://archive.org/details/mars00lowe_0/page/2/mode/2up)
 
 ### Snow White And The Seven Dwarfs (1937)
 by [Walt @Disney Animation Studios](https://archive.org/search?query=creator%3A%22Walt+Disney+Animation+Studios%22) [`files`](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404)
-"Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White)
+"Snow White" is a German fairy tale, first written down in the early 19th century. The Brothers Grimm published it in 1812 in the first edition of their collection Grimms' Fairy Tales, numbered as Tale 53. [Wiki - READ MORE](https://en.wikipedia.org/wiki/Snow_White) + [Drake - Headlines](https://youtu.be/cimoNqiulUE?list=RDcimoNqiulUE&t=10)
 [`READ` - ra5hard.github.io/assets/pdf/`snowwhite`_plainclothesTracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/snowwhite_plainclothesTracy.pdf) /// [`ReaD` n Color - assets/pdf/dicktracy.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/dicktracy.pdf) +++ [Grimm 053: Little Snow-White](https://www.grimmstories.com/en/grimm_fairy-tales/snow-white)
 
 [<video controls loading="lazy" width="500" height="300" poster="https://github.com/user-attachments/assets/24583cf6-1dd3-4b3e-a500-f422530a108d" src="https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4" />](https://archive.org/download/snow-white-and-the-seven-dwarfs-1937_202404/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29.mp4)
 
-```html
-<iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-```
-<img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
-
-[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
-
- // [Butterfly · Herbie Hancock](https://youtu.be/-_mSzscIhyg?list=RDwA1ZelIbUfI&t=94) // [Gil Scott Heron - Angel Dust (1978)](https://youtu.be/pRQgviNNZEM?list=RDpRQgviNNZEM&t=57) // [The Jones Girls - Nights Over Egypt a.k.a. @CityOfLosAngeles mayors mommy ? @nbcnews](https://youtu.be/ci63QpctwQ8?list=RDci63QpctwQ8&t=47) // [52nd Street - Tell Me (How It Feels)](https://youtu.be/ogMf9GYHgFI?si=hlgcGPQlCSXUADuN) // [Cherrelle - Saturday Love](https://youtu.be/efLcgUQmyT8?list=RDefLcgUQmyT8&t=52) @uber I need my driver logs, I lost my girl @nasa-jpl @fema @femagov [Juicy - Sugar Free](https://youtu.be/_opu_18mLfA?list=RD_opu_18mLfA&t=20) // [Whitney Houston - February 14, 1985](https://youtu.be/YzquBb_Kfxs?list=RDYzquBb_Kfxs&t=73) // [I believe the children are our future](https://youtu.be/YzquBb_Kfxs?list=RDYzquBb_Kfxs&t=2400)
 
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094100_094199/ESP_094144_2160/ESP_094144_2160_RED.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_094100_094199/ESP_094144_2160/ESP_094144_2160_RED.abrowse.jpg) 
 
@@ -195,6 +189,16 @@ What do these agencies do? What can YOU do?
 
 1/2 https://t.co/SRKxtBXMWx</p>&mdash; Ready Los Angeles County (@ReadyLACounty) <a href="https://x.com/ReadyLACounty/status/2120261511306514643?ref_src=twsrc%5Etfw">November 10, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+```html
+<iframe src="https://archive.org/embed/snow-white-and-the-seven-dwarfs-1937_202404" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
+<img  alt="snowwhite_plainclothesTracy-13" src="https://github.com/user-attachments/assets/9da5badc-90d7-404d-8e0d-e4f46ab0892f" />
+
+[@nasa-jpl @foratlanta github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://github.com/ra5hard/ra5hard.github.io/blob/master/assets/pdf/1_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4e7eaa1f-6acb-412f-aeab-adb0d76e5d39" />
 
 
   
@@ -1962,6 +1966,8 @@ This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 </article>
 
   {% endfor %}
+  
+  
   
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
