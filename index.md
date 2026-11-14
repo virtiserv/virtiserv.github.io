@@ -13,14 +13,11 @@ mathjax: true
   
 </picture>
 
-<section>
 
-
-<div class="swatch">
 	
 {% include swatch.html %}
 
-</section>
+
 
 {% include nav.html %}
 
