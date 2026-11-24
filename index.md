@@ -25,6 +25,35 @@ mathjax: true
  {{ site.title | default: site.github.repository_name }}
 
 
+
+## lapl.txt
+[https://github.com/virtiserv/virtiserv.github.io/blob/master/lapl.txt](https://github.com/virtiserv/virtiserv.github.io/blob/master/lapl.txt)
+~/.../virtiserv/virtiserv.github.io $ gh auth login         ? 
+Where do you use GitHub? GitHub.com                       ! 
+Did you know that expiring tokens can be requested with --expiring? 
+Read more at https://gh.io/gh-expiring-tokens     ? 
+How would you like to authenticate GitHub CLI? 
+Login with a web browser
+? What is your preferred protocol for Git operations on this host? HTTPS                  ? 
+Authenticate Git with your GitHub credentials? Yes        
+! Failed to copy one-time code to clipboard
+  No clipboard utilities available. Please install xsel, xclip, wl-clipboard or Termux:API add-on for termux-clipboard-get/set.                       ! 
+  First copy your one-time code: C87A-C6F2
+Press Enter to open https://github.com/login/device in your browser...
+✓ Authentication complete.    - gh config set -h github.com git_protocol https
+✓ Configured git protocol     ! Authentication credentials saved in plain text
+✓ Logged in as virtiserv      ~/.../[virtiserv/virtiserv.github.io](virtiserv.github.io) $ git push
+Enumerating objects: 4, done. Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects:  50% (1/2Compressing objects: 100% (2/2Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 270 bytes | 270.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)                             remote: Resolving deltas:   0%remote: Resolving deltas: 100%remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/virtiserv/virtiserv.github.io.git
+   ff5b2e85..9223976d  master -> master
+~/.../virtiserv/virtiserv.github.io $
+
+<img alt="tumblr_af2c09e92955e94f74ea5d36928a7d49_b307b9e4_1280" src="https://github.com/user-attachments/assets/953c3842-b38c-4fa4-a76c-f7106719ea76" />
+
 [@isro](https://www.isro.gov.in/Mission_GSLVF16_NISAR_Home.html) . . .  [Nisar](https://science.jpl.nasa.gov/projects/nisar/) is transmitting in [Svalbard, Norway](https://www.ksat.no/ground-network-services/) @nasa-jpl the signal just dropped [@blackgirlscode @deptofwar https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) 
 
 ![https://www.ksat.no/globalassets/ksat/service-pages-images/launch-crew-sentinel-5p_red.jpg?width=750&quality=99&rxy=0.5,0.5&rmode=Min](https://www.ksat.no/globalassets/ksat/service-pages-images/launch-crew-sentinel-5p_red.jpg?width=750&quality=99&rxy=0.5,0.5&rmode=Min) 
@@ -58,24 +87,6 @@ mathjax: true
 
 ![https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png) 
 
-```git
-~/.../virtiserv/virtiserv.github.io $ gh auth login         ? Where do you use GitHub? GitHub.com                       ! Did you know that expiring tokens can be requested with --expiring? Read more at https://gh.io/gh-expiring-tokens     ? How would you like to authenticate GitHub CLI? Login with a web browser
-? What is your preferred protocol for Git operations on this host? HTTPS                  ? Authenticate Git with your GitHub credentials? Yes        
-! Failed to copy one-time code to clipboard
-  No clipboard utilities available. Please install xsel, xclip, wl-clipboard or Termux:API add-on for termux-clipboard-get/set.                       ! First copy your one-time code: C87A-C6F2
-Press Enter to open https://github.com/login/device in your browser...
-✓ Authentication complete.    - gh config set -h github.com git_protocol https
-✓ Configured git protocol     ! Authentication credentials saved in plain text
-✓ Logged in as virtiserv      ~/.../virtiserv/virtiserv.github.io $ git push
-Enumerating objects: 4, done. Counting objects: 100% (4/4), done.
-Delta compression using up to 8 threads
-Compressing objects:  50% (1/2Compressing objects: 100% (2/2Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 270 bytes | 270.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)                             remote: Resolving deltas:   0%remote: Resolving deltas: 100%remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/virtiserv/virtiserv.github.io.git
-   ff5b2e85..9223976d  master -> master
-~/.../virtiserv/virtiserv.github.io $
-```
 
 
 // [Ronnie Laws - Friends & Strangers](https://youtu.be/POojH29JoQE?si=JUatEhdZlD4TZqgs) // [Taana Gardner-Heartbeat](https://youtu.be/pHBYjxAhqgA?si=fy4J9QPPikVudINr)
