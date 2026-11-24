@@ -25,6 +25,13 @@ mathjax: true
  {{ site.title | default: site.github.repository_name }}
 
 
+[@isro](https://www.isro.gov.in/Mission_GSLVF16_NISAR_Home.html) . . .  [Nisar](https://science.jpl.nasa.gov/projects/nisar/) is transmitting in [Svalbard, Norway](https://www.ksat.no/ground-network-services/) @nasa-jpl the signal just dropped [@blackgirlscode @deptofwar https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) 
+
+![https://www.ksat.no/globalassets/ksat/service-pages-images/launch-crew-sentinel-5p_red.jpg?width=750&quality=99&rxy=0.5,0.5&rmode=Min](https://www.ksat.no/globalassets/ksat/service-pages-images/launch-crew-sentinel-5p_red.jpg?width=750&quality=99&rxy=0.5,0.5&rmode=Min) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/45fb839e-866f-4173-a224-da95b988b50a" />
+
+
 @vita3k hi, I tried cell damage and Lego Batman and both crash out once they get loaded to a scene pregame play the dolphin emulator was not working for me it was always Frozen, it works well on this phone a Motorola 2026 motoplay however the performance I get from angry birds and touch screen response let me know Vita 3K is performing well but it has some possible maybe upper memory loading issues that are causing the game to crash out on my phone like it's loading too much into memory for a cell phone, you guys might be desktop gamers and it's normal to run those amounts of memory in that part of ram because you have lots of virtual memory and big chunky RAM sticks and ssds @cityoflosangeles @blackgirlscode @nasa-jpl @newshour @whitehouse [@Sonyresearch @jaxa @esa https://github.com/dolphin-emu](https://github.com/dolphin-emu) // [https://www.congress.gov/crs-product/IF12841 @la-county-isd](https://www.congress.gov/crs-product/IF12841)
 
 ## NAsA Mars science Laboratory (MsL): Curiosity
