@@ -31,6 +31,7 @@ mathjax: true
 
 <img  alt="image" src="https://github.com/user-attachments/assets/45fb839e-866f-4173-a224-da95b988b50a" />
 
+![https://scan-now.gsfc.nasa.gov/assets/nen/antenna/SG12.jpeg](https://scan-now.gsfc.nasa.gov/assets/nen/antenna/SG12.jpeg)
 
 @vita3k hi, I tried cell damage and Lego Batman and both crash out once they get loaded to a scene pregame play the dolphin emulator was not working for me it was always Frozen, it works well on this phone a Motorola 2026 motoplay however the performance I get from angry birds and touch screen response let me know Vita 3K is performing well but it has some possible maybe upper memory loading issues that are causing the game to crash out on my phone like it's loading too much into memory for a cell phone, you guys might be desktop gamers and it's normal to run those amounts of memory in that part of ram because you have lots of virtual memory and big chunky RAM sticks and ssds @cityoflosangeles @blackgirlscode @nasa-jpl @newshour @whitehouse [@Sonyresearch @jaxa @esa https://github.com/dolphin-emu](https://github.com/dolphin-emu) // [https://www.congress.gov/crs-product/IF12841 @la-county-isd](https://www.congress.gov/crs-product/IF12841)
 
