@@ -34,13 +34,23 @@ mathjax: true
 
 ## Monitoring California Groundwater
 ### GRACE [measures](https://svs.gsfc.nasa.gov/30862/) California water
+
+[<video controls  width="500" height="300" loading="lazy" poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg"  src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" ](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
+
+
 [@NASA `Emily DeMarco` linkedin.com/in/emily-demarco-38451719](https://www.linkedin.com/in/emily-demarco-38451719) //
 [@nbcnews Hegseth Directs Military Pay System Modernization Prioritizing Warfighters @cbs-news-data @bbc @ajcnews](https://www.war.gov/News/News-Stories/Article/Article/4660118/hegseth-directs-military-pay-system-modernization-prioritizing-warfighters/) [@nasa-jpl Modernizing Total Force Pay `PDF` @nasa-pds @CityOFLosAngeles](https://media.defense.gov/2026/Nov/25/2004038216/-1/-1/1/MODERNIZING-TOTAL-FORCE-PAY.PDF)
 
 [@cityoflosangeles gracefo.jpl.nasa.gov/resources/18/global-terrestrial-water-storage-anomaly/](https://gracefo.jpl.nasa.gov/resources/18/global-terrestrial-water-storage-anomaly/)  
-@nbcnews @foratlanta @nasa-jpl //  [Spatially-Refined Terrestrial Water Storage Trend Maps Derived From GRACE and GRACE-FO](https://svs.gsfc.nasa.gov/5676/) 
+@nbcnews @foratlanta @nasa-jpl //  [Spatially-Refined Terrestrial Water Storage Trend Maps Derived From GRACE and GRACE-FO](https://svs.gsfc.nasa.gov/5676/) //////// [@nasa-jpl @nasa-pds, iCESAT-2](https://icesat-2.gsfc.nasa.gov/) was transmitting at [@NASA WALLOPS](https://snebulos.mit.edu/projects/reference/NASA-Generic/453-NENUG_Rev2.pdf) [@MITLibraries @nasa-giss @MiT](https://police.mit.edu/)
 
-[<video controls  width="500" height="300" loading="lazy" poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg"  src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" ](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
+
+![https://icesat-2.gsfc.nasa.gov/themes/custom/icesat2/images/MissionLogo.png](https://icesat-2.gsfc.nasa.gov/themes/custom/icesat2/images/MissionLogo.png)
+
+
+![https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/1/2412/files/2026/10/Logo1-969x1024.png](https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/1/2412/files/2026/10/Logo1-969x1024.png) 
+
+![https://upload.wikimedia.org/wikipedia/commons/f/f9/Nasa_Wallops_Flight_Facility_Insignia.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original](https://upload.wikimedia.org/wikipedia/commons/f/f9/Nasa_Wallops_Flight_Facility_Insignia.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 
 
