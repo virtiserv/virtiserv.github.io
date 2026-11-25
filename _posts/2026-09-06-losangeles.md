@@ -20,6 +20,27 @@ I love this city. I believe in its people. The work ahead will be hard, and chan
 Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) @cityoflosangeles  <a href="https://x.com/nithyavraman/status/2118438804063445171?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
+<img alt="EMIT_L1B_RAD_001_20260521T224405_2614115_004" src="https://github.com/user-attachments/assets/656f1f82-8912-4c2a-abaf-a4ca17d188c1" />
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+
+
+<img alt="ECOv002_L2T_LSTE_47311_011_11SLT_20261108T105826_0713_01" src="https://github.com/user-attachments/assets/c5edd537-77b5-445f-86bf-9a45dbc41824" />
+
+
+
 <img alt="EMIT_L1B_RAD_001_20250805T170846_2521711_004" src="https://github.com/user-attachments/assets/e37ce48a-aa1a-4884-b7c3-a9cb87f34c2b" />
 
 <img  alt="EMIT_L1B_RAD_001_20260525T210941_2614514_002" src="https://github.com/user-attachments/assets/677504f7-5396-40cd-ba15-d35d7d4db3d9" />
