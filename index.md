@@ -26,6 +26,8 @@ mathjax: true
 
 // [Cypress Hill - Hits from the Bong ](https://youtu.be/ZAeBCpuqYYM?si=iAP1XWU3YunaVr0O) // [Channel Live ft. KRS-One - Mad-Izm](https://youtu.be/H3vs_lXebYc?si=oYhEC7GMeSkUtv3P) // [Goodie Bag · Goodie Mob](https://youtu.be/5LxUC6n5k4Y?list=RD5LxUC6n5k4Y&t=2) // [Thought Process · Goodie Mob · André 3000](https://youtu.be/aSFyd4hqTHg?list=RD5LxUC6n5k4Y&t=75)
 
+@nasa-jpl I want to apologize for attacking the guards character because of the sensitivity of the matter they may be victims as well @cityoflosangeles /and as well 😞😣😖😣😖 
+
 [@vita3k @libretro @nasa-jpl @sonyresearch @blackgirlscode](https://www.tumblr.com/rashardkelly/834265596085600256?source=share)
 
 ## @boeing
