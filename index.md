@@ -33,6 +33,9 @@ mathjax: true
 
 
   <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
+
+  <img  class="rotate"  alt="D000M0004_596887679EDR_F0000_0546M4" src="https://github.com/user-attachments/assets/447a700b-0e54-485a-9a81-b56ad9fb9653" />
+
   
 <img  alt="image" src="https://github.com/user-attachments/assets/99bc5eed-6796-4a42-b790-b808bfc8978b" />
 
