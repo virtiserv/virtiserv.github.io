@@ -24,6 +24,10 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+ [@nasa I'm being hurt by some wifi weapon ](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxom_0xxx/data/sol017/os017esf897721993_123d0mbm1.img)
+ <img width="256" height="256" alt="os017esf897721993_123d0mbm1 img" src="https://github.com/user-attachments/assets/8d8c2d18-0a51-4276-a0c6-3858b2d2965d" />
+
+
 // [Cypress Hill - Hits from the Bong ](https://youtu.be/ZAeBCpuqYYM?si=iAP1XWU3YunaVr0O) // [Channel Live ft. KRS-One - Mad-Izm](https://youtu.be/H3vs_lXebYc?si=oYhEC7GMeSkUtv3P) // [Goodie Bag · Goodie Mob](https://youtu.be/5LxUC6n5k4Y?list=RD5LxUC6n5k4Y&t=2) // [Thought Process · Goodie Mob · André 3000](https://youtu.be/aSFyd4hqTHg?list=RD5LxUC6n5k4Y&t=75)
 
 
