@@ -24,13 +24,45 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A732602704&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-585176683" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-585176683/nas-illmatic-full-album" title="Nas - Illmatic (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - Illmatic (Full Album)</a></div>
+
+# DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
+COMBATING TRAFFICKING IN PERSONS (CTIP)
+#### [@nasa-jpl this is the @DeptOfWar](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf?ver=2019-06-21-102951-257) stance on sex trafficking, 
+[ @cityoflosangeles @stateofcalifornia @blackgirlscode esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
+1.2. POLICY. It is DoD policy to:
+a. Oppose prostitution, forced labor, and any related activities contributing to the
+phenomenon of trafficking in persons (TIP). CTIP will be applied across the entire spectrum of
+DoD missions, functions, programs, and activities.
+b. Deter activities of Service members, civilian employees, indirect hires, DoD contractors,
+foreign national employees of DoD, grant and cooperative agreement recipients, and all
+dependents that could facilitate or support TIP, domestically and overseas. These activities, to
+which DoD Components will uniformly refer using these terms when issuing internal
+implementing instructions and regulations, are:
+(1) Prostitution, pimping, pandering, and patronizing a prostitute. Even though such
+activities may be legal in a host country, they are in violation of:
+(a) Chapter 47 of Title 10, United States Code (U.S.C.), also known and referred to
+in this issuance as the “Uniform Code of Military Justice.”
+(b) Paragraph 106 of Part IV of the Manual for Courts-Martial.
+(2) Activities in violation of Chapter 77 of Title 18, U.S.C. including:
+(a) Forced labor and involuntary servitude.
+(b) Document tampering (e.g., withholding passports, fraudulent visas).
+(c) Sex trafficking of children.
+(3) Sex trafficking by force, fraud, or coercion in violation of Chapter 117 of Title 18,
+U.S.C.
+(4) Additional TIP-related offenses in Sections 1581, 1584, 1590-1597, 2421, 2421A,
+and 2422 of Title 18, U.S.C. 
+[esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
+
+
 ## @boeing
 [DevOps Developer (Associate or Experienced or Lead)](https://jobs.boeing.com/job/seal-beach/devops-developer-associate-or-experienced-or-lead/185/102915261760) @whitehouse @boeing I use `marijuana`, however I was prescribed it by a doctor when my family was was dissolved systematically by the @StateOFCalifornia sex trade [The Use of Medicinal Marijuana for Posttraumatic Stress Disorder: A Review of the Current Literature @NiHGOV](https://pmc.ncbi.nlm.nih.gov/articles/PMC4578915/) @boeing @nasa I'm open to my old lifestyle, I like how the plant lowers my heart rate and soothes my gums from the corrosive street poisons after brushing and swishing well . . . @nasa-jpl is that why the guards think black familys dissolving is normal and rape is cool ? @Deptofwar I can only vibe off what I'm given 💯💯💯
 ![https://cdn.prod.website-files.com/61a5a79b208f0147b9dbce51/61a6a9d9c4a7091b1581a12d_Logo.png](https://cdn.prod.website-files.com/61a5a79b208f0147b9dbce51/61a6a9d9c4a7091b1581a12d_Logo.png)
 [@blackgirlscode @nasa-jpl @nasa-openscapes @doug-newman-nasa millennium-space.com/](https://www.millennium-space.com/)
 [IT Systems Engineer - Millennium Space Systems](https://jobs.boeing.com/job/el-segundo/it-systems-engineer-millennium-space-systems/185/102052929744) // @nasa-jpl I'm comfortable at the library like I was instructed, but family services in Georgia said I needed a job that paid enough to house everyone @ajcnews @newshour ... @boeing do you consider `Functional experience working with Defense` [Signal Monitoring @Nasa-pds](https://eyes.nasa.gov/apps/dsn-now/dsn.html), I don't want to abandon @eosdis-nasa @doug-newman-nasa @cityoflosangeles @La-county-isd but I'm really angry about the abandonment and loss of about 4 sexual partnered to porno, because they require the women to be shared, but they had no boundaries with the shared telepathy @nihgov @cia the shits not fair! I want to work and @hulu is more important that @deptofwar or @nasa-giss and whatever those strange black blast marks are on Mars and 3 dead science lab that just need to be turned on and [@teslamotors we can get there without teslaman](https://www.tesla.com/en_eu/AI) and wipe off the panels @nasa the issue is the time commitment do I need to become a formal [airman](https://www.airforce.com/ways-to-serve/air-force-active-duty) to compete for this level of job ? ok @commercegov I get it, I'm already an airman if the responsibility transfers of `Active Mission` but I don't see it defined in any front facing articles  which I don't see whyt it would not 
 [@nasa-pds https://www.reddit.com/r/nasa/comments/1shs18t/mission_control_staff_list/ @cityoflosangeles](https://www.reddit.com/r/nasa/comments/1shs18t/mission_control_staff_list/) [@linkedin .com/in/klau24 `Kenny Lau` @city-of-san-francisco @Nasa](https://www.linkedin.com/in/klau24)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A732602704&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-585176683" title="Josh Calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">Josh Calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-585176683/nas-illmatic-full-album" title="Nas - Illmatic (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Nas - Illmatic (Full Album)</a></div>
+
 
 ![https://www.teyanataylor.com/wp-content/uploads/sites/1863/2025/06/logo-7.png](https://www.teyanataylor.com/wp-content/uploads/sites/1863/2025/06/logo-7.png) // [Teyana Taylor](https://www.rottentomatoes.com/celebrity/teyana_taylor) will you come forward to someone about the sonic weapon date at the pizza place @forAtlanta @nasa-jpl @CityOfLosAngeles she can explain everything real smooth @doug-newman-nasa @nasa-giss @eosdis-nasa I don't think she will lie [@raytheonbbn https://github.com/raytheon](https://github.com/raytheon) [@deptofwar @usarmyresearchlab @nasa rashardkelly.tumblr.com/post/834010013225910272](https://rashardkelly.tumblr.com/post/834010013225910272) @nasa [@linkedin .com/in/rick-henfling-13a7323a5](https://www.linkedin.com/in/rick-henfling-13a7323a5)
 
