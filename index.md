@@ -27,7 +27,7 @@ mathjax: true
 // [Cypress Hill - Hits from the Bong ](https://youtu.be/ZAeBCpuqYYM?si=iAP1XWU3YunaVr0O) // [Channel Live ft. KRS-One - Mad-Izm](https://youtu.be/H3vs_lXebYc?si=oYhEC7GMeSkUtv3P) // [Goodie Bag · Goodie Mob](https://youtu.be/5LxUC6n5k4Y?list=RD5LxUC6n5k4Y&t=2) // [Thought Process · Goodie Mob · André 3000](https://youtu.be/aSFyd4hqTHg?list=RD5LxUC6n5k4Y&t=75)
 
 
-[@nasa-pds](https://eyes.nasa.gov/apps/dsn-now/dsn.html), gm MRO is beaming in at a hearty 4mb per second in Australia, keep  an eye out for transmission fluxes [@deptofwar we are tracking asteroids but  those don't think, but can be moved](https://science.nasa.gov/mission/dart/)
+[@nasa-pds](https://eyes.nasa.gov/apps/dsn-now/dsn.html), gm [MRO](https://pds-geosciences.wustl.edu/missions/mro/default.htm) is beaming in at a hearty 4mb per second in Australia, keep  an eye out for transmission fluxes [@deptofwar we are tracking asteroids but  those don't think, but can be moved](https://science.nasa.gov/mission/dart/)
 <img   alt="image" src="https://github.com/user-attachments/assets/c53f0cd4-0f49-42d3-ac77-484e9699c4e4" />
 
 @cnn @ajcnews
