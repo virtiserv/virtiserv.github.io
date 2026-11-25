@@ -26,6 +26,9 @@ mathjax: true
 
 // [Cypress Hill - Hits from the Bong ](https://youtu.be/ZAeBCpuqYYM?si=iAP1XWU3YunaVr0O) // [Channel Live ft. KRS-One - Mad-Izm](https://youtu.be/H3vs_lXebYc?si=oYhEC7GMeSkUtv3P) // [Goodie Bag · Goodie Mob](https://youtu.be/5LxUC6n5k4Y?list=RD5LxUC6n5k4Y&t=2) // [Thought Process · Goodie Mob · André 3000](https://youtu.be/aSFyd4hqTHg?list=RD5LxUC6n5k4Y&t=75)
 
+@cnn @ajcnews
+[<video controls loading="lazy" width="500" height="300" poster="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS.0301_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS_1080p30.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS_1080p30.mp4)
+
 ### JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height Coastal Resolution Improvement (CRI) Filtered Release 06 Version 02
 gm @nasa-jpl its @rashardikelly I was catching up on my Municipal meetings and wanted to include some lab resources for my data delivery @la-county-isd there is a form [the supervisors](https://bos.lacounty.gov/) left out with instructions . . . [@CityOFLosAngeles Supervisor Lindsey](https://lindseyhorvath.lacounty.gov/), I was watching the el nino meeting `
 Board Presentation: Preparing for El Niño` [`WATCH`](https://youtu.be/XxDF9pyq0xk?t=24) AND WITH THE SEA LEVEL OBSERVATIONS I HAVE BEEN MAKING I THOUGHT IT WOULD BE WISE TO SHARE THIS DATASET, I DONT KNOW THE CURRENT, BUT I KNOW WE HAVE WORKED THE ISSUE FROM LOS ANGELES///  [JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height Coastal Resolution Improvement (CRI) Filtered Release 06 Version 02](https://www.earthdata.nasa.gov/data/catalog/pocloud-tellus-grac-grfo-mascon-cri-grid-rl06-v2-rl06mv02#publications)
