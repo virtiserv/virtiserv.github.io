@@ -29,18 +29,23 @@ mathjax: true
 
  ---
 
- <video  height="auto" controls> 
-	 
-<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
-
-</video> 
-
 
 
 
   <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
   
 <img  alt="image" src="https://github.com/user-attachments/assets/99bc5eed-6796-4a42-b790-b808bfc8978b" />
+
+[@cnn @bbc https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0000/mipl/edr/idc/D000M0000_596535424EDR_F0000_0106M5.VIC @nasa-jpl](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0000/mipl/edr/idc/D000M0000_596535424EDR_F0000_0106M5.VIC) 
+
+ <img  class="rotate" alt="D000M0000_596535424EDR_F0000_0106M5" src="https://github.com/user-attachments/assets/6ff9c291-2c6b-4c8e-bc3b-0a6215216107" />
+
+ 
+ <video  height="auto" controls> 
+	 
+<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
+
+</video> 
 
 
 ## Ornithological Photography
@@ -76,9 +81,7 @@ mathjax: true
 <img   alt="D000M0000_596535424ZPG_F0000_0106M1" src="https://github.com/user-attachments/assets/802deec7-c687-4379-8a20-3c9546f02a73" />
 
 
-[@cnn @bbc https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0000/mipl/edr/idc/D000M0000_596535424EDR_F0000_0106M5.VIC @nasa-jpl](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0000/mipl/edr/idc/D000M0000_596535424EDR_F0000_0106M5.VIC) 
 
- <img   alt="D000M0000_596535424EDR_F0000_0106M5" src="https://github.com/user-attachments/assets/6ff9c291-2c6b-4c8e-bc3b-0a6215216107" />
 
 
 [@caltech pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol046/rs046eff900292308_150d0mbm1.img](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol046/rs046eff900292308_150d0mbm1.img)
