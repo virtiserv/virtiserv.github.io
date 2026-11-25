@@ -32,6 +32,11 @@ mathjax: true
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
 
+
+[livingatlas.arcgis.com/landsatexplorer](https://livingatlas.arcgis.com/landsatexplorer/#mode=dynamic&mainScene=%7CColor+Infrared+for+Visualization%7C%7C&mapCenter=-119.80934%2C34.13972%2C7.931)
+<img  alt="image" src="https://github.com/user-attachments/assets/aa320f7e-cacd-47d2-bb3b-f3279710f96d" />
+
+
 ### Phytoplankton Blooms Around Los Angeles and Santa Catalina Island
 [@Landsat 8 on November 27, 2021.](https://pace.oceansciences.org/ocean_color_more.htm?id=466)
 ![https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_sm.jpg](https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_sm.jpg)
