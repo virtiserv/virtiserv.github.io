@@ -20,6 +20,10 @@ I love this city. I believe in its people. The work ahead will be hard, and chan
 Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) @cityoflosangeles  <a href="https://x.com/nithyavraman/status/2118438804063445171?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
+<img alt="EMIT_L1B_RAD_001_20250805T170846_2521711_004" src="https://github.com/user-attachments/assets/e37ce48a-aa1a-4884-b7c3-a9cb87f34c2b" />
+
+<img  alt="EMIT_L1B_RAD_001_20260525T210941_2614514_002" src="https://github.com/user-attachments/assets/677504f7-5396-40cd-ba15-d35d7d4db3d9" />
+
 <div class="tupperware">
     
 {% for image in site.static_files %}
