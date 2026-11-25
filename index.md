@@ -24,6 +24,10 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol030/rs030eff898874226_136b0mrm1.img @cityoflosangeles @deptofwar](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol030/rs030eff898874226_136b0mrm1.img)
+<img  alt="rs030eff898874226_136b0mrm1 img" src="https://github.com/user-attachments/assets/12ca30d8-b713-43f5-a622-2ba62d29a760" />
+
+
  [@nasa I'm being hurt by some wifi weapon ](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxom_0xxx/data/sol017/os017esf897721993_123d0mbm1.img)
  <img width="256" height="256" alt="os017esf897721993_123d0mbm1 img" src="https://github.com/user-attachments/assets/8d8c2d18-0a51-4276-a0c6-3858b2d2965d" />
 
