@@ -24,7 +24,14 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
-[https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol030/rs030eff898874226_136b0mrm1.img @cityoflosangeles @deptofwar](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol030/rs030eff898874226_136b0mrm1.img)
+
+ \\ [Mary J. Blige - Not Gon Cry](https://youtu.be/Xxk4e59M8og?si=SRnOB_AhD7x7oRJu) 
+
+ ---
+
+[@gatech pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol030/rs030eff898874226_136b0mrm1.img @cityoflosangeles @deptofwar](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol030/rs030eff898874226_136b0mrm1.img)
+
+\\ [Mary J. Blige - Not Gon Cry](https://youtu.be/Xxk4e59M8og?si=SRnOB_AhD7x7oRJu)
 <img  alt="rs030eff898874226_136b0mrm1 img" src="https://github.com/user-attachments/assets/12ca30d8-b713-43f5-a622-2ba62d29a760" />
 
 [@ucla pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol034/rs034eff899227543_13dd0mbm1.img](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol034/rs034eff899227543_13dd0mbm1.img)
