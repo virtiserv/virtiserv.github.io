@@ -29,6 +29,11 @@ mathjax: true
 
  ---
 
+[@deptofwar @commercegov Work notes For 3 Weeks - RashardKelly @nasa #EARTHDATA @EOSDiS-NASA @DOUG-NEWMAN-NASA](https://codepen.io/virtiserv/pen/dPvLowB)
+<img alt="image" src="https://github.com/user-attachments/assets/c10a0935-46d6-4ee0-91de-55754db0b6ea" />
+
+<img   alt="D000M0000_596535424ZPG_F0000_0106M1" src="https://github.com/user-attachments/assets/802deec7-c687-4379-8a20-3c9546f02a73" />
+
 
 [@cnn @bbc https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0000/mipl/edr/idc/D000M0000_596535424EDR_F0000_0106M5.VIC @nasa-jpl](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0000/mipl/edr/idc/D000M0000_596535424EDR_F0000_0106M5.VIC) 
 
