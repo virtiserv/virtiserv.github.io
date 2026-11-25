@@ -25,7 +25,7 @@ mathjax: true
  {{ site.title | default: site.github.repository_name }}
 
 
-![https://www.teyanataylor.com/wp-content/uploads/sites/1863/2025/06/logo-7.png](https://www.teyanataylor.com/wp-content/uploads/sites/1863/2025/06/logo-7.png) // [Teyana Taylor](https://www.rottentomatoes.com/celebrity/teyana_taylor) will you come forward to someone about the sonic weapon date at the pizza place @forAtlanta @nasa-jpl @CityOfLosAngeles she can explain everything real smooth @doug-newman-nasa @nasa-giss @eosdis-nasa I don't think she will lie [@raytheonbbn https://github.com/raytheon](https://github.com/raytheon) @deptofwar 
+![https://www.teyanataylor.com/wp-content/uploads/sites/1863/2025/06/logo-7.png](https://www.teyanataylor.com/wp-content/uploads/sites/1863/2025/06/logo-7.png) // [Teyana Taylor](https://www.rottentomatoes.com/celebrity/teyana_taylor) will you come forward to someone about the sonic weapon date at the pizza place @forAtlanta @nasa-jpl @CityOfLosAngeles she can explain everything real smooth @doug-newman-nasa @nasa-giss @eosdis-nasa I don't think she will lie [@raytheonbbn https://github.com/raytheon](https://github.com/raytheon) [@deptofwar @usarmyresearchlab @nasa rashardkelly.tumblr.com/post/834010013225910272](https://rashardkelly.tumblr.com/post/834010013225910272)
 
 [@blackgirlscode @hulu https://www.teyanataylor.com/](https://www.teyanataylor.com/)
 
