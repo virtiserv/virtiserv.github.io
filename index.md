@@ -33,6 +33,8 @@ mathjax: true
 
 
   <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
+  
+  [@cnn @bbc pds-imaging.jpl.nasa.gov/tools/atlas/record?/insight_cameras/data/sol/0008/mipl/edr/idc/D000M0008_597250940EDR_F0000_0133M2.VIC](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0008/mipl/edr/idc/D000M0008_597250940EDR_F0000_0133M2.VIC)
 
 <img alt="D000M0008_597250940EDR_F0000_0133M2" src="https://github.com/user-attachments/assets/cfb82863-65d6-4738-b264-a4f402293f69" />
 
