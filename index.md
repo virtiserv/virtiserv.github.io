@@ -28,6 +28,12 @@ mathjax: true
  \\ [Mary J. Blige - Not Gon Cry](https://youtu.be/Xxk4e59M8og?si=SRnOB_AhD7x7oRJu) \\ [Telling The Truth · Mary J. Blige](https://youtu.be/ci8k4r1Ltlg?si=kIxyKn3b41p0Ueh-) // [Empty · Janet Jackson](https://youtu.be/m9rIjjGmJhM?list=RDm9rIjjGmJhM&t=17) // [Floetry - Say Yes](https://youtu.be/PCCGIXME164?list=RDm9rIjjGmJhM&t=19)
 
  ---
+## Ornithological Photography
+[codepen.io/ricoThaka/pen/OPPVWje](https://codepen.io/ricoThaka/pen/OPPVWje)
+[toddforsgren.com/ornithological-photographs#1](https://www.toddforsgren.com/ornithological-photographs#1) // [ebsco.com/research-starters/zoology/ornithology/](https://www.ebsco.com/research-starters/zoology/ornithology/)
+<img alt="image" src="https://github.com/user-attachments/assets/67f5d6b7-c408-4f16-a418-929e34a6c9c6" />
+
+
 
  @cnn @ajcnews
 [<video controls loading="lazy" width="500" height="300" poster="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS.0301_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS_1080p30.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS_1080p30.mp4)
