@@ -24,6 +24,13 @@ mathjax: true
 {{ site.time }}
  {{ site.title | default: site.github.repository_name }}
 
+
+![https://www.teyanataylor.com/wp-content/uploads/sites/1863/2025/06/logo-7.png](https://www.teyanataylor.com/wp-content/uploads/sites/1863/2025/06/logo-7.png) // [Teyana Taylor](https://www.rottentomatoes.com/celebrity/teyana_taylor) will you come forward to someone about the sonic weapon date at the pizza place @forAtlanta @nasa-jpl @CityOfLosAngeles she can explain everything real smooth @doug-newman-nasa @nasa-giss @eosdis-nasa I don't think she will lie [@raytheonbbn https://github.com/raytheon](https://github.com/raytheon) @deptofwar 
+
+[@blackgirlscode @hulu https://www.teyanataylor.com/](https://www.teyanataylor.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c0e01845-da98-4a9a-9e00-6d098244a585" />
+
 ## @vita3k
 [@vita3k](https://www.youtube.com/watch?v=NbN_CWES0uk) hi, I tried [cell damage](https://youtu.be/aM6yb0O3_u0?si=U-sP03wdWAuh4JPn) and [Lego Batman](https://www.youtube.com/watch?v=y6xlxFoYBmE) and both crash out once they get loaded to a scene pregame play the dolphin emulator was not working for me it was always Frozen, it works well on this phone a [Motorola](https://www.motorola.com/us/en/p/phones/moto-g/moto-g-play-2026/pmipmja42mq?pn=PB9H0004US&gclsrc=aw.ds&gad_source=1&gad_campaignid=8003635893&gbraid=0AAAAADqrZ8zPdKKzZg2GghnsWtQCdYJCU&gclid=EAIaIQobChMIhKGb_-ChmAMVQSRECB11hDWtEAAYAiAAEgK8jfD_BwE) : [2026 motoplay](https://www.metrobyt-mobile.com/cell-phone/motorola-moto-g-play-2026?srsltid=AYCX9vJ-koEkllShGSLi9H-FiPU2okxkjzJ7PvdcmFbht7GrPB_VhUZ2) however the performance I get from [angry birds](https://angrybirds.fandom.com/wiki/PlayStation_Vita) , and [touch screen response](https://www.youtube.com/watch?v=T4sv4HT7Mmg) let me know [Vita 3K](https://www.youtube.com/watch?v=8c5xRCNerHg) is performing well but it has some possible maybe upper memory loading issues that are causing the game to crash out on my phone like it's loading too much into memory for a cell phone, you guys might be desktop gamers and it's normal to run those amounts of memory in that part of ram because you have lots of virtual memory and big chunky RAM sticks and ssds [@cityoflosangeles @blackgirlscode](https://www.doi.gov/news_)  [@nasa-jpl @newshour @whitehouse](https://www.nasa.gov/latest-goddard-news/) //  [@Sonyresearch @jaxa @esa https://github.com/dolphin-emu](https://github.com/dolphin-emu) // [https://www.congress.gov/crs-product/IF12841 @la-county-isd](https://www.congress.gov/crs-product/IF12841) thanks @tmobile
 
