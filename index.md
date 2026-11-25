@@ -32,6 +32,10 @@ mathjax: true
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
 
+### Phytoplankton Blooms Around Los Angeles and Santa Catalina Island
+[@Landsat 8 on November 27, 2021.](https://pace.oceansciences.org/ocean_color_more.htm?id=466)
+![https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_sm.jpg](https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_sm.jpg)
+![https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_lg.jpg](https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_lg.jpg)
 
 [@foratlanta @ajcnews @stateofcalifornia @nasapace.oceansciences.org/gallery.htm](https://pace.oceansciences.org/gallery.htm)
 ![https://pace.oceansciences.org/images/PACE_OCI_2024090620240906_PACE_validation_in_California_sm.png](https://pace.oceansciences.org/images/PACE_OCI_2024090620240906_PACE_validation_in_California_sm.png)
