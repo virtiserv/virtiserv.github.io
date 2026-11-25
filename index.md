@@ -28,6 +28,13 @@ mathjax: true
  \\ [Mary J. Blige - Not Gon Cry](https://youtu.be/Xxk4e59M8og?si=SRnOB_AhD7x7oRJu) \\ [Telling The Truth · Mary J. Blige](https://youtu.be/ci8k4r1Ltlg?si=kIxyKn3b41p0Ueh-) // [Empty · Janet Jackson](https://youtu.be/m9rIjjGmJhM?list=RDm9rIjjGmJhM&t=17) // [Floetry - Say Yes](https://youtu.be/PCCGIXME164?list=RDm9rIjjGmJhM&t=19)
 
  ---
+
+ <video  height="auto" controls> 
+	 
+<source src="https://archive.org/download/vid-20250307-063619/screen-20250307-094037.mp4" type="video/mp4">	 
+
+</video> 
+
 ## Ornithological Photography
 [codepen.io/ricoThaka/pen/OPPVWje](https://codepen.io/ricoThaka/pen/OPPVWje)
 [toddforsgren.com/ornithological-photographs#1](https://www.toddforsgren.com/ornithological-photographs#1) // [ebsco.com/research-starters/zoology/ornithology/](https://www.ebsco.com/research-starters/zoology/ornithology/)
