@@ -25,9 +25,29 @@ mathjax: true
  {{ site.title | default: site.github.repository_name }}
 
 
- \\ [Mary J. Blige - Not Gon Cry](https://youtu.be/Xxk4e59M8og?si=SRnOB_AhD7x7oRJu) \\ [Telling The Truth · Mary J. Blige](https://youtu.be/ci8k4r1Ltlg?si=kIxyKn3b41p0Ueh-) // [Empty · Janet Jackson](https://youtu.be/m9rIjjGmJhM?list=RDm9rIjjGmJhM&t=17)
+ \\ [Mary J. Blige - Not Gon Cry](https://youtu.be/Xxk4e59M8og?si=SRnOB_AhD7x7oRJu) \\ [Telling The Truth · Mary J. Blige](https://youtu.be/ci8k4r1Ltlg?si=kIxyKn3b41p0Ueh-) // [Empty · Janet Jackson](https://youtu.be/m9rIjjGmJhM?list=RDm9rIjjGmJhM&t=17) // [Floetry - Say Yes](https://youtu.be/PCCGIXME164?list=RDm9rIjjGmJhM&t=19)
 
  ---
+
+ @cnn @ajcnews
+[<video controls loading="lazy" width="500" height="300" poster="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS.0301_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS_1080p30.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS_1080p30.mp4)
+
+<div class="tupperware">
+	
+<video controls>
+	<source src="https://ia600809.us.archive.org/16/items/lprm-amsr-2-d-soilm-3-001-soil-moisture-c-1-animation-video-download/screen-20250310-064725.mp4" type="video/mp4">	 
+	
+</video> 
+
+ <video controls>
+	 
+<source src="https://ia903207.us.archive.org/31/items/speed-buggy-01-speed-buggy-went-that-a-way/screen-20250301-080536.mp4" type="video/mp4">	
+	 
+</video> 
+
+</div>
+
+
 
 [@deptofwar @commercegov Work notes For 3 Weeks - RashardKelly @nasa #EARTHDATA @EOSDiS-NASA @DOUG-NEWMAN-NASA](https://codepen.io/virtiserv/pen/dPvLowB)
 <img alt="image" src="https://github.com/user-attachments/assets/c10a0935-46d6-4ee0-91de-55754db0b6ea" />
@@ -62,8 +82,6 @@ mathjax: true
 [@nasa-pds](https://eyes.nasa.gov/apps/dsn-now/dsn.html), gm [MRO](https://pds-geosciences.wustl.edu/missions/mro/default.htm) is beaming in at a hearty 4mb per second in Australia, keep  an eye out for transmission fluxes [@deptofwar we are tracking asteroids but  those don't think, but can be moved](https://science.nasa.gov/mission/dart/)
 <img   alt="image" src="https://github.com/user-attachments/assets/c53f0cd4-0f49-42d3-ac77-484e9699c4e4" />
 
-@cnn @ajcnews
-[<video controls loading="lazy" width="500" height="300" poster="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS.0301_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS_1080p30.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005676/GRACE_TWS_1080p30.mp4)
 
 ### JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height Coastal Resolution Improvement (CRI) Filtered Release 06 Version 02
 gm @nasa-jpl its @rashardikelly I was catching up on my Municipal meetings and wanted to include some lab resources for my data delivery @la-county-isd there is a form [the supervisors](https://bos.lacounty.gov/) left out with instructions . . . [@CityOFLosAngeles Supervisor Lindsey](https://lindseyhorvath.lacounty.gov/), I was watching the el nino meeting `
