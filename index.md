@@ -29,6 +29,12 @@ mathjax: true
 
  ---
 
+
+[@cnn @bbc https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0000/mipl/edr/idc/D000M0000_596535424EDR_F0000_0106M5.VIC @nasa-jpl](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/0000/mipl/edr/idc/D000M0000_596535424EDR_F0000_0106M5.VIC) 
+
+ <img   alt="D000M0000_596535424EDR_F0000_0106M5" src="https://github.com/user-attachments/assets/6ff9c291-2c6b-4c8e-bc3b-0a6215216107" />
+
+
 [@caltech pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol046/rs046eff900292308_150d0mbm1.img](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:phx:phoenix_lander:/phxrac_0xxx/data/sol046/rs046eff900292308_150d0mbm1.img)
 <img   alt="rs046eff900292308_150d0mbm1 img" src="https://github.com/user-attachments/assets/0dc6fe4d-ad56-42b8-bddb-05d136e8240d" />
 
