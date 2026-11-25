@@ -33,12 +33,16 @@ mathjax: true
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
 
 ## Monitoring California Groundwater
+### GRACE [measures](https://svs.gsfc.nasa.gov/30862/) California water
+[@NASA `Emily DeMarco` linkedin.com/in/emily-demarco-38451719](https://www.linkedin.com/in/emily-demarco-38451719) //
+[@nbcnews Hegseth Directs Military Pay System Modernization Prioritizing Warfighters @cbs-news-data @bbc @ajcnews](https://www.war.gov/News/News-Stories/Article/Article/4660118/hegseth-directs-military-pay-system-modernization-prioritizing-warfighters/) [@nasa-jpl Modernizing Total Force Pay `PDF` @nasa-pds @CityOFLosAngeles](https://media.defense.gov/2026/Nov/25/2004038216/-1/-1/1/MODERNIZING-TOTAL-FORCE-PAY.PDF)
+
 [@cityoflosangeles gracefo.jpl.nasa.gov/resources/18/global-terrestrial-water-storage-anomaly/](https://gracefo.jpl.nasa.gov/resources/18/global-terrestrial-water-storage-anomaly/)  
-@nbcnews @foratlanta @nasa-jpl [Spatially-Refined Terrestrial Water Storage Trend Maps Derived From GRACE and GRACE-FO](https://svs.gsfc.nasa.gov/5676/)
+@nbcnews @foratlanta @nasa-jpl //  [Spatially-Refined Terrestrial Water Storage Trend Maps Derived From GRACE and GRACE-FO](https://svs.gsfc.nasa.gov/5676/) 
 
-[<video controls  width="500" height="300" loading="lazy" poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg"  src="https://gracefo.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--af8499c394a3a9722b9dc301d969fa02d5f63ef8/grace_world_anom.6.mp4?disposition=inline" ](https://gracefo.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--af8499c394a3a9722b9dc301d969fa02d5f63ef8/grace_world_anom.6.mp4?disposition=inline)
+[<video controls  width="500" height="300" loading="lazy" poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg"  src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" ](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
 
-[svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg)
+
 
 [<video controls loading="lazy" width="500" height="300"  src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_2160p.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_2160p.mp4)
 
