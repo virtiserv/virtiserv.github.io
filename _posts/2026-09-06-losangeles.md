@@ -9,7 +9,7 @@ tags: covid
 permalink: losangeles
 ---
 
-![https://www.google.com/logos/doodles/2026/veterans-day-2026-6753651837111176-2xa.gif](https://www.google.com/logos/doodles/2026/veterans-day-2026-6753651837111176-2xa.gif) 
+
 
 @cityoflosangeles 
 
@@ -21,6 +21,10 @@ I love this city. I believe in its people. The work ahead will be hard, and chan
 
 Thank you, LA. Let’s get to work.</p>&mdash; Nithya Raman (@nithyavraman) @cityoflosangeles  <a href="https://x.com/nithyavraman/status/2118438804063445171?ref_src=twsrc%5Etfw">November 5, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+![https://www.google.com/logos/doodles/2026/veterans-day-2026-6753651837111176-2xa.gif](https://www.google.com/logos/doodles/2026/veterans-day-2026-6753651837111176-2xa.gif) 
+
 
 <img alt="EMIT_L1B_RAD_001_20260521T224405_2614115_004" src="https://github.com/user-attachments/assets/656f1f82-8912-4c2a-abaf-a4ca17d188c1" />
 
