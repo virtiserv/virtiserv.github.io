@@ -34,6 +34,11 @@ mathjax: true
 
 [Thanksgiving Prep 2026 @nasa-jpl @blackgirlscode](https://doodles.google/doodle/thanksgiving-prep-2026-us/)
 ![https://www.google.com/logos/doodles/2026/friendsgiving-2026-us-6753651837111022-2xa.gif](https://www.google.com/logos/doodles/2026/friendsgiving-2026-us-6753651837111022-2xa.gif)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093700_093799/ESP_093703_2060_ESP_092925_2060/ESP_093703_2060_ESP_092925_2060_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093700_093799/ESP_093703_2060_ESP_092925_2060/ESP_093703_2060_ESP_092925_2060_RED.browse.png) 
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077500_077599/ESP_077505_2650/ESP_077505_2650_COLOR.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077500_077599/ESP_077505_2650/ESP_077505_2650_COLOR.abrowse.jpg) 
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077500_077599/ESP_077505_2650/ESP_077505_2650_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_077500_077599/ESP_077505_2650/ESP_077505_2650_MRGB.abrowse.jpg) 
 
 [@CiTYOFLOSANGELES https://phytir.jpl.nasa.gov/ is blocked at LAPL Central @la-county-isd](https://phytir.jpl.nasa.gov/) && [https://weather.msfc.nasa.gov/sport/staff/hain_chris.html @nasa-jpl is blocked at LAPL Central @la-county-isd @nasa-giss ](https://weather.msfc.nasa.gov/sport/staff/hain_chris.html) && [https://usgs.gov/ @usgs @nasa-jpl is blocked at LAPL Central @la-county-isd @nasa-giss](https://usgs.gov/)
 
