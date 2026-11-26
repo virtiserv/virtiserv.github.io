@@ -9,6 +9,8 @@ tags: covid
 permalink: losangeles
 ---
 
+![https://www.google.com/logos/doodles/2026/veterans-day-2026-6753651837111176-2xa.gif](https://www.google.com/logos/doodles/2026/veterans-day-2026-6753651837111176-2xa.gif) 
+
 @cityoflosangeles 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Los Angeles, I am deeply honored to be your next mayor.
