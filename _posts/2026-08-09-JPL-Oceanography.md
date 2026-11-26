@@ -7,7 +7,9 @@ image: mermaid.webp
 mathjax: true
 ---
 
-
+## Veterans Day 2026
+[doodles.google/doodle/veterans-day-2026/](https://doodles.google/doodle/veterans-day-2026/)
+![https://www.google.com/logos/doodles/2026/veterans-day-2026-6753651837111176-2xa.gif](https://www.google.com/logos/doodles/2026/veterans-day-2026-6753651837111176-2xa.gif) 
 
 <img   alt=" @nasa @cityofsantamonica ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_ET" src="https://github.com/user-attachments/assets/c3345983-7d7d-47a1-8f98-aa0a299eb3fe" />
 
