@@ -32,6 +32,10 @@ mathjax: true
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
 
+[Thanksgiving Prep 2026 @nasa-jpl @blackgirlscode](https://doodles.google/doodle/thanksgiving-prep-2026-us/)
+![https://www.google.com/logos/doodles/2026/friendsgiving-2026-us-6753651837111022-2xa.gif](https://www.google.com/logos/doodles/2026/friendsgiving-2026-us-6753651837111022-2xa.gif)
+
+
 [ glovis.usgs.gov/app](https://glovis.usgs.gov/app)
 <img   alt="image" src="https://github.com/user-attachments/assets/8b92bdaa-bcb8-4fbe-acb9-9b1559b9b262" />
 
@@ -51,7 +55,7 @@ mathjax: true
 ## Monitoring California Groundwater
 ### GRACE [measures](https://svs.gsfc.nasa.gov/30862/) California water
 
-[<video controls  width="500" height="300" loading="lazy" poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg"  src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" ](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
+[<video controls  width="500" height="300" loading="lazy" poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg"  src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
 
 
 [@NASA `Emily DeMarco` linkedin.com/in/emily-demarco-38451719](https://www.linkedin.com/in/emily-demarco-38451719) //
