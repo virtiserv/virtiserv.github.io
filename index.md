@@ -35,7 +35,10 @@ mathjax: true
 [Thanksgiving Prep 2026 @nasa-jpl @blackgirlscode](https://doodles.google/doodle/thanksgiving-prep-2026-us/)
 ![https://www.google.com/logos/doodles/2026/friendsgiving-2026-us-6753651837111022-2xa.gif](https://www.google.com/logos/doodles/2026/friendsgiving-2026-us-6753651837111022-2xa.gif)
 
-[@CiTYOFLOSANGELES https://phytir.jpl.nasa.gov/ is blocked at LAPL Central @la-county-isd](https://phytir.jpl.nasa.gov/) 
+[@CiTYOFLOSANGELES https://phytir.jpl.nasa.gov/ is blocked at LAPL Central @la-county-isd](https://phytir.jpl.nasa.gov/) && [https://weather.msfc.nasa.gov/sport/staff/hain_chris.html @nasa-jpl is blocked at LAPL Central @la-county-isd @nasa-giss ](https://weather.msfc.nasa.gov/sport/staff/hain_chris.html)
+
+---
+
 [ glovis.usgs.gov/app](https://glovis.usgs.gov/app)
 <img   alt="image" src="https://github.com/user-attachments/assets/8b92bdaa-bcb8-4fbe-acb9-9b1559b9b262" />
 
