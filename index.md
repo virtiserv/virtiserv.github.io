@@ -32,6 +32,14 @@ mathjax: true
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
 
+
+### Manhatta Beach 
+[@nasa-jpl @blackgirlscode @usgs - surf-forecast.com/breaks/Manhattan-Beach-Pier/webcams/latest](https://www.surf-forecast.com/breaks/Manhattan-Beach-Pier/webcams/latest)
+<img  alt="image" src="https://github.com/user-attachments/assets/c579d836-38bd-43e5-aa32-f0c183d088cb" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/690bf803-1b95-4393-9bae-5919a5ea746b" />
+
 [@CiTYOFLOSANGELES](https://www.lapl.org/staff-directory) we had an earthquake that started roughly 3 and a half miles from [Manhattan Beach](https://www.reddit.com/r/news/comments/1y7skrj/50_magnitude_earthquake_strikes_manhattan_beach/)
 [MAP - https://earthquake.usgs.gov/earthquakes/map/?extent=33.65807,-118.83568&extent=34.12602,-117.79198&showUSFaults=true&baseLayer=satellite](https://earthquake.usgs.gov/earthquakes/map/?extent=33.65807,-118.83568&extent=34.12602,-117.79198&showUSFaults=true&baseLayer=satellite)  @usgs @nasa-jpl @la-county-isd @cbs-news-data @foxbroadcasting @newshour @nbcnews @blackgirlscode
 
