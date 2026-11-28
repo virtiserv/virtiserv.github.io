@@ -33,7 +33,7 @@ mathjax: true
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
 
 
-### Manhatta Beach 
+### Manhattan Beach 
 [@nasa-jpl @blackgirlscode @usgs - surf-forecast.com/breaks/Manhattan-Beach-Pier/webcams/latest](https://www.surf-forecast.com/breaks/Manhattan-Beach-Pier/webcams/latest)
 <img  alt="image" src="https://github.com/user-attachments/assets/c579d836-38bd-43e5-aa32-f0c183d088cb" />
 
