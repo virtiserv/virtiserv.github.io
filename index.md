@@ -32,7 +32,22 @@ mathjax: true
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/961-the-beat-741/?embed=true" frameborder="0"></iframe>
 
+[@CiTYOFLOSANGELES](https://www.lapl.org/staff-directory) we had an earthquake that started roughly 3 and a half miles from [Manhattan Beach](https://www.reddit.com/r/news/comments/1y7skrj/50_magnitude_earthquake_strikes_manhattan_beach/)
+[MAP - https://earthquake.usgs.gov/earthquakes/map/?extent=33.65807,-118.83568&extent=34.12602,-117.79198&showUSFaults=true&baseLayer=satellite](https://earthquake.usgs.gov/earthquakes/map/?extent=33.65807,-118.83568&extent=34.12602,-117.79198&showUSFaults=true&baseLayer=satellite)  @usgs @nasa-jpl @la-county-isd @cbs-news-data @foxbroadcasting @newshour @nbcnews @blackgirlscode
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b4c1e42-7b14-4ec5-b22a-ea05df86f7ce" />
+
+[`WATCH` - Breaking: Preliminary 4.7-magnitude strikes Manhattan Beach](https://youtu.be/jQr0gJqvYtw?t=1) // [@KTLA A magnitude 5 earthquake hits California, USGS says; no immediate reports of injuries](https://ktla.com/news/ap-us-news/ap-a-5-magnitude-earthquake-hits-california-usgs-says-no-immediate-reports-of-injuries/)
+<img   alt="image" src="https://github.com/user-attachments/assets/1d48050e-3ccc-4e78-86d8-67eda91fdf54" />
+
+
+
+
 [Thanksgiving Prep 2026 @nasa-jpl @blackgirlscode](https://doodles.google/doodle/thanksgiving-prep-2026-us/)
+![https://www.google.com/logos/doodles/2026/thanksgiving-parade-2026-us-6753651837111385-2xa.gif](https://www.google.com/logos/doodles/2026/thanksgiving-parade-2026-us-6753651837111385-2xa.gif)
+![https://www.google.com/logos/doodles/2026/thanksgiving-2026-us-6753651837111386-2xa.gif](https://www.google.com/logos/doodles/2026/thanksgiving-2026-us-6753651837111386-2xa.gif)
+
+
 ![https://www.google.com/logos/doodles/2026/friendsgiving-2026-us-6753651837111022-2xa.gif](https://www.google.com/logos/doodles/2026/friendsgiving-2026-us-6753651837111022-2xa.gif)
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093700_093799/ESP_093703_2060_ESP_092925_2060/ESP_093703_2060_ESP_092925_2060_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_093700_093799/ESP_093703_2060_ESP_092925_2060/ESP_093703_2060_ESP_092925_2060_RED.browse.png) 
 
